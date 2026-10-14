@@ -1,0 +1,26 @@
+# Raw data (downloaded from Jeff Sackmann's tennis_atp, not versioned)
+data/raw/
+ 
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+ 
+# Virtual environments
+.venv/
+venv/
+env/
+ 
+# Jupyter
+.ipynb_checkpoints/
+ 
+# Environment variables and secrets
+.env
+ 
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

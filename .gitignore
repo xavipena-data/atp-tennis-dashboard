@@ -1,5 +1,6 @@
 # Raw data (downloaded from Jeff Sackmann's tennis_atp, not versioned)
 data/raw/
+data/interim/
  
 # Python
 __pycache__/

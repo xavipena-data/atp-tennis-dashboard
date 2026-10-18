@@ -20,6 +20,11 @@ LAST_SEASON = 2025  # the 2026 file is a partial season, so it is excluded
 # Left out: D (Fed Cup), O (Olympics), CC (ITF circuits), E, 50+H, 35+H, J.
 TOUR_LEVELS = {"G", "W", "I", "P", "PM", "T1", "T2", "T3", "T4", "T5", "F"}
 
+# Team events that sit inside the main-tour levels. Ties between countries carry
+# the pairing in the tournament name (e.g. "Athens Balkan Games BUL vs GRE");
+# United Cup is a mixed team event.
+TEAM_EVENT_PATTERN = r"\bvs\b|^United Cup$"
+
 # Spellings the "most frequent wins" rule would get wrong (a tie, or the minority
 # spelling is the correct one). Mapped after the casing step, so it works either way.
 NAME_FIXES = {
@@ -97,12 +102,20 @@ def normalise_tournament_names(matches):
 
 
 def apply_scope(matches):
-    """Keep only the main-tour levels."""
+    """Keep only the main-tour levels, and only individual (non-team) events."""
     before = len(matches)
     out = ~matches["tourney_level"].isin(TOUR_LEVELS)
     print("Scope: rows dropped by level:")
     print(matches.loc[out, "tourney_level"].value_counts().to_string())
     matches = matches[~out].copy()
+
+    team = matches["tourney_name"].str.contains(
+        TEAM_EVENT_PATTERN, case=False, regex=True, na=False
+    )
+    print(f"Scope: team-event rows dropped: {team.sum():,} "
+          f"({matches.loc[team, 'tourney_name'].nunique()} event names)")
+    matches = matches[~team].copy()
+
     print(f"Scope: {before:,} -> {len(matches):,} rows")
     return matches
 

@@ -1,0 +1,5932 @@
+player_id,name,ioc
+200001,Martina Hingis,SUI
+200002,Mirjana Lucic,CRO
+200003,Justine Henin,BEL
+200004,Kerry Anne Guse,AUS
+200005,Jolene Watanabe,USA
+200006,Karina Habsudova,SVK
+200007,Silvija Talaja,CRO
+200008,Alicia Molik,AUS
+200009,Tamarine Tanasugarn,THA
+200010,Rita Grande,ITA
+200011,Katarina Srebotnik,SLO
+200012,Jana Nejedly,CAN
+200013,Angelica Gavaldon,MEX
+200014,Tzipi Obziler,ISR
+200015,Petra Mandula,HUN
+200016,Sandrine Testud,FRA
+200017,Arantxa Sanchez Vicario,ESP
+200018,Julia Abe,GER
+200019,Alexandra Fusai,FRA
+200020,Lisa Raymond,USA
+200021,Alexia Dechaume Balleret,FRA
+200022,Emmanuelle Gagliardi,SUI
+200023,Bryanne Stewart,AUS
+200024,Maria Vento Kabchi,VEN
+200025,Ludmila Cervanova,SVK
+200026,Florencia Labat,ARG
+200027,Magui Serna,ESP
+200028,Maureen Drake,CAN
+200029,Lisa Mcshea,AUS
+200030,Miroslava Vavrinec,SUI
+200031,Meilen Tu,USA
+200032,Barbara Schett,AUT
+200033,Serena Williams,USA
+200034,Amanda Grahame,AUS
+200035,Maria Sanchez Lorenzo,ESP
+200036,Nicole Pratt,AUS
+200037,Sabine Appelmans,BEL
+200038,Annabel Ellwood,AUS
+200039,Chanda Rubin,USA
+200040,Anna Smashnova,ISR
+200041,Amy Frazier,USA
+200042,Els Callens,BEL
+200043,Virginie Razzano,FRA
+200044,Denisa Chladkova,CZE
+200045,Tara Snyder,USA
+200046,Meghann Shaughnessy,USA
+200047,Pavlina Nola,NZL
+200048,Elena Likhovtseva,RUS
+200049,Conchita Martinez,ESP
+200050,Sandra Kleinova,CZE
+200051,Irina Spirlea,ROU
+200052,Olga Barabanschikova,BLR
+200053,Lubomira Bacheva,BUL
+200054,Sylvia Plischke,AUT
+200055,Mariana Diaz Oliva,ARG
+200056,Jelena Kostanic Tosic,CRO
+200057,Erika De Lone,USA
+200058,Anna Foldenyi Dicker,HUN
+200059,Ruxandra Dragomir Ilie,ROU
+200060,Tathiana Garbin,ITA
+200061,Gala Leon Garcia,ESP
+200062,Kristina Brandi,PUR
+200063,Tatiana Panova,RUS
+200064,Amanda Coetzer,RSA
+200065,Amelie Mauresmo,FRA
+200066,Cristina Torrens Valero,ESP
+200067,Patty Schnyder,SUI
+200068,Lilia Osterloh,USA
+200069,Nadia Petrova,RUS
+200070,Anne Gaelle Sidot,FRA
+200071,Lenka Nemeckova,CZE
+200072,Cara Black,ZIM
+200073,Julie Pullin,GBR
+200074,Jane Chi,USA
+200075,Jing Qian Yi,CHN
+200076,Laurence Courtois,BEL
+200077,Jennifer Capriati,USA
+200078,Barbara Schwartz,AUT
+200079,Kim Clijsters,BEL
+200080,Dominique Monami,BEL
+200081,Anke Huber,GER
+200082,Kristie Boogert,NED
+200083,Alexandra Stevenson,USA
+200084,Asa Carlsson,SWE
+200085,Ai Sugiyama,JPN
+200086,Magdalena Maleeva,BUL
+200087,Seda Noorlander,NED
+200088,Adriana Gersi,CZE
+200089,Miriam Oremans,NED
+200090,Anca Barna,GER
+200091,Janet Lee,TPE
+200092,Sandra Nacuk,SCG
+200093,Amelie Cocheteux,FRA
+200094,Barbara Rittner,GER
+200095,Linda Wild,USA
+200096,Mary Pierce,FRA
+200097,Nathalie Tauziat,FRA
+200098,Henrieta Nagyova,SVK
+200099,Sonya Jeyaseelan,CAN
+200100,Amanda Hopmans,NED
+200101,Jana Kandarr,GER
+200102,Melissa Dowse,AUS
+200103,Evie Dominikovic,AUS
+200104,Emilie Loit,FRA
+200105,Rachel Mcquillan,AUS
+200106,Angeles Montolio,ESP
+200107,Paola Suarez,ARG
+200108,Elena Dementieva,RUS
+200109,Nathalie Dechy,FRA
+200110,Fabiola Zuluaga,COL
+200111,Lina Krasnoroutskaya,RUS
+200112,Julie Halard Decugis,FRA
+200113,Anna Kournikova,RUS
+200114,Patricia Wartusch,AUT
+200115,Brie Rippner,USA
+200116,Natalia Zvereva,BLR
+200117,Kveta Peschke,CZE
+200118,Virginia Ruano Pascual,ESP
+200119,Rita Kuti Kis,HUN
+200120,Jelena Dokic,AUS
+200121,Alina Jidkova,RUS
+200122,Tina Pisnik,SLO
+200123,Marlene Weingartner,GER
+200124,Anne Kremer,LUX
+200125,Corina Morariu,USA
+200126,Marissa Irvin,USA
+200127,Sarah Pitkowski Malcor,FRA
+200128,Lindsay Davenport,USA
+200129,Lesley Turner,AUS
+200130,Dorothy Whitely,AUS
+200131,Judith Dibar,ROU
+200132,Kay Williams,AUS
+200133,Eva Duldig,NED
+200134,Kerry Ballard,AUS
+200135,Lorraine Coghlan,AUS
+200136,Valerie Caulley,AUS
+200137,L Griffiths,AUS
+200138,Sandra Hole,AUS
+200139,Lita Liem,INA
+200140,Beryl Jenkins,AUS
+200141,Wendy Gilchrist,AUS
+200142,Loris Butterfield,AUS
+200143,Kathleen Harter,USA
+200144,Margaret Court,AUS
+200145,Kerry Harris,AUS
+200146,Cynthia Doerner,AUS
+200147,Geri Shepard,USA
+200148,Marilyn Tesch,AUS
+200149,Helen Sheedy,AUS
+200150,Evonne Goolagong,AUS
+200151,Ada Bakker,NED
+200152,Gail Sherriff,FRA
+200153,Sheila Washbourne,AUS
+200154,Sandra Stephen,AUS
+200155,Lexie Kenny,AUS
+200156,Lynette Mansfield,AUS
+200157,Lynne Nette,AUS
+200158,Carol Sherriff,AUS
+200159,Rosie Casals,USA
+200160,Judy Tegart,AUS
+200161,Janine Whyte,AUS
+200162,Judith Salome,NED
+200163,Helen Oconnor,AUS
+200164,Joan Johnson,USA
+200165,Lany Kaligis,INA
+200166,Patricia Edwards,AUS
+200167,Heather Mckechnie,AUS
+200168,Karen Krantzcke,AUS
+200169,Ann Jenkins,AUS
+200170,Beverley Rae,AUS
+200171,Janet Young,AUS
+200172,Caroline Cooper,AUS
+200173,Kaye Dening,AUS
+200174,Kerry Wilkinson,AUS
+200175,Mary Ann Eisel,USA
+200176,Kerry Reid,AUS
+200177,Alison Mckenzie,AUS
+200178,Sue Hastings,AUS
+200179,Barbara Hawcroft,AUS
+200180,Astrid Suurbeek,NED
+200181,Margaret Starr,AUS
+200182,E Staples,AUS
+200183,Elena Subirats,MEX
+200184,Helen Gourlay,AUS
+200185,Lesley Hunt,AUS
+200186,Yveline Boy,FRA
+200187,Janine Murdoch,AUS
+200188,Helen Amos,AUS
+200189,Denise Brennan,AUS
+200190,Billie Jean King,USA
+200191,Frances Luff,AUS
+200192,Helen Kayser,AUS
+200193,Ann Jones,GBR
+200194,Francoise Durr,FRA
+200195,Helen Rush,AUS
+200196,Kerryl Chute,AUS
+200197,Pamela Brand,AUS
+200198,Caroline Langsford,AUS
+200199,Sally Irvine,AUS
+200200,Norma Marsh,AUS
+200201,Sharon Thomson,AUS
+200202,Theresa Van Haren,AUS
+200203,Vicki Lancaster Kerr,AUS
+200204,Sandra Walsham,AUS
+200205,Judy Harris,AUS
+200206,L Cameron,AUS
+200207,Cheryl Norquay,AUS
+200208,Mandy Morgan,AUS
+200209,Wendy Turnbull,AUS
+200210,Norma Eastburn,AUS
+200211,Winnie Shaw,GBR
+200212,Elizabeth Allan,AUS
+200213,Jan Lehane,AUS
+200214,Christina Sandberg,SWE
+200215,Susan Alexander,AUS
+200216,Janet Fallis,AUS
+200217,Adrienne Avis,AUS
+200219,Patricia Coleman,AUS
+200220,Patti Hogan,USA
+200221,Dianne Fromholtz,AUS
+200222,Anne Coleman,AUS
+200223,Sharon Walsh Pete,USA
+200224,Kati Athorne,AUS
+200225,Helen Worland,AUS
+200226,Mona Guerrant,USA
+200227,Diane James,AUS
+200228,Olga Morozova,URS
+200229,Robyn Knobel,AUS
+200230,Patricia Billing,AUS
+200231,Brenda Dart,AUS
+200232,Ann Lebedeff,USA
+200233,Chris Matison,AUS
+200234,Pam Whytcross,AUS
+200235,Maureen Mccalman,AUS
+200236,Patricia King,AUS
+200237,Virginia Wade,GBR
+200238,Nathalie Fuchs,FRA
+200239,Kathy Walker,AUS
+200240,Eugenia Birioukova,AZE
+200241,Duk Hee Lee,KOR
+200242,Helen Young,AUS
+200243,Glynis Coles,GBR
+200244,Moira Whitely,AUS
+200245,Soon Oh Lee,KOR
+200246,Leslie Walker,AUS
+200247,Dorte Ekner,DEN
+200248,Marion Proisy,FRA
+200249,Joan Walker,ZIM
+200250,Lindsay Blachford,GBR
+200251,Kazuko Sawamatsu,JPN
+200252,Monique Van Haver,BEL
+200253,Kiyoko Nomura,JPN
+200254,Michele Gurdal,BEL
+200255,Lesley Charles,GBR
+200256,Chris Oneil,AUS
+200257,Helen Crozier,AUS
+200258,Jeong Soon Yang,KOR
+200259,Chris Evert,USA
+200260,Katerleen Szeman,HUN
+200261,Toshiko Sade,JPN
+200262,Jenny Walker,AUS
+200263,Janet Newberry,USA
+200264,Helena Anliot,SWE
+200265,Lindsey Beaven,GBR
+200266,Sue Barker,GBR
+200267,Isabelle Larsson,SWE
+200268,Frances Candy,AUS
+200269,Jill Schwikert,USA
+200270,Nellemieke Brouwer,NED
+200271,Margareta Strandberg,SWE
+200272,Brenda Dale,AUS
+200273,Nerida Gregory,AUS
+200274,Julie Heldman,USA
+200275,Ann Kiyomura Hayashi,USA
+200276,J D Griffiths,AUS
+200277,Anneloes Schothurst,NED
+200278,Sally Arnott,AUS
+200279,Gail Williams,AUS
+200280,Joy Schwikert,USA
+200281,Jackie Fayter,GBR
+200282,Jenny Dimond,AUS
+200283,Pam Teeguarden,USA
+200284,Nora Blom,NED
+200285,Mimi Wikstedt,SWE
+200286,Peggy Michel,USA
+200287,Miki Yokobori,JPN
+200288,Sue Mappin,GBR
+200289,Chris Cerato,AUS
+200290,Deborah Fiuza,POR
+200291,Dianne Evers,AUS
+200292,Vivicca Andersson,SWE
+200293,Martina Navratilova,USA
+200294,Gwen Stirton,AUS
+200295,Ai Iida,JPN
+200296,Belinda Thompson,GBR
+200297,Natasha Chmyreva,URS
+200298,Laura Dupont,USA
+200299,Kaye Hallam,AUS
+200300,Sally Greer,USA
+200301,Lois Raymond,AUS
+200302,Linda Mottram,GBR
+200303,Julie Staines,AUS
+200304,Cheree Walker,NZL
+200305,Carol Draper,AUS
+200306,Jan Wilton,AUS
+200307,Kerry Neill,AUS
+200308,Kym Ruddell,AUS
+200309,Merrilyn Robinson,AUS
+200310,Julie Hanrahan,AUS
+200311,Cecilia Martinez,USA
+200312,Frederique Thibault,FRA
+200313,Lotta Stenberg,SWE
+200314,Brigitte Simon Glinel,FRA
+200315,Nina Bohm,SWE
+200316,Heidi Eisterlehner,GER
+200317,Helga Masthoff,FRG
+200318,Michelle Tyler,GBR
+200319,Cathy Griffiths,AUS
+200320,Renata Tomanova,GER
+200321,Elisabeth Ekblom,SWE
+200322,Karen Gulley,AUS
+200323,Rene Blount,USA
+200324,Beth Norton,USA
+200325,Leanne Harrison Austin,AUS
+200326,Naoko Sato,JPN
+200327,Birgitte Hermansen,DEN
+200328,Patricia Bostrom,USA
+200329,Mary Sawyer,AUS
+200330,Sue Saliba,AUS
+200331,Kim Sands,USA
+200332,Amanda Tobin,AUS
+200333,Betsy Nagelsen,USA
+200334,Sabina Simmonds,ITA
+200335,Judy Chaloner,NZL
+200336,Keryn Pratt,AUS
+200337,Virginia Ruzici,ROU
+200338,Elizabeth Little,AUS
+200339,Linda Cassell,AUS
+200340,Marcella Mesker,NED
+200341,Jutta Diesslin,FRG
+200342,Chris Newton,NZL
+200343,Susan Leo,AUS
+200344,Barbara Jordan,USA
+200345,Brenda Catton,AUS
+200346,Anne Minter,AUS
+200347,Bernadette Randall,AUS
+200348,Hana Mandlikova,AUS
+200349,Diane Morrison,USA
+200350,Felicia Hutnick,USA
+200351,Lindsay Morse,USA
+200352,Greer Stevens,RSA
+200353,Lele Forood,USA
+200354,Claudia Kohde Kilsch,GER
+200355,Diane Desfor,USA
+200356,Betty Stove,NED
+200357,Rosalyn Fairbank,USA
+200358,Marcie Louie,USA
+200359,Christiane Jolissaint,SUI
+200360,Pam Shriver,USA
+200361,Marie Pinterova,HUN
+200362,Liz Smylie,AUS
+200363,Hana Strachonova,SUI
+200364,Barbara Hallquist,USA
+200365,Tanya Harford,RSA
+200366,Sylvia Hanika,GER
+200367,Nanette Schutte,NED
+200368,Miranda Yates,AUS
+200369,Candy Reynolds,USA
+200370,Marie Christine Calleja,FRA
+200371,Mima Jausovec,SLO
+200372,Bettina Bunge,GER
+200373,Bonnie Gadusek,USA
+200374,Helga Lutten,GER
+200375,Barbara Potter,USA
+200376,Katerina Bohmova,CZE
+200377,Helena Sukova,CZE
+200378,Anne Smith,USA
+200379,Paula Smith,USA
+200380,Nancy Yeargin,USA
+200381,Andrea Jaeger,USA
+200382,Isabelle Villiger,SUI
+200383,Anne Hobbs,GBR
+200384,Eva Pfaff,GER
+200385,Brenda Remilton,AUS
+200386,Corinne Vanier,FRA
+200387,Anne White,USA
+200388,Leslie Allen,USA
+200389,Kathy Jordan,USA
+200390,Mary Lou Piatek,USA
+200391,Sherry Acker,USA
+200392,Jo Durie,GBR
+200393,Lea Antonoplis,USA
+200394,Marjorie Blackwood,CAN
+200395,Catherine Tanvier,FRA
+200396,Kim Steinmetz,USA
+200397,Tracy Austin,USA
+200398,Iva Budarova,TCH
+200399,Jennifer Mundel,RSA
+200400,Kate Latham,USA
+200401,Manuela Maleeva Fragniere,SUI
+200402,Wendy White,USA
+200403,Andrea Leand,USA
+200404,Zina Garrison,USA
+200405,Susan Mascarin,USA
+200406,Claudia Monteiro,BRA
+200407,Camille Benjamin,USA
+200408,Alycia Moulton,USA
+200409,Petra Delhees Jauch,SUI
+200410,Yvonne Vermaak,RSA
+200411,Jane Preyer,USA
+200412,Vicki Nelson,USA
+200413,Heather Ludloff,USA
+200414,Steffi Graf,GER
+200415,Catherine Suire,FRA
+200416,Robin White,USA
+200417,Gigi Fernandez,USA
+200418,Amanda Brown,GBR
+200419,Kathy Rinaldi Stunkel,USA
+200420,Anna Maria Fernandez,USA
+200421,Pascale Paradis Mangon,FRA
+200422,Raffaella Reggi Concato,ITA
+200423,Carling Bassett Seguso,CAN
+200424,Etsuko Inoue,JPN
+200425,Sophie Amiach,FRA
+200426,Kim Staunton,AUS
+200427,Beth Herr,USA
+200428,Lori Mcneil,USA
+200429,Elizabeth Minter,AUS
+200430,Marcela Skuherska,TCH
+200431,Lilian Drescher,SUI
+200432,Laura Bernstein,USA
+200433,Kim Jones,USA
+200434,Shelley Solomon,USA
+200435,Barbara Gerken,USA
+200436,Carina Karlsson,SWE
+200437,Annabel Croft,GBR
+200438,Michaela Washington,USA
+200439,Jenny Byrne,AUS
+200440,Shawn Foltz,USA
+200441,Louise Field,AUS
+200442,Andrea Temesvari,HUN
+200443,Sara Gomer,GBR
+200444,Elise Burgin,USA
+200445,Svetlana Cherneva,RUS
+200446,Colleen Carney,AUS
+200447,Adriana Villagran Reami,ARG
+200448,Sandy Collins,USA
+200449,Petra Keppeler,GER
+200450,Larisa Savchenko,URS
+200451,Beverly Mould,RSA
+200452,Tine Scheuer Larsen,DEN
+200453,Catarina Lindqvist Ryan,SWE
+200454,Myriam Schropp,GER
+200455,Katerina Maleeva,BUL
+200456,Masako Yanagi,JPN
+200457,Andrea Holikova,TCH
+200458,Rebecca Bryant,AUS
+200459,Linda Gates,USA
+200460,Regina Marsikova,CZE
+200461,Lisa Spain Short,USA
+200462,Belinda Cordwell,NZL
+200463,Terry Holladay,USA
+200464,Ann Henricksson,USA
+200465,Lisa Bonder Kreiss,USA
+200466,Molly Van Nostrand,USA
+200467,Janine Tremelling,AUS
+200468,Hu Na,USA
+200469,Nicole Bradtke,AUS
+200470,Dee Ann Hansel,USA
+200471,Jamie Golder,USA
+200472,Helen Kelesi,CAN
+200473,Beverly Bowes,USA
+200474,Louise Allen,USA
+200475,Lisa Oneill,AUS
+200476,Cammy Macgregor,USA
+200477,Susan Rimes,USA
+200478,Caryn Copeland Wilson,USA
+200479,Emiko Okagawa,JPN
+200480,Claudia Porwik,GER
+200481,Elna Reinach,RSA
+200482,Judith Wiesner,AUT
+200483,Kumiko Okamoto,JPN
+200484,Ann Devries,BEL
+200485,Manon Bollegraf,NED
+200486,Csilla Cserepy,SUI
+200487,Eva Krapl,SUI
+200488,Alison Scott,AUS
+200489,Yukie Koizumi,JPN
+200490,Michaela Pazderova,TCH
+200491,Christina Singer,GER
+200492,Tina Mochizuki,USA
+200493,Marianne Van Der Torre,NED
+200494,Dianne Van Rensburg,RSA
+200495,Akiko Kijimuta,JPN
+200496,Terry Phelps,USA
+200497,Patricia Hy Boulais,CAN
+200498,Michelle Jaggard Lai,AUS
+200499,Sally Mccann,AUS
+200500,Pilar Vasquez,PER
+200501,Marianne Werdel Witmeyer,USA
+200502,Andrea Betzner,GER
+200503,Gretchen Magers,USA
+200504,Julie Salmon,GBR
+200505,Michelle Bowrey,AUS
+200506,Wiltrud Probst,GER
+200507,Kathrin Keil,USA
+200508,Virginie Paquet,FRA
+200509,Michelle Turk,AUS
+200510,Julie Richardson,NZL
+200511,Amy Jonsson,NOR
+200512,Clare Thompson,AUS
+200513,Pamela Jung,USA
+200514,Monique Javer,GBR
+200515,Lindsay Bartlett,USA
+200516,Jennifer Fuchs,USA
+200517,Xanthe Adams,AUS
+200518,Paulette Moreno,HKG
+200519,Sybille Niox Chateau,FRA
+200520,Sarah Loosemore,GBR
+200521,Hellas Ter Riet,NED
+200522,Nicole Jagerman,NED
+200523,Olga Tsarbopoulou,GRE
+200524,Karen Deed,AUS
+200525,Jennifer Goodling,USA
+200526,Carol Christian,USA
+200527,Maria Christine Damas,FRA
+200528,Katie Rickett,GBR
+200529,Jill Smoller,USA
+200530,Radomira Zrubakova,SVK
+200531,Elizabeth Galphin,USA
+200532,Maider Laval,FRA
+200533,Pam Casale,USA
+200534,Melissa Brown,USA
+200535,Jo Anne Faull,AUS
+200536,Stephanie Faulkner,AUS
+200537,Cynthia Macgregor,USA
+200538,Akemi Nishiya,JPN
+200539,Jana Novotna,CZE
+200540,Amy Schwartz,USA
+200541,Sherri Norris,USA
+200542,Clare Wood,GBR
+200543,Jill Hetherington,CAN
+200544,Celine Cohen,SUI
+200545,Ei Iida,JPN
+200546,Stephanie Savides,USA
+200547,Sandra Wasserman,BEL
+200548,Patty Fendick,USA
+200549,Penny Barg,USA
+200550,Emmanuelle Derly,FRA
+200551,Teresa Edgar,GBR
+200552,Maria Lindstrom,SWE
+200553,Carin Bakkum,NED
+200554,Brenda Schultz Mccarthy,NED
+200555,Valda Lake,GBR
+200556,Wendy Wood,USA
+200557,Katrina Adams,USA
+200558,Leigh Anne Eldredge,USA
+200559,Kristine Kunce,AUS
+200560,Rene Simpson,CAN
+200561,Cathy Caverzasio,SUI
+200562,Martina Pawlik,GER
+200563,Jane Taylor,AUS
+200564,Hester Witvoet,NED
+200565,Nathalie Guerree Spitzer,FRA
+200566,Donna Faber,USA
+200567,Jennifer Santrock,USA
+200568,Andrea Farley,USA
+200569,Petra Langrova,TCH
+200570,Veronika Martinek,GER
+200571,Jonna Jonerup,SWE
+200572,Gabriela Sabatini,ARG
+200573,Cecilia Dahlman,SWE
+200574,Eva Sviglerova,CZE
+200575,Anna Ivan,USA
+200576,Nathalie Herreman,FRA
+200577,Louise Stacey,AUS
+200578,Rennae Stubbs,AUS
+200579,Karin Kschwendt,AUT
+200580,Kimberly Kessaris,USA
+200581,Tamaka Takagi,JPN
+200582,Maria Strandlund Tomsvik,SWE
+200583,Laxmi Poruri,USA
+200584,Laura Golarsa,ITA
+200585,Kathy Horvath,USA
+200586,Federica Bonsignori,ITA
+200587,Silke Meier,GER
+200588,Renata Baranski,POL
+200589,Halle Cioffi,USA
+200590,Gisele Miro,BRA
+200591,Ronni Reis,USA
+200592,Sandrine Jaquet,SUI
+200593,Karine Quentrec,FRA
+200594,Iwona Kuczynska,POL
+200595,Ann Grossman,USA
+200596,Sabine Krein Auer,GER
+200597,Mary Joe Fernandez,USA
+200598,Jeri Ingram,USA
+200599,Carrie Cunningham,USA
+200600,Simone Schilder,NED
+200601,Leila Meskhi,GEO
+200602,Shaun Stafford,USA
+200603,Justine Hodder,AUS
+200604,Barbara Paulus,AUT
+200605,Regina Rajchrtova,TCH
+200606,Nana Smith,JPN
+200607,Beate Reinstadler,AUT
+200608,Audra Keller,USA
+200609,Steffi Menning,GER
+200610,Stacey Martin,USA
+200611,Tracey Morton Rodgers,AUS
+200612,Natalia Medvedeva,UKR
+200613,Lise Gregory,RSA
+200614,Elena Pampoulova,BUL
+200615,Kristin Godridge,HKG
+200616,Pascale Etchemendy,FRA
+200617,Kimiko Date Krumm,JPN
+200618,Eva Maria Schurhoff,GER
+200619,Kate Mcdonald,AUS
+200620,Kirrily Sharpe,AUS
+200621,Isabelle Demongeot,FRA
+200622,Maya Kidowaki,JPN
+200623,Petra Thoren,FIN
+200624,Tami Whitlinger Jones,USA
+200625,Jana Pospisilova,CZE
+200626,Emanuela Zardo,SUI
+200627,Petra Schwarz,AUT
+200628,Sabrina Goles,YUG
+200629,Cristina Tessi,ARG
+200630,Laura Arraya,PER
+200631,Maria Ekstrand,SWE
+200632,Andrea Strnadova,CZE
+200633,Stacey Schefflin,USA
+200634,Elena Brioukhovets,UKR
+200635,Ingelise Driehuis,NED
+200636,Danielle Jones,AUS
+200637,Catherine Barclay,AUS
+200638,Stephanie Rottier,NED
+200639,Claudine Toleafoa,NZL
+200640,Mercedes Paz,ARG
+200641,Patricia Tarabini,ARG
+200642,Denisa Szabova,SVK
+200643,Petra Kamstra,NED
+200644,Naoko Sawamatsu,JPN
+200645,Maja Zivec Skulj,GER
+200646,Francesca Romano,ITA
+200647,Noelle Van Lottum,FRA
+200648,Marketa Kochta,GER
+200649,Ginger Helgeson,USA
+200650,Isabel Cueto,GER
+200651,Sabine Hack,GER
+200652,Monica Seles,USA
+200653,Yayuk Basuki,INA
+200654,Patty Oreilly,USA
+200655,Nicole Arendt,USA
+200656,Jessica Emmons,USA
+200657,Radka Bobkova,CZE
+200658,Fang Li,CHN
+200659,Rika Hiraki,JPN
+200660,Kimberly Po Messerli,USA
+200661,Samantha Smith,GBR
+200662,Joanne Limmer,AUS
+200663,Nanne Dahlman,FIN
+200664,Stephanie Rehe,USA
+200665,Yone Kamio,JPN
+200666,Marion Maruska,AUT
+200667,Ines Gorrochategui,ARG
+200668,Silke Frankl,GER
+200669,Debbie Graham,USA
+200670,Nathalie Housset,FRA
+200671,Meike Babel,GER
+200672,Barbara Mulej,SLO
+200673,Susan Sloane Lundy,USA
+200674,Bettina Fulco,ARG
+200675,Eugenia Maniokova,RUS
+200676,Mana Endo,JPN
+200677,Katja Oeljeklaus,GER
+200678,Gloria Pizzichini,ITA
+200679,Caroline Kuhlman,USA
+200680,Nadin Ercegovic,CRO
+200681,Natalia Baudone,ITA
+200682,Joannette Kruger,RSA
+200683,Monique Kiene,NED
+200684,Shi Ting Wang,TPE
+200685,Christelle Fauche,SUI
+200686,Sandra Dopfer,AUT
+200687,Katarzyna Nowak,POL
+200688,Noelia Perez Penate,ESP
+200689,Tessa Price,RSA
+200690,Kyoko Nagatsuka,JPN
+200691,Flora Perfetti,ITA
+200692,Marzia Grossi,ITA
+200693,Elena Makarova,RUS
+200694,Elly Hakami,USA
+200695,Tina Krizan,SLO
+200696,Christina Papadaki,GRE
+200697,Janette Husarova,SVK
+200698,Petra Begerow,GER
+200699,Meredith Mcgrath,USA
+200700,Silvia Farina Elia,ITA
+200701,Caroline Vis,NED
+200702,Naoko Kijimuta,JPN
+200703,Katarina Studenikova,SVK
+200704,Maria Jose Gaidano,ARG
+200705,Linda Ferrando,ITA
+200706,Catalina Cristea,ROU
+200707,Romana Tedjakusuma,INA
+200708,Sandra Cacic,USA
+200709,Rossana De Los Rios,PAR
+200710,Magdalena Feistel,POL
+200711,Tatiana Ignatieva,BLR
+200712,Katerina Kroupova,CZE
+200713,Yuka Yoshida,JPN
+200714,Yvette Basting,NED
+200715,Mariaan De Swardt,RSA
+200716,Sung Hee Park,KOR
+200717,Anne Miller,USA
+200718,Ludmila Richterova,CZE
+200719,Siobhan Drake Brockman,AUS
+200720,Dally Randriantefy,MAD
+200721,Hiromi Nagano,JPN
+200722,Francesca Lubiani,ITA
+200723,Iva Majoli,CRO
+200724,Lea Ghirardi,FRA
+200725,Sandra Cecchini,ITA
+200726,Nancy Feber,BEL
+200727,Adriana Serra Zanetti,ITA
+200728,Melanie Schnell,AUT
+200729,Lindsay Lee Waters,USA
+200730,Min Tang,HKG
+200731,Gail Biggs,AUS
+200732,Magdalena Grzybowska,POL
+200733,Trudi Musgrave,AUS
+200734,Tatjana Jecmenica,SRB
+200735,Miho Saeki,JPN
+200736,Li Ling Chen,CHN
+200737,Aleksandra Olsza,POL
+200738,Lenka Cenkova,CZE
+200739,Stephanie De Ville,BEL
+200740,Elena Tatarkova,UKR
+200741,Renee Reid,AUS
+200742,Olga Lugina,UKR
+200743,Nirupama Vaidyanathan,IND
+200744,Svetlana Krivencheva,BUL
+200745,Andrea Glass,GER
+200746,Sandra Kloesel,GER
+200747,Haruka Inoue,JPN
+200748,Venus Williams,USA
+200749,Samantha Reeves,USA
+200750,Karin Miller,USA
+200751,Conchita Martinez Granados,ESP
+200752,Raluca Sandu,ROU
+200753,Cindy Watson,AUS
+200754,Jill Craybas,USA
+200755,Daniela Marzano,ITA
+200756,Bunny Bruning,USA
+200757,Pamela Bailey,AUS
+200758,Rayni Fox,USA
+200759,Katja Ebbinghaus,FRG
+200760,Pauline Elliott,NZL
+200761,Michelle Pekovitch,AUS
+200762,Sharon Pinchbeck,AUS
+200763,Cathy Drury,GBR
+200764,Elena Bovina,RUS
+200765,Katalin Marosi,HUN
+200766,Jennifer Hopkins,USA
+200767,Holly Parkinson,USA
+200768,Laurence Andretto,FRA
+200769,Giulia Casoni,ITA
+200770,Stephanie Cohen Aloro,FRA
+200771,Sophie Erre,FRA
+200772,Anastasia Myskina,RUS
+200773,Stephanie Foretz Gacon,FRA
+200774,Vanessa Webb,CAN
+200775,Tatiana Kovaltchouk,UKR
+200776,Angelika Bachmann,GER
+200777,Marta Marrero,ESP
+200778,Irene Fraisse,FRA
+200779,Maryna Godwin,RSA
+200780,Irena Skulj,YUG
+200781,Edda Buding,FRG
+200782,Esme Emmanuel,RSA
+200783,Jitka Horcickova,TCH
+200784,Fay Toyne,AUS
+200785,Vlasta Kodesova,CZE
+200786,Claudine Rouire,FRA
+200787,Fiorella Bonicelli,URU
+200788,Carol Ann Kalogeropoulos,GRE
+200789,Lea Pericoli,ITA
+200790,Paola Palacios,COL
+200791,Rosie Reyes,FRA
+200792,Christina Lindstrom,FIN
+200793,Mabel Vrancovich,ARG
+200794,Marianne Kindler,SUI
+200795,Patricia Montano,MEX
+200796,Sally Holdsworth,GBR
+200797,Anne Marie Studer,SUI
+200798,Lubka Radkova,BUL
+200799,Christiane Spinoza,FRA
+200800,Frances Maclennan,GBR
+200801,Kora Schediwy,FRG
+200802,Marion Cristiani,FRA
+200803,Raquel Giscafre,ARG
+200804,Anna Dmitrieva,URS
+200805,Aline Nenot,FRA
+200806,Birgitta Lindstrom,FIN
+200807,Ulla Sandulf,SWE
+200808,Laura Rossouw,RSA
+200809,Johanne Venturino,FRA
+200810,Annette Van Zyl,RSA
+200811,Junko Sawamatsu,JPN
+200812,Odile De Roubin,FRA
+200813,Ingrid Bentzer,SWE
+200814,Gillian Dove,RSA
+200815,Roberta Beltrame,ITA
+200816,Ann Phillips Moore,AUS
+200817,Judy Congdon,GBR
+200818,Faye Urban,CAN
+200819,Nicole Niox Chateau,FRA
+200820,Eugenia Isopaitis,URS
+200821,Monica Giorgi,ITA
+200822,Ilse Buding,FRG
+200823,Eva Lundquist,SWE
+200824,Galina Baksheeva,URS
+200825,Maylis Burel,FRA
+200826,Greta Delport,RSA
+200827,Suzanne Schmitt,FRA
+200828,Maria Cristina Borba Dias,BRA
+200829,Nancy Richey,USA
+200830,Chantal Langanay,FRA
+200831,Carmen Coronado,ESP
+200832,Daniele Bouteleux,FRA
+200833,Judith Szorenyi,HUN
+200834,Suzana Gesteira,BRA
+200835,Janine Lieffrig,FRA
+200836,Maria Chakarova,BUL
+200837,Alenka Pipan,YUG
+200838,Janine Mauroy Toffier,FRA
+200839,Ingrid Loeys,BEL
+200840,Eva Szabo,HUN
+200841,Maria Jose Aubet,ESP
+200842,Evelyne Terras,FRA
+200843,Virginia Caceres,PER
+200844,Martha Wolf Peterdy,FRA
+200845,Patricia Walkden,RSA
+200846,Michelle Rodriguez,CHI
+200847,Dionissia Asteri,GRE
+200848,Maria Bueno,BRA
+200849,Francesca Gordigiani,ITA
+200850,Monique Salfati,ITA
+200852,Yulia Berberian,BUL
+200853,Anne Marie Larue,FRA
+200854,Maria Teresa Nasuelli,ITA
+200855,Erzsebet Polgar,HUN
+200856,Ana Cavadini,ARG
+200857,Wendy Tomlinson,RSA
+200858,Dorothy Knode,USA
+200859,Danuta Wieczorek,POL
+200860,Kristy Pigeon,USA
+200861,Yaeko Matsuda,JPN
+200862,Valerie Ziegenfuss,USA
+200863,Zaiga Yansone,URS
+200864,Tiiu Kivi,EST
+200865,Heather Nicholls,RSA
+200866,Linda Tuero,USA
+200867,Kerstin Seelbach,FRG
+200868,Brenda Kirk,RSA
+200869,Maria Eugenia Guzman,ECU
+200870,Peaches Bartkowicz,USA
+200871,Tory Ann Fretz,USA
+200872,Nicole Bimes,FRA
+200873,Ana Maria Arias,CHI
+200874,Jill Cooper,GBR
+200875,Pamela Austin,USA
+200876,Denise Carter,USA
+200877,Helga Schultze,GER
+200878,Katalin Borka,HUN
+200879,Wendy Overton,USA
+200880,Kimiyo Yagahara,JPN
+200881,Edith Winkens,FRG
+200882,Alena Palmeova West,TCH
+200883,Marianna Brummer,RSA
+200884,Marijke Jansen,NED
+200885,Sharon Van Brandis,RSA
+200886,Becky Vest,USA
+200887,Trudy Groenman,NED
+200888,Joan Wilshere,RSA
+200889,Miroslava Holubova,TCH
+200890,Sonja Pachta,AUT
+200891,Daphne Pattison,ZIM
+200892,Aleksandra Ivanova,URS
+200893,Francoise Repoux,FRA
+200894,Isabel Fernandez De Soto,COL
+200895,Marilyn Greenwood,GBR
+200896,Nancy Ornstein,USA
+200897,Heide Orth,GER
+200898,Erzsebet Szell,HUN
+200899,Marina Chuvirina,URS
+200900,Barbara Downs,USA
+200901,Nell Truman,GBR
+200902,Corinne Molesworth,GBR
+200903,Hideko Goto,JPN
+200904,Kristien Shaw,USA
+200905,Mariana Simionescu,ROU
+200907,Carmen Perea Alcala,ESP
+200908,Miroslava Kozeluhova,CZE
+200909,Florence Guedy,FRA
+200910,Janet Haas,USA
+200911,Linky Boshoff,RSA
+200912,Christine Gimmig,FRA
+200913,Monica Rho,CRC
+200914,Daryl Gralka,USA
+200915,Antonella Rosa,ITA
+200916,Ching Ling Chang,USA
+200917,Veronica Burton,GBR
+200918,Robin Tenney,USA
+200919,Elvira Weisenberger,ARG
+200920,Kayoko Fukuoka,JPN
+200921,Patricia Reese,USA
+200922,Laurie Tenney,USA
+200923,Maria Victoria Baldovinos Cibeira,ESP
+200924,Penny Moor,GBR
+200925,Beatriz Araujo,ARG
+200926,Donna Ganz,USA
+200927,Linda Thomas,USA
+200928,Paulina Peisachov,ISR
+200929,Elly Appel,NED
+200930,Julie Anthony,USA
+200931,Marina Kroschina,URS
+200932,Jeanne Evert,USA
+200933,Laurie Fleming,USA
+200934,Beatrix Klein,HUN
+200935,Florenta Mihai,ROU
+200936,Iris Riedel Kuhn,FRG
+200937,Susana Maria Villaverde,ARG
+200938,Kathy May,USA
+200939,Alison Mcmillan,RSA
+200940,Ilana Kloss,RSA
+200941,Janice Metcalf,USA
+200942,Kathy Kuykendall,USA
+200943,Jane Stratton,USA
+200944,Rowena Sanders,RSA
+200945,Marita Redondo,USA
+200946,Sylvie Rual,FRA
+200947,Susie Mehmedbasich,USA
+200948,Brigette Cuypers,RSA
+200949,Silvana Urroz,CHI
+200950,Marise Kruger,RSA
+200951,Mary Struthers,USA
+200952,Mary Hamm,USA
+200953,Viviana Gonzalez,ARG
+200954,Claudia Casabianca,ARG
+200955,Mary Carillo,USA
+200956,Carrie Meyer,USA
+200957,Ruta Gerulaitis,USA
+200958,Helle Sparre,DEN
+200959,Mareen Louie Harper,USA
+200960,Robin Harris,USA
+200961,Ivanna Madruga,ARG
+200962,Patricia Medrado,BRA
+200963,Caroline Stoll,USA
+200964,Anne Chevalier,FRA
+200965,Emilse Raponi Longo,USA
+200967,Zenda Liess,USA
+200968,Betty Ann Grubb,USA
+200969,Jeanne Duvall,USA
+200970,Linda Siegel,USA
+200971,Lucia Romanov,ROU
+200972,Dominique Beillan,FRA
+200973,Caroline Franch,FRA
+200974,Lena Sandin,SWE
+200975,Julie Harrington,USA
+200976,Stacy Margolin,USA
+200977,Dana Gilbert,USA
+200978,Roberta Mccallum,USA
+200979,Joyce Portman,USA
+200980,Debbie Freeman,AUS
+200981,Andrea Whitmore,USA
+200982,Liliana Giussani,ARG
+200983,Susan Rollinson,RSA
+200984,Deborah Jevans,GBR
+200985,Trey Lewis,USA
+200986,Barbara Rossi,ITA
+200987,Yvona Brzakova,TCH
+200988,Jenny Klitch,USA
+200989,Leigh Anne Thompson,USA
+200990,Claudia Pasquale,SUI
+200991,Joanne Russell,USA
+200992,Elizabeth Jones,GBR
+200993,Cornelia Dries,GER
+200994,Michelle Torres,USA
+200995,Ann Gabriel,BEL
+200996,Nancy Neviaser,USA
+200997,Kate Brasher,GBR
+200998,Beatrice Guery,FRA
+200999,Felicia Raschiatore,USA
+201000,Nathalie Phan Thanh,FRA
+201001,Jean Hepner,USA
+201002,Barbi Bramblett,USA
+201003,Renata Sasak,YUG
+201004,Catrin Jexell,SWE
+201005,Amy Holton,USA
+201006,Lea Plchova,TCH
+201007,Isabelle Vernhes,FRA
+201008,Jill Davis,USA
+201009,Ginny Purdy,USA
+201010,Rene Mentz,RSA
+201011,Natasha Reva,URS
+201012,Elena Eliseenko,URS
+201013,Rina Einy,GBR
+201014,Helene Cedet,FRA
+201015,Grace Kim,USA
+201016,Hana Fukarkova,TCH
+201017,Angelika Kanellopoulou,GRE
+201018,Rene Uys,RSA
+201019,Melissa Gurney,USA
+201020,Petra Huber,AUT
+201021,Laura Garrone,ITA
+201022,Debbie Spence Nasim,USA
+201023,Eileen Tell,USA
+201024,Susanne Schmid,SUI
+201025,Neige Dias,BRA
+201026,Cecille Calmette,FRA
+201027,Gabriela Dinu,FRG
+201028,Maeve Quinlan,USA
+201029,Kathleen Cummings,USA
+201030,Mariana Perez Roldan,ARG
+201031,Niurka Sodupe,USA
+201032,Cecilia Fernandez Parker,USA
+201033,Kristin Kinney,USA
+201034,Helena Dahlstrom,SWE
+201035,Kate Gompert,USA
+201036,Lydie Van Hille,FRA
+201037,Karolina Karlsson,SWE
+201038,Karen Schimper,RSA
+201039,Caterina Nozzoli,ITA
+201040,Luciana Corsato Owsianka,BRA
+201041,Cristina Casale,ITA
+201042,Andrea Tiezzi,ARG
+201043,Barbara Romano,ITA
+201044,Catherine Mothes Jobkel,FRA
+201045,Natalia Egorova,RUS
+201046,Silvia La Fratta,ITA
+201047,Andrea Vieira,BRA
+201048,Leona Laskova,CZE
+201049,Denisa Krajcovicova,SVK
+201050,Immaculada Varas Caro,ESP
+201051,Laura Lapi,ITA
+201052,Federica Haumuller,ARG
+201053,Sylvie Sabas,FRA
+201054,Katia Piccolini,ITA
+201055,Barbara Collet,FRA
+201056,Maria Luciana Reynares,ARG
+201057,Angelique Olivier,FRA
+201058,Agnes Zugasti,FRA
+201059,Misumi Miyauchi,JPN
+201060,Carole Lucarelli,FRA
+201061,Eva Martincova,CZE
+201062,Amelie Castera,FRA
+201063,Maria Francesca Bentivoglio,ITA
+201064,Audrey Sidot,FRA
+201065,Virginie Buisson,FRA
+201066,Neus Avila Bonastre,ESP
+201067,Caroline Dhenin,FRA
+201068,Magali Lamarre,FRA
+201069,Karolina Jagieniak,FRA
+201070,Emmanuelle Curutchet,FRA
+201071,Segolene Berger,FRA
+201072,Eva Bes Ostariz,ESP
+201073,Seon Young Park,KOR
+201074,Ana Alcazar,ESP
+201075,Liezel Huber,USA
+201076,Sophie Georges,FRA
+201077,Sophie Lefevre,FRA
+201078,Eugenia Kulikovskaya,RUS
+201079,Hannah Collin,GBR
+201080,Louise Latimer,GBR
+201081,Joanne Ward,GBR
+201082,Lorna Woodroffe,GBR
+201083,Daja Bedanova,CZE
+201084,Nadejda Ostrovskaya,BLR
+201085,Shinobu Asagoe,JPN
+201086,Greta Arn,HUN
+201087,Mashona Washington,USA
+201088,Karen Cross,GBR
+201089,Lucie Ahl,GBR
+201090,Stephanie Defina,USA
+201091,Christine Truman,GBR
+201092,Joyce Williams,GBR
+201093,Alex Cowie,GBR
+201094,Lucia Bassi,ITA
+201095,Jennifer Staley,AUS
+201096,Rita Bentley,GBR
+201097,Marilyn Aschner,USA
+201098,Mimi Wheeler,USA
+201099,Jean Forbes,RSA
+201100,Christiane Mercelis,BEL
+201101,Janice Townsend,GBR
+201102,Alice Tym,USA
+201103,Pixie Lamm,USA
+201104,Lidy Venneboer,NED
+201105,Margaret Lee,GBR
+201106,Betty Pratt,USA
+201107,Nadine Netter,USA
+201108,Florence De La Courtie,FRA
+201109,Vera Roberts,GBR
+201110,Bernice Carr,RSA
+201112,Wendy Hall,GBR
+201113,Shirley Bloomer,GBR
+201114,Robin Lloyd,GBR
+201115,Victoria Rogers,USA
+201116,Maria Teresa Riedl,ITA
+201117,Margaret Harris,AUS
+201118,Tine Zwaan,NED
+201119,Graciela Moran,ARG
+201120,Marion Boundy,GBR
+201121,Sue Tutt,GBR
+201122,Anita Van Deventer,RSA
+201123,Stephanie Grant,USA
+201124,Ana Maria Estalella Manso,ESP
+201125,Elizabeth Ernest,GBR
+201126,Carole Graebner,USA
+201127,Gail Hansen,USA
+201128,Jane Ohara,CAN
+201129,Marilyn Pryde,NZL
+201130,Chikako Murakami,JPN
+201131,Patricia Cody,USA
+201132,Susan Minford,IRL
+201133,Eliza Pande,USA
+201134,Andree Martin,CAN
+201135,Sally Hudson Beck,ZIM
+201136,Trish Mcclenaughan,AUS
+201137,Sandy Stap,USA
+201138,Tam Oshaughnessy,USA
+201139,Vicky Berner,CAN
+201140,Wendy Appleby,USA
+201141,Di Riste,GBR
+201142,Kathy Blake,USA
+201143,Lisa Fleming,USA
+201144,Clare Colman,GBR
+201145,Judy Dixon,USA
+201146,Annette Coe,GBR
+201147,Janice Tindle,CAN
+201148,Roberta Stark,USA
+201150,Elizabeth Vlotman,GBR
+201151,Mary Mclean,USA
+201152,Aleida Spex,USA
+201153,Anthea Stewart,GBR
+201154,Martina Walsh,IRL
+201155,Erin Dignam,USA
+201156,Stephanie Tolleson,USA
+201157,Susan Hagey,USA
+201158,Karen Susman,USA
+201159,Sheila Mcinerney,USA
+201160,Wendy Barlow,CAN
+201161,Mariette Pakker,NED
+201162,Linda Geeves,GBR
+201163,Susie Jaeger,USA
+201164,Glaucia Langela,BRA
+201165,Liz Gordon,RSA
+201166,Shelly Walpole,GBR
+201167,Ellinore Lightbody,GBR
+201168,Micki Schillig,USA
+201169,Heather Crowe,USA
+201170,Suzie Mair,GBR
+201171,Joanne Louis,GBR
+201172,Helene Pelletier,CAN
+201173,Sally Reeves,GBR
+201174,Marianne Groat,CAN
+201175,Joy Tacon,HKG
+201176,Jane Forman,USA
+201177,Amanda Grunfeld,GBR
+201178,Diane Farrell,USA
+201179,Denise Parnell,GBR
+201180,Belinda Borneo,GBR
+201181,Lisa Gould,GBR
+201182,Jane Wood,GBR
+201183,Anne Meredith,GBR
+201184,Karen Hunter,GBR
+201185,Robyn Field,RSA
+201186,Virginia Humphreys Davies,GBR
+201187,Shawna Martin,USA
+201188,Barbara Griffiths,GBR
+201189,Sarah Bentley,GBR
+201190,Kaye Marfini Hand,GBR
+201191,Shirli Ann Siddall,GBR
+201192,Colette Caple,GBR
+201193,Claire Wegink,NED
+201194,Tammy Whittington,USA
+201195,Amanda Wainwright,GBR
+201196,Claire Taylor,GBR
+201197,Megan Miller,GBR
+201198,Lizzy Jelfs,GBR
+201199,Rachel Viollet,GBR
+201200,Miriam Schnitzer,GER
+201201,Surina De Beer,RSA
+201202,Abigail Tordoff,GBR
+201203,Alena Vaskova,CZE
+201204,Iroda Tulyaganova,UZB
+201205,Tracy Almeda Singian,USA
+201206,Allison Bradshaw,USA
+201207,Ansley Cargill,USA
+201208,Dawn Buth,USA
+201209,Selima Sfar,TUN
+201210,Kristen Schlukebir,USA
+201211,Kyra Nagy,HUN
+201212,Francesca Schiavone,ITA
+201213,Vija Vuskalns,USA
+201214,Farel Footman,USA
+201215,Connie Capozzi,USA
+201216,Marjorie Gengler,USA
+201217,Peggy Moore,USA
+201218,Tish Adams,USA
+201219,Jade Schiffman,USA
+201220,Carole Loop,USA
+201221,Emily Fisher,USA
+201222,Diane Matzner,USA
+201223,Mary Lowdon,USA
+201224,Ann Moore,USA
+201225,Tina Lyman,USA
+201226,Maricaye Christenson,USA
+201227,Roylee Bailey,USA
+201228,Nancy Reed,USA
+201229,Louise Gonnerman,USA
+201230,Mimi Kanarek,USA
+201231,Raymonde Veber,USA
+201232,Carol Hunter,USA
+201233,Joyce Davenport,USA
+201234,Pat Stewart,USA
+201235,Jane Kincaid,USA
+201236,Darlene Hard,USA
+201237,Pam Richmond,USA
+201238,Carol Aucamp,USA
+201239,Emilie Burrer,USA
+201240,Margaret Cooper,USA
+201241,Pam Farmer,USA
+201242,Susan Vinton,USA
+201243,Shari Barman,USA
+201244,Sue Stap,USA
+201246,Kathy Kraft,USA
+201247,Gussie Moran,USA
+201248,Judy Alvarez,USA
+201249,Rosalba Vido,ITA
+201250,Brenda Garcia,USA
+201251,Patricia Shoolman,USA
+201252,Marcy Okeefe,USA
+201253,Sally Moore,USA
+201254,Lynn Epstein,USA
+201255,Margaret Riley,USA
+201256,Renee Richards,USA
+201257,Carol Baily,USA
+201258,Chris Penn,USA
+201259,Sonoe Yonezawa,JPN
+201260,Kelly Henry,USA
+201261,Lisa Doherty,USA
+201262,Lucy Gordon,USA
+201263,Jodi Appelbaum,USA
+201264,Germaine Ohaco,CHI
+201265,Phyllis Blackwell,USA
+201266,Linda Howell,USA
+201267,Karen Huebner,USA
+201268,Carin Anderholm,SWE
+201269,Eleni Rossides,USA
+201270,Jane Young,CAN
+201271,Lisa Green,USA
+201272,Sandra Birch,USA
+201273,Shannan Mccarthy,USA
+201274,Viktoria Milvidskaia,RUS
+201275,Julie Steven,USA
+201276,Nicole London,USA
+201277,Anne Mall,IRL
+201278,Angela Lettiere,USA
+201279,Keri Phebus,USA
+201280,Jacqueline Trail,USA
+201281,Laura Granville,USA
+201282,Jean Okada,USA
+201283,Zuzana Lesenarova,CZE
+201284,Tatiana Poutchek,BLR
+201285,Melissa Middleton,USA
+201286,Anabel Medina Garrigues,ESP
+201287,Maria Jose Martinez Sanchez,ESP
+201288,Maja Palaversic,CRO
+201289,Christina Wheeler,AUS
+201290,Daniela Hantuchova,SVK
+201291,Nuria Llagostera Vives,ESP
+201292,Martina Sucha,SVK
+201293,Catalina Castano,COL
+201294,Marion Bartoli,FRA
+201295,Wynne Prakusya,INA
+201296,Bianka Lamade,GER
+201297,Maja Matevzic,SLO
+201298,Zsofia Gubacsi,HUN
+201299,Celine Beigbeder,FRA
+201300,Maria Emilia Salerni,ARG
+201301,Camille Pin,FRA
+201302,Clarisa Fernandez,ARG
+201303,Anne Keothavong,GBR
+201304,Elena Baltacha,GBR
+201305,Eleni Daniilidou,GRE
+201306,Marie Gaiane Mikaelian,SUI
+201307,Amber Liu,USA
+201308,Maria Elena Camerin,ITA
+201309,Tatiana Perebiynis,UKR
+201310,Martina Muller,GER
+201311,Roberta Vinci,ITA
+201312,Sarah Taylor,USA
+201313,Yoon Jeong Cho,KOR
+201314,Nina Duebbers,GER
+201315,Ashley Harkleroad,USA
+201316,Lenka Dlhopolcova,SVK
+201317,Aniko Kapros,HUN
+201318,Bethanie Mattek Sands,USA
+201319,Evelyn Fauth,AUT
+201320,Svetlana Kuznetsova,RUS
+201321,Antonella Serra Zanetti,ITA
+201322,Eva Dyrberg,DEN
+201323,Saori Obata,JPN
+201324,Irina Selyutina,KAZ
+201325,Samantha Stosur,AUS
+201326,Bahia Mouhtassine,MAR
+201327,Angelique Widjaja,INA
+201328,Milagros Sequera,VEN
+201329,Vera Zvonareva,RUS
+201330,Maria Goloviznina,RUS
+201331,Iveta Benesova,CZE
+201332,Jane Odonoghue,GBR
+201333,Angelika Roesch,GER
+201334,Zuzana Ondraskova,CZE
+201335,Myriam Casanova,SUI
+201336,Dinara Safina,RUS
+201337,Allison Baker,USA
+201338,Bea Bielik,USA
+201339,Renata Voracova,CZE
+201340,Maria Geznenge,GER
+201341,Mi Ra Jeon,KOR
+201342,Alexandra Podkolzina,USA
+201343,Maret Ani,EST
+201344,Klara Koukalova,CZE
+201345,Maria Sharapova,RUS
+201346,Lubomira Kurhajcova,SVK
+201347,Jelena Jankovic,SRB
+201348,Casey Dellacqua,AUS
+201349,Melinda Czink,HUN
+201350,Adriana Szili,AUS
+201351,Eva Fislova,SVK
+201352,Akiko Morigami,JPN
+201353,Stanislava Hrozenska,SVK
+201354,Libuse Prusova,CZE
+201355,Flavia Pennetta,ITA
+201356,Eva Birnerova,CZE
+201357,Virginie Pichet,FRA
+201358,Natalia Gussoni,ARG
+201359,Amandine Dulon,FRA
+201360,Julia Vakulenko,UKR
+201361,Julia Schruff,GER
+201362,Anais Laurendon,FRA
+201363,Gisela Dulko,ARG
+201364,Tatiana Golovin,FRA
+201365,Edina Gallovits Hall,ROU
+201366,Barbora Strycova,CZE
+201367,Arantxa Parra Santonja,ESP
+201368,Karolina Sprem,CRO
+201369,Carly Gullickson,USA
+201370,Anastasia Rodionova,AUS
+201371,Vera Dushevina,RUS
+201372,Theresa Logar,USA
+201373,Maria Kirilenko,RUS
+201374,Gabriela Lastra,USA
+201375,Shenay Perry,USA
+201376,Angela Haynes,USA
+201377,Yuliya Beygelzimer,UKR
+201378,Stephanie Gehrlein,GER
+201379,Mara Santangelo,ITA
+201380,Claudine Schaul,LUX
+201381,Tian Tian Sun,CHN
+201382,Olivia Lukaszewicz,AUS
+201383,Marie Eve Pelletier,CAN
+201384,Chia Jung Chuang,TPE
+201385,Yuliana Fedak,UKR
+201386,Jie Zheng,CHN
+201387,Sofia Arvidsson,SWE
+201388,Sophie Ferguson,AUS
+201389,Zuzana Kucova,SVK
+201390,Mervana Jugic Salkic,BIH
+201391,Sanda Mamic,CRO
+201392,Severine Beltrame,FRA
+201393,Kelly Mccain,USA
+201394,Anna Lena Groenefeld,GER
+201395,Teryn Ashley,USA
+201396,Katie Obrien,GBR
+201397,Shuai Peng,CHN
+201398,Amanda Keen,GBR
+201399,Emily Webley Smith,GBR
+201400,Nicole Vaidisova,CZE
+201401,Abigail Spears,USA
+201402,Sesil Karatantcheva,KAZ
+201403,Anna Chakvetadze,RUS
+201404,Jessica Kirkland,USA
+201405,Nan Nan Liu,CHN
+201406,Shikha Uberoi,IND
+201407,Evgenia Linetskaya,ISR
+201408,Jamea Jackson,USA
+201409,Michaela Pastikova,CZE
+201410,Monique Adamczak,AUS
+201411,Aiko Nakamura,JPN
+201412,Anastasia Yakimova,BLR
+201413,Capucine Rousseau,FRA
+201414,Michaella Krajicek,NED
+201415,Tiffany Welford,AUS
+201416,Alona Bondarenko,UKR
+201417,Marta Domachowska,POL
+201418,Ting Li,CHN
+201419,Na Li,CHN
+201420,Sania Mirza,IND
+201421,Ana Ivanovic,SRB
+201422,Mailyne Andrieux,FRA
+201423,Yvonne Meusburger,AUT
+201424,Shahar Peer,ISR
+201425,Lucie Safarova,CZE
+201426,Pauline Parmentier,FRA
+201427,Alize Cornet,FRA
+201428,Mathilde Johansson,FRA
+201429,Rika Fujiwara,JPN
+201430,Yulia Fedossova,FRA
+201431,Aravane Rezai,FRA
+201432,Rebecca Llewellyn,GBR
+201433,Sarah Borwell,GBR
+201434,Sabine Klaschka,GER
+201435,Kateryna Bondarenko,UKR
+201436,Mary Gambale,USA
+201437,Ivana Lisjak,CRO
+201438,Ekaterina Bychkova,RUS
+201439,Tiffany Dabek,USA
+201440,Laura Pous Tio,ESP
+201441,Emma Laine,FIN
+201442,Yung Jan Chan,TPE
+201443,Alexa Glatch,USA
+201444,Su Wei Hsieh,TPE
+201445,Viktoria Kutuzova,UKR
+201446,Sybille Bammer,AUT
+201447,Vania King,USA
+201448,Galina Voskoboeva,KAZ
+201449,Lauren Breadmore,AUS
+201450,Tsvetana Pironkova,BUL
+201451,Kathrin Woerle,GER
+201452,Lourdes Dominguez Lino,ESP
+201453,Hana Sromova,CZE
+201454,Akgul Amanmuradova,UZB
+201455,Elena Vesnina,RUS
+201456,Olga Savchuk,UKR
+201457,Jarmila Gajdosova,AUS
+201458,Victoria Azarenka,BLR
+201459,Zi Yan,CHN
+201460,Meng Yuan,CHN
+201461,Aurelie Vedy,FRA
+201462,Alberta Brianti,ITA
+201463,Anda Perianu,ROU
+201464,Nathalie Vierin,ITA
+201465,Kirsten Flipkens,BEL
+201466,Kaia Kanepi,EST
+201467,Ivana Abramovic,CRO
+201468,Yaroslava Shvedova,KAZ
+201469,Melanie South,GBR
+201470,Kristina Barrois,GER
+201471,Naomi Cavaday,GBR
+201472,Romina Oprandi,SUI
+201473,Vasilisa Bardina,RUS
+201474,Agnieszka Radwanska,POL
+201475,Ahsha Rolle,USA
+201476,Lauren Albanese,USA
+201477,Stephanie Dubois,CAN
+201478,Varvara Lepchenko,USA
+201479,Olga Puchkova,RUS
+201480,Lioudmila Skavronskaia,RUS
+201481,Tamira Paszek,AUT
+201482,Andreja Klepac,SLO
+201483,Madison Brengle,USA
+201484,Sandra Zahlavova,CZE
+201485,Alla Kudryavtseva,RUS
+201486,Aleksandra Wozniak,CAN
+201487,Jessica Moore,AUS
+201488,Jorgelina Cravero,ARG
+201489,Mariya Koryttseva,UKR
+201490,Timea Bacsinszky,SUI
+201491,Olivia Sanchez,FRA
+201492,Andrea Petkovic,GER
+201493,Angelique Kerber,GER
+201494,Raluca Olaru,ROU
+201495,Dominika Cibulkova,SVK
+201496,Caroline Wozniacki,DEN
+201497,Agnes Szavay,HUN
+201498,Karin Knapp,ITA
+201499,Anastasia Pavlyuchenkova,RUS
+201500,Nika Ozegovic,CRO
+201501,Olga Govortsova,BLR
+201503,Ayumi Morita,JPN
+201504,Julia Goerges,GER
+201505,Kate Makarova,RUS
+201506,Sara Errani,ITA
+201507,Audra Cohen,USA
+201508,Petra Cetkovska,CZE
+201509,Ashley Weinhold,USA
+201510,Julie Ditty,USA
+201511,Ekaterina Ivanova,RUS
+201512,Monica Niculescu,ROU
+201513,Sabine Lisicki,GER
+201514,Sorana Cirstea,ROU
+201515,Alisa Kleybanova,RUS
+201516,Evgeniya Rodina,RUS
+201517,Magdalena Rybarikova,SVK
+201518,Yanina Wickmayer,BEL
+201519,Violette Huck,FRA
+201520,Petra Kvitova,CZE
+201521,Carla Suarez Navarro,ESP
+201522,Jelena Pandzic,CRO
+201523,Marina Erakovic,NZL
+201524,Urszula Radwanska,POL
+201525,Eva Hrdinova,CZE
+201526,Julie Coin,FRA
+201527,Stefanie Voegele,SUI
+201528,Melanie Oudin,USA
+201529,Kristie Ahn,USA
+201530,Gail Brodsky,USA
+201531,Mariana Duque Marino,COL
+201532,Anastasia Pivovarova,RUS
+201533,Shuai Zhang,CHN
+201534,Asia Muhammad,USA
+201535,Coco Vandeweghe,USA
+201536,Monika Wejnert,AUS
+201537,Patricia Mayr Achleitner,AUT
+201538,Isabella Holland,AUS
+201539,Christina Mchale,USA
+201540,Kristina Mladenovic,FRA
+201541,Chanelle Scheepers,RSA
+201542,Olivia Rogowska,AUS
+201543,Emelyn Starr,AUS
+201544,Oxana Lyubtsova,UKR
+201545,Anastasija Sevastova,LAT
+201546,Anna Lapushchenkova,RUS
+201547,Michelle Larcher De Brito,POR
+201548,Ajla Tomljanovic,AUS
+201549,Petra Martic,CRO
+201550,Tamaryn Hendler,BEL
+201551,Arantxa Rus,NED
+201552,Mallory Cecil,USA
+201553,Lenka Wienerova,SVK
+201554,Vitalia Diatchenko,RUS
+201555,Polona Hercog,SLO
+201556,Lucie Hradecka,CZE
+201557,Corinna Dentoni,ITA
+201558,Lauren Embree,USA
+201559,Irena Pavlovic,FRA
+201560,Kinnie Laisne,FRA
+201561,Claire Feuerstein,FRA
+201562,Silvia Soler Espinosa,ESP
+201563,Darya Kustova,BLR
+201564,Lenka Tvaroskova,SVK
+201565,Katarzyna Piter,POL
+201566,Agnes Szatmari,ROU
+201567,Alexandra Dulgheru,ROU
+201568,Kristina Kucova,SVK
+201569,Georgie Gent,GBR
+201570,Vesna Dolonc,SRB
+201571,Masa Zec Peskiric,SLO
+201572,Regina Kulikova,RUS
+201573,Laura Robson,GBR
+201574,Neuza Silva,POR
+201575,Hilary Barte,USA
+201576,Valerie Tetreault,CAN
+201577,Heidi El Tabakh,CAN
+201578,Kai Chen Chang,TPE
+201579,Yurika Sema,JPN
+201580,Xinyun Han,CHN
+201581,Chun Mei Ji,CHN
+201582,Jing Jing Lu,CHN
+201583,Yana Buchina,RUS
+201584,Ksenia Pervak,KAZ
+201585,Sloane Stephens,USA
+201586,Heather Watson,GBR
+201587,Bojana Jovanovski,SRB
+201588,Anna Tatishvili,GEO
+201589,Sharon Fichman,CAN
+201590,Alison Riske Amritraj,USA
+201591,Margalita Chakhnashvili,GEO
+201592,Beatriz Garcia Vidagany,ESP
+201593,Irina Camelia Begu,ROU
+201594,Simona Halep,ROU
+201595,Misaki Doi,JPN
+201596,Johanna Larsson,SWE
+201597,Kurumi Nara,JPN
+201598,Noppawan Lertcheewakarn,THA
+201599,Andrea Hlavackova,CZE
+201600,Jamie Hampton,USA
+201601,Chelsey Gullickson,USA
+201602,Beatrice Capra,USA
+201603,Shelby Rogers,USA
+201604,Irina Falconi,USA
+201605,Mandy Minella,LUX
+201606,Rebecca Marino,CAN
+201607,Sally Peers,AUS
+201608,Sheng Nan Sun,CHN
+201609,Yi Miao Zhou,CHN
+201610,Zarina Diyas,KAZ
+201611,Daria Saville,AUS
+201612,Junri Namigata,JPN
+201613,Arina Rodionova,AUS
+201614,Caroline Garcia,FRA
+201615,Lesia Tsurenko,UKR
+201616,Lauren Davis,USA
+201617,Ana Vrljic,CRO
+201618,Fatma Al Nabhani,OMA
+201619,Madison Keys,USA
+201620,Monica Puig,PUR
+201621,Mona Barthel,GER
+201622,Iryna Bremond,FRA
+201623,Jing Jing Chen,CHN
+201624,Eun Ha Kim,KOR
+201625,Ju Yeon Choi,KOR
+201626,Petra Winzenholler,GER
+201627,Kim De Weille,NED
+201628,Li Li,CHN
+201629,Yael Segal,ISR
+201630,Nicole Hummel,USA
+201631,Nicha Lertpitaksinchai,THA
+201632,Ryoko Fuda,JPN
+201633,Tomoko Yonemura,JPN
+201634,Viky Nunez Fuentes,COL
+201635,Betina Jozami,ARG
+201636,Anna Orlik,BLR
+201637,Melissa Torres Sandoval,MEX
+201638,Estrella Cabeza Candela,ESP
+201639,Yevheniia Savranska,UKR
+201640,Maria Teresa Torro Flor,ESP
+201641,Nadia Lalami,MAR
+201642,Fatima El Allami,MAR
+201643,Eva Fernandez Brugues,ESP
+201644,Paula Fondevila Castro,ESP
+201645,Frederica Piedade,POR
+201646,Maria Joao Koehler,POR
+201647,Jasmin Woehr,GER
+201648,Naomi Broady,GBR
+201649,Lenka Jurikova,SVK
+201650,Irina Buryachok,UKR
+201651,Michaela Johansson,SWE
+201652,Ksenia Palkina,KGZ
+201653,Ellen Allgurin,SWE
+201654,Sandra Roma,SWE
+201655,Anna Floris,ITA
+201656,Tadeja Majeric,SLO
+201657,Nastja Kolar,SLO
+201658,Carmen Klaschka,GER
+201659,Melanie Klaffner,AUT
+201660,Tereza Hladikova,CZE
+201661,Tina Schiechtl,AUT
+201662,Karolina Pliskova,CZE
+201663,Ekaterina Dzehalevich,BLR
+201664,Pemra Ozgen,TUR
+201665,Ipek Senoglu,TUR
+201666,Cagla Buyukakcay,TUR
+201667,Ling Zhang,HKG
+201668,Alexandra Panova,RUS
+201669,Yan Chong Chen,CHN
+201670,Amra Sadikovic,SUI
+201671,Ksenia Lykina,RUS
+201672,Nigina Abduraimova,UZB
+201673,Alexandra Kolesnichenko,UZB
+201674,Sabina Sharipova,UZB
+201675,So Jung Kim,KOR
+201676,Ye Ra Lee,KOR
+201677,Mi Yoo,KOR
+201678,Sacha Jones,AUS
+201679,Varatchaya Wongteanchai,THA
+201680,Anna Gerasimou,GRE
+201681,Suchanun Viratprasert,THA
+201682,Nudnida Luangnam,THA
+201683,Bianca Botto,PER
+201684,Paula Zabala,COL
+201685,Kristina Antoniychuk,UKR
+201686,Alejandra Granillo,MEX
+201687,Lina Bennani,MAR
+201688,Claire De Gubernatis,FRA
+201689,Magali De Lattre,POR
+201690,Nina Bratchikova,RUS
+201691,Dia Evtimova,BUL
+201692,Michaela Pochabova,SVK
+201693,Timea Babos,HUN
+201694,Silvia Njiric,CRO
+201695,Anna Brazhnikova,SWE
+201696,Laura Siegemund,GER
+201697,Kristyna Pliskova,CZE
+201698,Liana Gabriela Ungur,ROU
+201699,Martina Caregaro,ITA
+201700,Nikola Hofmanova,AUT
+201701,Basak Eraydin,TUR
+201702,Malou Ejdesgaard,DEN
+201703,Yi Fan Xu,CHN
+201704,Nadejda Guskova,RUS
+201705,Alina Abdurakhimova,UZB
+201706,Eirini Georgatou,GRE
+201707,Sachie Ishizu,JPN
+201708,Natalie Grandin,RSA
+201709,Yulia Putintseva,KAZ
+201710,Annette Gulley,AUS
+201711,Sharon Hodgkin,AUS
+201712,Karin Moos,NED
+201713,Caroline Van Renterghem,BEL
+201714,Michaela Frimmelova,TCH
+201715,Heike Thoms,GER
+201716,Catherine Bonnet,FRA
+201717,Michelle Jackson Nobrega,USA
+201718,Akiko Gooden,USA
+201719,Stephanie Martin,AUS
+201720,Joy Cummings,USA
+201721,Caryn Moss,USA
+201722,Luanne Spadea,USA
+201723,Angela Kerek,GER
+201724,Julie Exum,USA
+201725,Zdenka Malkova,CZE
+201726,Rachel Ann Jensen,USA
+201727,Silvia Ramon Cortes,ESP
+201728,Jessica Steck,RSA
+201729,Larissa Schaerer,PAR
+201730,Karin Stampfli,SUI
+201731,Judy Newman,USA
+201732,Noelle Porter,USA
+201733,Lorenza Jachia,ITA
+201734,Barbara Pollet,AUT
+201736,Xenia Anastasiados,GRE
+201737,Stefania Dalla Valle,ITA
+201738,Julia Apostoli,GRE
+201739,Petra Schmitt,HUN
+201740,Christiane Hofmann,GER
+201741,Alysia May,USA
+201742,Susi Fortun Lohrmann,GER
+201743,Laura Glitz,USA
+201744,Caroline Schneider,GER
+201745,Lupita Novelo,MEX
+201746,Amanda Basica,USA
+201747,Lihini Weerasuriya,SRI
+201748,Renata Kochta,GER
+201749,Julie Shiflet,USA
+201750,Ann Stephenson,USA
+201751,Melissa Mazzotta,USA
+201752,Cristina Salvi,ITA
+201753,Rewa Harriman,NZL
+201754,Leanne Baker,NZL
+201755,Michelle Parun,NZL
+201756,Tracey King,NZL
+201757,Amanda Tate,NZL
+201758,Elizabeth Daly,NZL
+201759,Jan Blackstad,USA
+201760,Heidi Sprung,AUT
+201761,Annette Smith,AUS
+201762,Mary Dailey,USA
+201763,Annette Patchen,AUS
+201764,Justine Brown,AUS
+201765,Brenda Perry,NZL
+201766,Sharon Mcnamara,AUS
+201767,Sylvia Schenck,USA
+201768,Gail Falkenberg,USA
+201769,Ruth Seeman,NZL
+201770,Yvonne Der Kinderen,NED
+201771,Virag Csurgo,HUN
+201772,Aranzazu Gallardo,MEX
+201773,Diedre Herman,USA
+201774,Caroline Hagey,USA
+201775,Silvia Blume Bruns,ESP
+201776,Marion De Witte,BEL
+201777,Barbara Brankovska,CAN
+201778,Suzanne Bakewell,GBR
+201779,Silvia Campius Pinas,ESP
+201780,Kerry Young,USA
+201781,Judith Mercade,ESP
+201782,Rosa Maria Togores Colom,ESP
+201783,Marcela Viviana Cataldi,ARG
+201784,Betona Pellon Fernandez,ESP
+201785,Patricia Armet Sanpere,ESP
+201786,Ana Almansa,ESP
+201787,Annina Von Planta,SUI
+201788,Isabel Moure,ESP
+201789,Begonia Erana,ESP
+201790,Ana Aubone,ARG
+201791,Iris Thompson,ESP
+201792,Ingrid Jonge,NED
+201793,Maria Mateo,ESP
+201794,Monica Alvarez,ESP
+201795,Nancy Harris,AUS
+201796,Jane Plackett,GBR
+201797,Maria Muntanola,ESP
+201798,Birthe Glatzel,FRG
+201799,Marie Jose Llorca,ESP
+201800,Annika Narbe,SWE
+201801,Ana Maria Segura Perez,ESP
+201802,Ulrike Priller,AUT
+201803,Gabriela Castro,ARG
+201804,Claudia Chabalgoity,BRA
+201805,Pilar Perez,ESP
+201806,Ying Bi,CHN
+201807,Li Yao Tang,CHN
+201808,Hiroko Hara,JPN
+201809,Hila Rosen,ISR
+201810,Yuko Hosoki,JPN
+201811,Young Ja Choi,KOR
+201812,Hiroko Mochizuki,JPN
+201813,Patty Van Acker,BEL
+201814,Michelle Gerards,NED
+201815,Petra Rampre,SLO
+201816,Kathleen Schuurmans,BEL
+201817,Karin Oberleitner,AUT
+201818,Ilse De Ruysscher,BEL
+201819,Esmir Hoogendoorn,NED
+201820,Caroline Wuillot,BEL
+201821,Gorana Matic,CRO
+201822,Petra Holubova,CZE
+201823,Daphne Van De Zande,BEL
+201824,Gisela Riera Roura,ESP
+201825,Kathy Hofer,USA
+201826,Berit Bjork,SWE
+201827,Regina Wieser,GER
+201828,Olga Votavova,TCH
+201829,Heliane Steden,MEX
+201830,Katharina Duell,GER
+201831,Sabine Gerke,GER
+201832,Gabriela Mosca,ARG
+201833,Anouschka Popp,GER
+201834,Heike Rusch,GER
+201835,Maja Muric,CRO
+201836,Svetlana Komleva,MDA
+201837,Sandra Waechtershauser,GER
+201838,Federica Fortuni,ITA
+201839,Syna Schreiber,GER
+201840,Germana Di Natale,ITA
+201841,Sally Godman,GBR
+201842,Rikki Gaddie,RSA
+201843,Suzanna Anggarkusuma,INA
+201844,Agnese Gustmane,LAT
+201845,Stella Sampras,USA
+201846,Katarzyna Teodorowicz Lisowska,POL
+201847,Mareze Joubert,RSA
+201848,Hye Jin Park,KOR
+201849,Veronica Stele,ARG
+201850,Nino Louarsabishvili,GEO
+201851,Joanne Moore,GBR
+201852,Paula Hermida Velo,ESP
+201853,Andrea Muller,GER
+201854,Mariana Mesa,COL
+201855,Adriana Barna,GER
+201856,Ekaterina Sysoeva,RUS
+201857,Juliana Garcia,COL
+201858,Kristina Triska,SWE
+201859,Luciana Masante,ARG
+201860,Mariam Ramon Climent,ESP
+201861,Romina Ottoboni,ARG
+201862,Vanessa Menga,BRA
+201863,Alice Canepa,ITA
+201864,Celeste Contin,ARG
+201865,Alicia Ortuno,ESP
+201866,Cristina Arribas,ESP
+201867,Magdalena Kucerova,GER
+201868,Renata Kucerova,CZE
+201869,Radka Pelikanova,CZE
+201870,Monica Weber,SUI
+201871,Kate Glancy,CAN
+201872,Bettina Diesner,AUT
+201873,Karen Smith,AUS
+201874,Helen Davis,AUS
+201875,Vicki Marler,AUS
+201876,Rosemary Eden,AUS
+201877,Karen Shin,USA
+201878,Junko Watanabe,JPN
+201879,Reka Vidats,HUN
+201880,Melinda Petkes,HUN
+201881,Nora Koves,HUN
+201882,Katarzyna Straczy,POL
+201883,Cynthia Ashling,USA
+201884,Marcelle Voyame,ARG
+201885,Marta Galli,ARG
+201886,Patricia Gomez,ARG
+201887,Laura Giussani,ARG
+201888,Marlie Buehler,USA
+201889,Patrizia Murgo,ITA
+201890,Xochitl Escobedo,MEX
+201891,Rona Daniels,USA
+201892,Lisa Pennington,GBR
+201893,Anabella Radics,ESP
+201894,Kylie Copeland,USA
+201895,Mahela Gartner Ockernahl,GER
+201896,Veronica Platz,ARG
+201897,Helena Manset,USA
+201898,Isabelle Crudo,FRA
+201899,Luciana Tella,BRA
+201900,Natasha Marcucci,ARG
+201901,Cheryl Jones,USA
+201902,Annette Gerber,FRG
+201903,Michelle Strebel,SUI
+201904,Karmen Skulj,YUG
+201905,Gisele Faria,BRA
+201906,Marwa El Wany,EGY
+201907,Lisette Senn,CAN
+201908,Karen Dewis,CAN
+201909,Carol Bertrand,CAN
+201910,Angela Walker,CAN
+201911,Nina Bland,CAN
+201912,Sylvie Tetreault,CAN
+201913,Jennifer Young,USA
+201914,Elizabeth Alexander,USA
+201915,Carrie Lynn Cohen,CAN
+201916,Anne Grousbeck,USA
+201917,Suzanne Italiano,CAN
+201918,Melanie Bernard,CAN
+201919,Christina Popescu,CAN
+201920,Renata Kolbovic,CAN
+201921,Martina Nejedly,CAN
+201922,Stephanie Tibbits,CAN
+201923,Alix Creek,USA
+201924,Caroline Delisle,CAN
+201925,Erica Adams,USA
+201926,Stephanie Reece,USA
+201927,Ludmilla Varmuza,SMR
+201928,Julia Lutrova,RUS
+201929,Laura Pena,ESP
+201930,Monica Guglielmi,ITA
+201931,Jill Waldman,USA
+201932,Jane Jarosz,USA
+201933,Alejandra Vallejo,MEX
+201934,Anne Marie Ruegg,SUI
+201935,Monica Simmen,SUI
+201936,Anne Mette Sorensen,DEN
+201937,Kathy Barton,USA
+201938,Ainhoa Goni Blanco,ESP
+201939,Anique Snijders,NED
+201940,Mirela Vladulescu,GER
+201941,Dora Krstulovic,CRO
+201942,Andreea Ehritt Vanc,ROU
+201943,Ivana Bracun,CRO
+201944,Zuzana Hejdova,CZE
+201945,Patricia Segala,BRA
+201946,Jean Ceniza,USA
+201947,Stephanie Mayorkis,BRA
+201948,Vicky Maes,BEL
+201949,Eva Jimenez Sanz,ESP
+201950,Miriam Dagostini,BRA
+201951,Ann Hulbert,USA
+201952,Elena Savoldi,ITA
+201953,Pamela Baily,AUS
+201954,Kirsten Dreyer,USA
+201956,Nicole Lorenzetti,USA
+201957,Dorien Wamelink,NED
+201958,Angela Cardoso,POR
+201959,Ana Catarina Nogueira,POR
+201960,Rosa Bielsa Hierro,ESP
+201961,Patricia Miller,URU
+201962,Erda Crous,RSA
+201963,Sofia Prazeres,POR
+201964,Tania Couto,POR
+201965,Sabrina Giusto,BRA
+201966,Natalie Tschan,SUI
+201967,Joana Manta,SUI
+201968,Geraldine Dondit,SUI
+201969,Karin Ptaszek,DEN
+201970,Vicki Beggs,USA
+201971,Jeong Soon Lee,KOR
+201972,Helen Park,KOR
+201973,Nicole Mabille,BEL
+201974,Mary Ann Colville,USA
+201975,Silvana Campos,BRA
+201976,Christina Rozwadowski,BRA
+201977,Eun Sook Han,KOR
+201978,Marlene De Wouters,BEL
+201979,Luciana Della Casa,BRA
+201980,Nicolette Rooimans,NED
+201981,Karim Strohmeier Merino,PER
+201982,Marielle Rooimans,NED
+201983,Janet Souto Garcia,ESP
+201984,Corinne Bousmans,BEL
+201985,Anne Aallonen,HKG
+201986,Renata Smekalova,TCH
+201987,Rita Cruz Lima,BRA
+201988,Sofie Albinus,DEN
+201989,Marina Bottazzi,ITA
+201990,Tanja Weigl,GER
+201991,Pamela Wallenfels,GER
+201992,Sabine Lohmann,GER
+201993,Pavlina Rajzlova,CZE
+201994,Christine Oreilly,USA
+201995,Jennifer Balent,USA
+201996,Clare Harrison,GBR
+201997,Debbie Stewart,GBR
+201998,Julie Filkoff,USA
+201999,Penny Johnson,USA
+202000,Yuen Yuen Ling,HKG
+202002,Kathleen Carey,HKG
+202003,Keiko Morimoto,JPN
+202004,Suzie Holm,HKG
+202005,Cathy Fink,USA
+202006,Nancy Spelman,HKG
+202007,Lili Bell,AUS
+202008,Susana Rojas,MEX
+202009,Ionita Nesti,ITA
+202010,Andrea Galloway,AUS
+202011,June Ferestein,USA
+202012,Lee Chan,HKG
+202013,Emanuela Brusati,ITA
+202014,Maria Eugenia Vento,VEN
+202015,Nicoletta Iaccarino,ITA
+202016,Pam Nelson,USA
+202017,Stephanie Halsell,USA
+202018,Anna Karin Olsson,SWE
+202019,Kim Labuschagne,RSA
+202020,Simona Isidori,ITA
+202021,Estefania Bottini,ESP
+202022,Sabrina Lucchi,ITA
+202023,Maite Martinez Perez,ESP
+202024,Barbara Navarro,ESP
+202025,Rosa Maria Perez,ESP
+202026,Noelia Serra Djamdjean,ESP
+202027,Elena Salvador Reja,ESP
+202028,Nuria Montero,ESP
+202029,Ana Salas Lozano,ESP
+202030,Carolina Rodriguez,COL
+202031,Rosa Maria Andres Rodriguez,ESP
+202032,Jane Holdren,USA
+202033,Gretchen Doninger,USA
+202034,Jane Thomas,USA
+202035,Holyn Lord,USA
+202036,Kristi Bastian,USA
+202037,Linley Tanner,USA
+202038,Ceyda Keyman,TUR
+202039,Ceylan Konuk,TUR
+202040,Linda Niemantsverdriet,NED
+202041,Joice Riana Sutedja,INA
+202042,Natalia Soetrisno,INA
+202043,Mimma Chernovita,INA
+202044,Eny Sulistyowati,INA
+202045,Il Soon Kim,KOR
+202046,Maaike Koutstaal,NED
+202047,Agustine Limanto,INA
+202048,Liza Andriyani,INA
+202049,Daria Chernova,UKR
+202050,Helena Olsson,SWE
+202051,Shelby Torrance,USA
+202052,Andrea Berger,USA
+202053,Xin Yi Li,CHN
+202054,Linda Barnard,RSA
+202055,Themis Zambrzycki,BRA
+202056,Ingrid Sommerauer,AUT
+202057,Andrea Pesak,AUT
+202058,Maria Geyer,AUT
+202059,Natasha Piskackova,TCH
+202060,Maria Romanov,ROU
+202061,Darlene Williamson,AUT
+202062,Janthe Cunningham,AUT
+202063,Irma Novakova Spurny,GER
+202064,Nike Dobrovits,AUT
+202065,Henrike Kadzidroga,GER
+202066,Sandra Reichel,AUT
+202067,Alice Nohacova,TCH
+202068,Petra Raclavska,CZE
+202069,Jenny Zika,AUT
+202070,Scarlett Werner,GER
+202071,Dragana Zaric,SRB
+202072,Tina Hergold,SLO
+202073,Chin Bee Khoo,MAS
+202074,Katharina Buche,AUT
+202075,Julia Jehs,GER
+202076,Eva Melicharova,CZE
+202077,Annelie Bjork,SWE
+202078,Rosabel Moyen,LUX
+202079,Kathy Obrien,USA
+202080,Danielle Scott,USA
+202081,Katalin Miskolczi,HUN
+202082,Niki Ninaus,AUS
+202083,Carol Watson,USA
+202084,Sherry Hull,MON
+202085,Galina Fokina,RUS
+202086,Natalia Biletskaia,UKR
+202087,Reeka Szikszay,HUN
+202088,Aida Khalatian,ARM
+202089,Irina Sukhova,UKR
+202090,Emily Bond,GBR
+202091,Olga Ivanova,RUS
+202092,Mihoka Matshushima,JPN
+202093,Kiyomi Nakagawa,JPN
+202094,Hatsuhi Isowa,JPN
+202095,Li Lan Duan,CHN
+202096,Li Qiao Yu,CHN
+202097,Jean Nachand,USA
+202098,Fumiko Furuhashi,JPN
+202099,Louise Pleming,AUS
+202100,Iwalani Mccalla,JAM
+202101,Patricia Rogulski,SVK
+202102,Kaoru Shibata,JPN
+202103,Keiko Ishida,JPN
+202104,Kazue Takuma,JPN
+202105,Anori Fukuda,JPN
+202106,Lori Kosten,USA
+202107,Edie Carell,USA
+202108,Robin Boss,USA
+202109,Kerri Reiter,USA
+202110,Lisa Albano,USA
+202111,Mary Norwood,USA
+202112,Carol Daniels,USA
+202113,Michelle Garth,ESP
+202114,Seiko Ichioka,JPN
+202115,Cathrine Instebo,NOR
+202116,Laura Dellangelo,ITA
+202117,Maria Paola Zavagli,ITA
+202118,Florence Gauvain,FRA
+202119,Olivia Fery,HKG
+202120,Kirstin Freye,GER
+202121,Benjamas Sangaram,THA
+202122,Orawan Thampensri,THA
+202123,Suvimol Duangchan,THA
+202124,Pimpisamai Kansuthi,THA
+202125,Phorhathai Suksamran,THA
+202126,Marissa Niroj,THA
+202127,Ding Ding,CHN
+202128,Riei Kawamata,JPN
+202129,Orawan Wongkamalasai,THA
+202130,Natalia Leipus,AUS
+202131,Christa Pickwick,NZL
+202132,Manuela Zoni,ITA
+202133,Annalisa Pesce,ITA
+202134,Katie Schlukebir,USA
+202135,Vanessa Henke,GER
+202136,Michele Wreem,USA
+202137,Shannon Gordon,USA
+202138,Gina Genovese,USA
+202139,Clare Schmoyer,USA
+202140,Cathleen Farrell,USA
+202141,Janice Rapp,USA
+202142,Betsy Blaney,USA
+202143,Lucia Fernandez,USA
+202144,Wendy Ouwendijk,USA
+202145,Shira Gafni,ISR
+202146,Allyson Ingram,USA
+202147,Zuzana Nemsakova,SVK
+202148,Alena Havrlikova,CZE
+202149,Eva Krejcova,CZE
+202150,Jana Lubasova,CZE
+202151,Milena Nekvapilova,CZE
+202152,Jana Hlavackova,CZE
+202153,Melanie Marois,CAN
+202154,Ioana Plesu,CAN
+202155,Annalia Dellorso,ITA
+202156,Gabriella Boschiero,ITA
+202157,Paola Tampieri,ITA
+202158,Cristina Cavina,ITA
+202159,Debbie Robb,USA
+202160,Marsha Bladel,USA
+202161,Linda Allred,USA
+202162,Page Bartelt,USA
+202163,Heather Willens,USA
+202164,Gigi Gonzalez,USA
+202165,Marilda Julia,USA
+202166,Emilie Viqueira,PUR
+202167,Marianne Colon,PUR
+202168,Elba Pinero,BOL
+202169,Christine Neuman,USA
+202170,Paula Cabezas,ESP
+202171,Klara Blahova,CZE
+202172,Ginevra Mugniani,ITA
+202173,Joana Cortez,BRA
+202174,Cynthia Ann Thomas,USA
+202175,Renata Della,BRA
+202176,Jorgelina Moreno,ARG
+202177,Titia Wilmink,NED
+202178,Jenny Whalen,USA
+202179,Shelley Bartlett,USA
+202180,Jana Strnadova,CZE
+202181,Lela Zainal,SGP
+202182,Dora Rangelova,BUL
+202183,Ralitza Milorieva,BUL
+202184,Jackie Joseph,USA
+202185,Anna Bielen Zarska,POL
+202186,Blanka Kumbarova,CZE
+202187,Ilana Berger,ISR
+202188,Valerie Batut,FRA
+202189,Anne Sophie Bittighoffer,FRA
+202190,Elke Renz,GER
+202191,Petra Van Oyen,FRG
+202192,Tzu Ting Weng,TPE
+202193,Maria Veronica Widyadharma,INA
+202194,Anna Klim,AUS
+202195,Petra Gaspar,HUN
+202196,Karen Denman,AUS
+202197,Debbie Chesterton,AUS
+202198,Shi Min Lin,TPE
+202199,Su Lin Lai,TPE
+202200,Miki Mizokuchi,JPN
+202201,Kiyoko Yazawa,JPN
+202202,Su Jen Lai,TPE
+202203,Yu Min Fan Chiang,TPE
+202204,Yu Hsien Liu,TPE
+202205,Shu Ping Lin,AUS
+202206,Stephanie Hales,USA
+202207,Michelle Weiss,USA
+202208,Genevieve Greiwe,USA
+202209,Glynis Oconnor,USA
+202210,Ann Flint,USA
+202211,Allegra Cesare,USA
+202212,Cricket Manuel,USA
+202213,Bunny Smith,USA
+202214,Holly Ann Lloyd,USA
+202215,Amy Mascotti,USA
+202216,Lilia Biktyakova,UZB
+202217,Kamila Dadakhodjaeva,UZB
+202218,Anna Zaporozhanova,UKR
+202219,Keiko Nagatomi,JPN
+202220,Kuniyo Tsukamoto,JPN
+202221,Cornelia Lechner,GER
+202222,Kathy Holton,USA
+202223,Soo Ok Kim,KOR
+202224,Yoko Kobayashi,JPN
+202225,Natalya Borodina,URS
+202226,Yoko Mitsuko,JPN
+202227,Judith Warringa,NED
+202228,Rie Nakazaka,JPN
+202229,Sasano Yoshiko,JPN
+202230,Mami Donoshiro,JPN
+202231,Shiho Hisamatsu,JPN
+202232,Yuka Tanaka,JPN
+202233,Ayako Hirose,JPN
+202234,Monique Viele,USA
+202235,Fukiko Osawa,JPN
+202236,Erica Oneill,USA
+202237,Susan Russo,USA
+202238,Rita Agassi,USA
+202239,Nina Voydat,USA
+202240,Donna Rubin,USA
+202241,Cissie Donigan,USA
+202242,Barbara Hambridge,RSA
+202243,Nancy Arendt,USA
+202244,Uschi Ulrich,AUT
+202245,Desislava Topalova,BUL
+202246,Ines Heise,GER
+202247,Erika Smith,USA
+202248,Cristina Moros,USA
+202249,Terri Oreilly,USA
+202250,Patty Murren,USA
+202251,Katrina Greenman,USA
+202252,Tanja Hauschildt,GER
+202253,Marijana Kovacevic,CRO
+202254,Dagmar Schafer,GER
+202255,Jillian Muller,SUI
+202256,Helena Vildova,CZE
+202257,Carmina Giraldo,COL
+202258,Jaslyn Hewitt,AUS
+202259,Valentina Sassi,ITA
+202260,Nicole Remis,AUT
+202261,Joanna Sakowicz Kostecka,POL
+202262,Katrina Nimmers,USA
+202263,Anne Nguyen,USA
+202264,Cory Ann Avants,USA
+202265,Mirielle Dittmann,AUS
+202266,Kelly Liggan,IRL
+202267,Diana Srebrovic,CAN
+202268,Montinee Tangphong,THA
+202269,Erika Valdes,MEX
+202270,Habiba Ifrakh,MAR
+202271,Vanessa Krauth,ARG
+202272,Ana Timotic,SRB
+202273,Liga Dekmeijere,LAT
+202274,Adrienn Hegedus,HUN
+202275,Tagifano Soonalole,SAM
+202276,Shelley Stephens,NZL
+202277,Mariana Correa,ECU
+202278,Romy Farah,COL
+202279,Virag Nemeth,HUN
+202280,Olga Kalyuzhnaya,RUS
+202281,Ivanna Israilova,RUS
+202282,Goulnara Fattakhetdinova,RUS
+202283,Anouska Van Exel,NED
+202284,Mariona Gallifa Puig Desens,ESP
+202285,Silvana Bauer,NED
+202286,Elise Tamaela,NED
+202287,Daniela Kix,AUT
+202288,Elke Clijsters,BEL
+202289,Jin Hee Kim,KOR
+202290,Kyung Mi Chang,KOR
+202291,Seiko Okamoto,JPN
+202292,Ayami Takase,JPN
+202293,Jie Hao,CHN
+202294,Yan Ze Xie,CHN
+202295,Ying Yu,CHN
+202296,Maria Jose Lopez Herrera,MEX
+202297,Maria Kondratieva,RUS
+202298,Feriel Esseghir,ALG
+202299,Maria Wolfbrandt,SWE
+202300,Meryem El Haddad,MAR
+202301,Sunitha Rao,IND
+202302,Maria Fernanda Alves,BRA
+202303,Carla Tiene,BRA
+202304,Nicole Pitts,USA
+202305,Manisha Malhotra,IND
+202306,Diana Ospina,USA
+202307,Tanner Cochran,USA
+202308,Paula Garcia,ESP
+202309,Ana Lucia Migliarini De Leon,URU
+202310,Shadisha Robinson,USA
+202311,Petra Dizdar,CRO
+202312,Olga Vymetalkova,CZE
+202313,Darija Jurak,CRO
+202314,Leslie Koffi,USA
+202315,Beier Ko,SGP
+202316,Maika Ozaki,JPN
+202317,Ilke Gers,NZL
+202318,Pichittra Thongdach,THA
+202319,Lydia Steinbach,GER
+202320,Sandra Klemenschits,AUT
+202321,Napaporn Tongsalee,THA
+202322,Maki Arai,JPN
+202323,Eden Marama,NZL
+202324,Neha Uberoi,USA
+202325,Isha Lakhani,IND
+202326,Ankita Bhambri,IND
+202327,Megan Falcon,USA
+202328,Lana Popadic,CRO
+202329,Jessica Fernandez,MEX
+202330,Maria Vanina Garcia Sokol,ARG
+202331,Vilmarie Castellvi,PUR
+202332,Dominika Nociarova,SVK
+202333,Delia Sescioreanu,ROU
+202334,Hanna Nooni,SWE
+202335,Antonia Matic,GER
+202336,Magdalena Kiszczynska,POL
+202337,Klaudia Jans Ignacik,POL
+202338,Elizabeth Kobak,USA
+202339,Ayu Fani Damayanti,INA
+202340,Caroline Maes,BEL
+202341,Melanie Gloria,CAN
+202342,Daniella Jeflea,AUS
+202343,Erica Krauth,ARG
+202344,Magda Mihalache,ROU
+202345,Katarina Kachlikova,SVK
+202346,Jewel Peterson,USA
+202347,Karolina Kosinska,POL
+202348,Lina Stanciute,LTU
+202349,Rushmi Chakravarthi,IND
+202350,Olena Antypina,UKR
+202351,Shayna Mcdowell,AUS
+202352,Daniela Munoz Gallegos,MEX
+202353,Maria Jose Argeri,ARG
+202354,Andrea Benitez,ARG
+202355,Sanja Ancic,CRO
+202356,Nikola Frankova,CZE
+202357,Madalina Gojnea,ROU
+202358,Irina Kotkina,RUS
+202359,Chin Wei Chan,TPE
+202360,Marrit Boonstra,NED
+202361,Erika Takao,JPN
+202362,Teodora Mircic,SRB
+202363,Vivien Silfany Tony,INA
+202364,Sandy Gumulya,INA
+202365,Lavinia Tananta,INA
+202366,Sanaa Bhambri,IND
+202367,Jing Ren,CHN
+202368,Tanja Ostertag,GER
+202369,Tara Iyer,IND
+202370,Jenifer Widjaja,BRA
+202371,Lindsey Nelson,USA
+202372,Lucia Batta,HUN
+202373,Ekaterina Afinogenova,RUS
+202374,Nicole Kriz,AUS
+202375,Emilie Bacquet,FRA
+202376,Raquel Kops Jones,USA
+202377,Brittany Augustine,USA
+202378,Kirsten Flower,USA
+202379,Chieh Yu Hsu,USA
+202380,Silvia Disderi,ITA
+202381,Ksenia Milevskaya,BLR
+202382,Ekaterina Shulaeva,CAN
+202383,Eva Maria Hoch,AUT
+202384,Kyra Shroff,IND
+202385,Shan Shan Song,CHN
+202386,Sung Hee Han,KOR
+202387,Vlada Ekshibarova,UZB
+202388,Dilyara Saidkhodjaeva,UZB
+202389,Sandra Martinovic,BIH
+202390,Ellen Barry,NZL
+202391,Akiko Yonemura,JPN
+202392,Melisa Miranda Otarola,CHI
+202393,Andrea Koch Benvenuto,CHI
+202394,Camila Silva,CHI
+202395,Maria Irigoyen,ARG
+202396,Nadja Roma,SWE
+202397,Lamia Essaadi,MAR
+202398,Veronika Chvojkova,CZE
+202399,Margit Ruutel,EST
+202400,Anna Fitzpatrick,GBR
+202401,Amanda Elliott,GBR
+202402,Eloisa Maria Compostizo De Andres,ESP
+202403,Leticia Costas,ESP
+202404,Maite Gabarrus Alonso,ESP
+202405,Alexis King,USA
+202406,Natasa Zoric,SRB
+202407,Palma Kiraly,HUN
+202408,Amanda Fink,USA
+202409,Alisa Ogorodova,UZB
+202410,Sofia Shapatava,GEO
+202411,Sariya Khairova,UZB
+202412,Maria Mokh,RUS
+202413,Florencia Molinero,ARG
+202414,Catherine Harrison,USA
+202415,Ximena Hermoso,MEX
+202416,Nungnadda Wannasuk,THA
+202417,Tetiana Luzhanska,USA
+202418,Lara Arruabarrena,ESP
+202419,Barbara Luz,POR
+202420,An Sophie Mestach,BEL
+202421,Alison Van Uytvanck,BEL
+202422,Shuko Aoyama,JPN
+202423,Sarah Gronert,GER
+202424,Conny Perrin,SUI
+202425,Samantha Murray,GBR
+202426,Julia Boserup,USA
+202427,Johanna Konta,GBR
+202428,Kiki Bertens,NED
+202429,Camila Giorgi,ITA
+202430,Alize Lim,FRA
+202431,Tetyana Arefyeva,UKR
+202432,Hilda Melander,SWE
+202433,Anna Giulia Remondina,ITA
+202434,Aleksandra Krunic,SRB
+202435,Vanda Lukacs,HUN
+202436,Reka Luca Jani,HUN
+202437,Anastasia Grymalska,ITA
+202438,Ani Mijacika,CRO
+202439,Silvia Albano,ITA
+202440,Paula Ormaechea,ARG
+202441,Nina Khrisanova,RUS
+202442,Tatia Mikadze,GEO
+202443,Valeria Savinykh,RUS
+202444,Kamilla Farhad,AZE
+202445,Valeria Solovieva,RUS
+202446,Eugenie Bouchard,CAN
+202447,Alexandra Mueller,USA
+202448,Zoe Gwen Scandalis,USA
+202449,Victoria Larriere,FRA
+202450,Jana Cepelova,SVK
+202451,Nicole Rottmann,AUT
+202452,Yi Jing Zhao,CHN
+202453,Saisai Zheng,CHN
+202454,Erika Sema,JPN
+202455,Yue Yue Hu,CHN
+202456,Alexandra Cadantu Ignatik,ROU
+202457,Bibiane Schoofs,NED
+202458,Ashleigh Barty,AUS
+202459,Bojana Bobusic,AUS
+202460,Ons Jabeur,TUN
+202461,Julia Cohen,USA
+202462,Karen Castiblanco,COL
+202463,Ines Ferrer Suarez,ESP
+202464,Yuliana Lizarazo,COL
+202465,Maria Abramovic,CRO
+202466,Nadia Abdala,MEX
+202467,Elitsa Kostova,BUL
+202468,Jessica Pegula,USA
+202469,Garbine Muguruza,ESP
+202470,Annika Beck,GER
+202471,Karen Barbat,DEN
+202472,Laura Thorpe,FRA
+202473,Annalisa Bona,ITA
+202474,Henrietta Habler,HUN
+202475,Jasmina Tinjic,BIH
+202476,Csilla Borsanyi,HUN
+202477,Dinah Pfizenmaier,GER
+202478,Tara Moore,GBR
+202479,Grace Min,USA
+202480,Richel Hogenkamp,NED
+202481,Chi Chi Scholl,USA
+202482,Barbara Haas,AUT
+202483,Sandra Zaniewska,POL
+202484,Nicole Gibbs,USA
+202485,Jana Juricova,SVK
+202486,Mallory Burdette,USA
+202487,Nastassja Burnett,ITA
+202488,Valentyna Ivakhnenko,UKR
+202489,Carina Witthoeft,GER
+202490,Rebecca Peterson,SWE
+202491,Varvara Flink,RUS
+202492,Qiang Wang,CHN
+202493,Ekaterine Gorgodze,GEO
+202494,Elina Svitolina,UKR
+202495,Jennifer Elie,USA
+202496,Samantha Crawford,USA
+202497,Victoria Duval,USA
+202498,Julia Glushko,ISR
+202499,Donna Vekic,CRO
+202500,Maria Sanchez,USA
+202501,Hyun Hui Hong,KOR
+202502,So Ra Lee,KOR
+202503,Luksika Kumkhum,THA
+202504,Ying Ying Duan,CHN
+202505,Belinda Bencic,SUI
+202506,Margarita Gasparyan,RUS
+202507,Wing Yau Venise Chan,HKG
+202508,Yuxuan Zhang,CHN
+202512,Lucia Gongora,MEX
+202513,Ana Maria Ycaza,ECU
+202514,Cecilia Rosado,MEX
+202518,Claudia Hernandez Salas,MEX
+202536,Ana Bogdan,ROU
+202539,Alison Bai,AUS
+202558,Veronika Kapshay,UKR
+202578,Laura Ioana Andrei,ROU
+202579,Giulia Gatto Monticone,ITA
+202580,Federica Di Sarra,ITA
+202581,Chanel Simmonds,RSA
+202594,Elena Bogdan,ROU
+202596,Mihaela Buzarnescu,ROU
+202600,Viktoriya Tomova,BUL
+202604,Despina Papamichail,GRE
+202606,Claudia Giovine,ITA
+202611,Oksana Kalashnikova,GEO
+202614,Jacqueline Cako,USA
+202622,Lyudmyla Kichenok,UKR
+202626,Stephanie Vogt,LIE
+202628,Maryna Zanevska,BEL
+202633,Nina Zander,GER
+202639,Akiko Omae,JPN
+202640,Irina Ramialison,FRA
+202642,Gioia Barbieri,ITA
+202653,Denisa Allertova,CZE
+202659,Tereza Mrdeza,CRO
+202662,Camilla Rosatello,ITA
+202663,Magda Linette,POL
+202669,Cristina Dinu,ROU
+202671,Cristina Andreea Mitu,ROU
+202672,Ekaterina Yashina,RUS
+202681,Gabriela Dabrowski,CAN
+202684,Lin Zhu,CHN
+202685,Misa Eguchi,JPN
+202688,Isabella Shinikova,BUL
+202693,Ya Hsuan Lee,TPE
+202694,Teliana Pereira,BRA
+202695,Aleksandrina Naydenova,BUL
+202701,Irina Khromacheva,RUS
+202702,Tereza Smitkova,CZE
+202705,Veronica Cepede Royg,PAR
+202706,Manon Arcangioli,FRA
+202707,Myrtille Georges,FRA
+202858,Anne Schaefer,GER
+202916,Georgina Garcia Perez,ESP
+202919,Chang Liu,CHN
+202921,Shiho Akita,JPN
+202922,Michaela Honcova,SVK
+202932,Marta Sirotkina,RUS
+203236,Angelina Gabueva,RUS
+203281,Amandine Hesse,FRA
+203288,Jia Jing Lu,CHN
+203297,Nadiya Kichenok,UKR
+203315,Alexa Guarachi,USA
+203325,Martina Di Giuseppe,ITA
+203341,Sanaz Marand,USA
+203354,Martina Trevisan,ITA
+203379,Marina Melnikova,RUS
+203389,Danielle Collins,USA
+203398,Danielle Lao,USA
+203414,Nicole Melichar,USA
+203415,Ilona Kremen,BLR
+203435,Dalila Jakupovic,SLO
+203462,Kateryna Baindl,UKR
+203463,Nuria Parrizas Diaz,ESP
+203475,Carol Zhao,CAN
+203489,Hao Chen Tang,CHN
+203500,Sachia Vickery,USA
+203501,Taylor Townsend,USA
+203504,Miyu Kato,JPN
+203509,Diana Marcinkevica,LAT
+203513,Robin Anderson,USA
+203514,Katarzyna Kawa,POL
+203518,Paula Kania,POL
+203521,Andrea Gamiz,VEN
+203526,Tammi Patterson,AUS
+203530,Viktorija Golubic,SUI
+203533,Anna Karolina Schmiedlova,SVK
+203542,Daria Mironova,RUS
+203549,Olga Ianchuk,UKR
+203552,Risa Ozaki,JPN
+203553,Riko Sawayanagi,JPN
+203562,Erin Routliffe,CAN
+203564,Chloe Paquet,FRA
+203567,Ipek Soylu,TUR
+203572,Polina Monova,RUS
+203575,Danka Kovinic,MNE
+203576,Kai Lin Zhang,CHN
+203578,Fangzhou Liu,CHN
+203584,Adriana Perez,VEN
+203591,Katy Dunne,GBR
+203593,Maree Booth,AUS
+203594,Susan Kreymborg,AUS
+203596,Helen Luscombe,AUS
+203598,Jackie Monsour,AUS
+203599,Jackie Pinto,AUS
+203601,Julie Peters,AUS
+203602,Kathy Mantle,AUS
+203604,Sylvie Gardette,FRA
+203605,Gwen Warnock,AUS
+203606,Yvette Flu,NED
+203626,Jaime Kaplan,USA
+203631,Jackie Masters,AUS
+203657,Donna Stockton,USA
+203658,Jennifer Fenwick,AUS
+203660,Michelle Berrigan,AUS
+203662,Diane Eastburn,AUS
+203663,Donna Kelly,AUS
+203664,Sue Chancellor,AUS
+203665,Amanda Pryor,AUS
+203666,Dianne Berkinshaw,AUS
+203667,Valerie Franta,USA
+203668,Rosalyn Mccann,AUS
+203669,Eri Murata,JPN
+203672,S Matthews,AUS
+203674,K Leslie,AUS
+203675,Wendy Pearson,AUS
+203676,J Carey,AUS
+203677,Helen Rice,AUS
+203679,M Earl,AUS
+203685,Jacqueline Le Boubennec,FRA
+203686,Michele Mizen,FRA
+203687,Rita Felix,SUI
+203688,Stephanie Bardsley,CAN
+203689,Jacqueline Berson,FRA
+203691,Anne Marie Cassaigne,FRA
+203692,Madeleine Pegel,SWE
+203693,Marie Christine Brochard,FRA
+203694,Kumarani Ranga Rao,IND
+203696,Maria Hollingsworth,AUT
+203697,Lucinda Crosby,USA
+203698,Christiane Sarrazin,FRA
+203699,J Turner,USA
+203700,Yoshiro Tanaka,JPN
+203702,Ingrid Sadlon,SUI
+203704,Gina Diaz Ponce,MEX
+203705,Susanne Korpas,GER
+203706,Mi Ok Lee,KOR
+203707,Andrea Menezes,BRA
+203708,Ines Roget,ARG
+203709,Estela Benavides,ESP
+203710,Maria Teresa Salvidea Diaz,MEX
+203711,J Ray,USA
+203712,Huguette Barat,FRA
+203713,Silvana Belardinelli,ITA
+203714,Marketa Wallenfels,FRG
+203715,Karin Boshoff,RSA
+203717,K Bluhm,USA
+203722,Lucia Rios De Almeida,BRA
+203723,Vera Lucia Giugni,BRA
+203725,Patricia Rime,FRA
+203728,Agnes Graczol,HUN
+203730,Barbara Kral,POL
+203732,Veronika Buche,AUT
+203733,Martine Bureau,FRA
+203734,Yolanda Sumarno,INA
+203735,Antonella Canapi,ITA
+203736,Martine Cazaux,FRA
+203737,Marillia Matte,BRA
+203738,Michiko Saji,JPN
+203741,Perrine Du Puy,FRA
+203744,Satoyo Funaki,JPN
+203746,Wanda Ferraz De Oliveira,BRA
+203747,Natalie Scaramanga,FRA
+203748,Caroline Lane,USA
+203749,Agnes Figueras,FRA
+203750,Beatriz Villaverde,ARG
+203751,Eva Rozsavolgyi,HUN
+203757,Anna Belladonna,ITA
+203759,Helen Liebenberg,RSA
+203760,Martine Jodin,FRA
+203761,Pascale Bonneteau,FRA
+203764,Ayi Sutarno,INA
+203765,Cecilia Barbat,ARG
+203766,Eva Fridenzi,HUN
+203770,Marion Foldina,FRG
+203771,Anne Marie Casado,FRA
+203772,Nancy Weigel,USA
+203773,Helena Wimmer,AUT
+203774,Susan Zaro,USA
+203775,Gretchen Galt,USA
+203776,Anne Fritz,USA
+203777,Jeske Van Erven,NED
+203780,Amreeta Ahluwalia,IND
+203782,Kim Seddon,RSA
+203786,Stina Almgren,SWE
+203787,Holly Danforth,USA
+203788,Daniela Moise,ROU
+203790,Ellen Walliser,FRA
+203794,Annika Karlsson,SWE
+203796,Monica Reinach,RSA
+203816,Siobhan Nicholson,GBR
+203817,Lorrayne Gracie,GBR
+203818,Nicola Lusty,GBR
+203819,Catherine Berry,GBR
+203820,Caroline Bhaguandas,GBR
+203821,Susan Leach,GBR
+203822,Sarah Sullivan,GBR
+203823,Heidi Narborough,GBR
+203828,Margaret Redfearn,USA
+203829,Jo Griffiths,IRL
+203831,Judy Rich,GBR
+203834,Jenny Reeves,GBR
+203835,Kathy Foxworth,USA
+203838,Linda Harley,GBR
+203843,Gail Boon,RSA
+203863,Beverly Buckley,USA
+203864,Ann Etheredge,USA
+203865,Robin Khan,USA
+203867,Maria Fernandez,USA
+203868,Karen Kennington,USA
+203869,Karen Dawson,USA
+203870,Jenny Gardiner,USA
+203871,Lisa Kearney,USA
+203872,Kathy Mueller,USA
+203874,Maria Rothschild,USA
+203875,Judith Principe,USA
+203876,Becky Bell,USA
+203877,Connie Yowell,USA
+203878,Lori Miller,USA
+203879,Joni Urban,USA
+203880,Lisa Bublitz,USA
+203883,Shandra Livingston,USA
+203884,Merrilee Keller,USA
+203885,Elsa Rodriguez,COL
+203886,Joni Van Ryck De Groot,JAM
+203888,Jennifer Prah,USA
+204223,Peangtarn Plipuech,THA
+204246,Lesley Pattinama Kerkhove,NED
+204267,Petra Krejsova,CZE
+204288,Ji Hee Choi,KOR
+204291,Na Lae Han,KOR
+204294,Su Jeong Jang,KOR
+204304,Jawairiah Noordin,MAS
+204309,Stephanie Wagner,GER
+204352,Yvonne Neuwirth,AUT
+204376,Demi Schuurs,NED
+204377,Indy De Vroome,NED
+204384,Agnes Bukta,HUN
+204388,Lisa Maria Moser,AUT
+204394,Valentini Grammatikopoulou,GRE
+204397,Arina Folts,UZB
+204411,Storm Hunter,AUS
+204419,Ana Sofia Sanchez,MEX
+204420,Marcela Zacarias,MEX
+204426,Anett Kontaveit,EST
+204427,Sara Sorribes Tormo,ESP
+204429,Ghita Benhadi,MAR
+204430,Antonia Lottner,GER
+204431,Anna Lena Friedsam,GER
+204434,Ysaline Bonaventure,BEL
+205591,Paula Cristina Goncalves,BRA
+205606,Viktoria Kamenskaya,RUS
+205714,Julie Gervais,FRA
+205723,Anna Zaja,GER
+205815,Eri Hozumi,JPN
+205863,Veronika Birioukova,USA
+205892,Giuliana Olmos,MEX
+205918,Ulrikke Eikeri,NOR
+205925,Aliaksandra Sasnovich,BLR
+206007,Laura Pigossi,BRA
+206037,Daniela Seguel,CHI
+206045,Quirine Lemoine,NED
+206049,Jovana Jaksic,SRB
+206075,Hiroko Kuwata,JPN
+206077,Miharu Imanishi,JPN
+206102,Ankita Raina,IND
+206106,Prarthana G Thombare,IND
+206107,Zhaoxuan Yang,CHN
+206108,Jennifer Brady,USA
+206124,Tereza Martincova,CZE
+206136,Deniz Khazaniuk,ISR
+206144,Xenia Knoll,SUI
+206146,Catalina Pella,ARG
+206175,Tess Sugnaux,SUI
+206178,Susanne Celik,SWE
+206183,Cindy Burger,NED
+206194,Gabriela Ce,BRA
+206216,Olga Saez Larra,ESP
+206219,Oceane Dodin,FRA
+206242,Beatriz Haddad Maia,BRA
+206252,Barbora Krejcikova,CZE
+206255,Patricia Maria Tig,ROU
+206277,Marine Partaud,FRA
+206289,Maria Sakkari,GRE
+206292,Astra Sharma,AUS
+206294,Yue Yuan,CHN
+206329,Montserrat Gonzalez,PAR
+206335,Jesika Maleckova,CZE
+206345,Victoria Bosio,ARG
+206349,Mayo Hibi,JPN
+206354,Lina Qostal,MAR
+206362,Naiktha Bains,GBR
+206363,Anna Danilina,KAZ
+206368,Veronika Kudermetova,RUS
+206374,Yafan Wang,CHN
+206390,Isabelle Wallace,AUS
+206391,Ellen Perez,AUS
+206404,Elizaveta Kulichkova,RUS
+206408,Nadia Podoroska,ARG
+206417,Leolia Jeanjean,FRA
+206420,Ekaterina Alexandrova,RUS
+206430,Carolina Alves,BRA
+206433,Nadia Echeverria Alam,USA
+207884,Jan Bardot,USA
+210303,Kathinka Von Deichmann,LIE
+210337,Natalija Stevanovic,SRB
+210622,Andrea Lazaro Garcia,ESP
+210672,Polina Leykina,RUS
+210705,Irina Bara,ROU
+210722,Elise Mertens,BEL
+210738,Aldila Sutjiadi,INA
+210847,Miriana Tona,ITA
+210886,Mayar Sherif,EGY
+210926,Pei Chi Lee,TPE
+210931,Ching Wen Hsu,TPE
+210957,Cornelia Lister,SWE
+211019,Audrey Albie,FRA
+211031,Sarah Beth Grey,GBR
+211043,Maria Paulina Perez Garcia,COL
+211063,Valeriya Strakhova,UKR
+211095,Bernarda Pera,USA
+211107,Katie Boulter,GBR
+211148,Jasmine Paolini,ITA
+211208,Ho Ching Wu,HKG
+211216,Cristiana Ferrando,ITA
+211222,Jamie Loeb,USA
+211225,Quinn Gleason,USA
+211227,Lina Gjorcheska,MKD
+211260,Marie Benoit,BEL
+211269,Eudice Wong Chong,HKG
+211279,Harriet Dart,GBR
+211289,Courtney Collins,USA
+211316,Jessika Ponchet,FRA
+211321,Klaartje Liebens,BEL
+211328,Deborah Chiesa,ITA
+211329,Tena Lukas,CRO
+211337,Tamara Korpatsch,GER
+211342,Gabriela Lee,ROU
+211344,Caroline Uebelhoer,GER
+211351,Ayaka Okuno,JPN
+211390,Mari Osaka,JPN
+211407,Dejana Radanovic,SRB
+211411,Nina Stojanovic,SRB
+211432,Eden Silva,GBR
+211472,Oleksandra Korashvili,UKR
+211533,Jelena Ostapenko,LAT
+211539,Fiona Ferro,FRA
+211544,Nagi Hanatani,JPN
+211552,Harmony Tan,FRA
+211635,Louisa Chirico,USA
+211637,Tornado Alicia Black,USA
+211651,Paula Badosa,ESP
+211668,Riya Bhatia,IND
+211684,Magdalena Frech,POL
+211685,Rebecca Sramkova,SVK
+211700,Barbora Stefkova,CZE
+211701,Katerina Siniakova,CZE
+211702,Nao Hibino,JPN
+211713,Jaqueline Cristian,ROU
+211719,Shilin Xu,CHN
+211736,Ivana Jorovic,SRB
+211756,Patcharin Cheapchandej,THA
+211765,Emina Bektas,USA
+211768,Naomi Osaka,JPN
+211779,Yana Morderger,GER
+211796,Francoise Abanda,CAN
+211809,Daria Lodikova,RUS
+211814,Julia Grabher,AUT
+211817,Elena Gabriela Ruse,ROU
+211843,Anhelina Kalinina,UKR
+211846,Kyoka Okamura,JPN
+211856,Anastasiya Komardina,RUS
+211864,Maria Fernanda Herazo Gonzalez,COL
+211874,Victoria Rodriguez,MEX
+211878,Lizette Cabrera,AUS
+211880,Priscilla Hon,AUS
+211881,Olivia Tjandramulia,AUS
+211885,Alice Matteucci,ITA
+211887,Maia Lumsden,GBR
+211901,Aliona Bolsova,MDA
+211920,Martina Capurro Taborda,ARG
+211941,Zoe Hives,AUS
+211951,Ana Konjuh,CRO
+211966,Ksenia Gaydarzhi,RUS
+212001,Natalia Vikhlyantseva,RUS
+212026,Kwan Yau Ng,HKG
+212034,Fang Ying Xun,CHN
+212043,Freya Christie,GBR
+212044,Katharina Gerlach,GER
+212081,Helen Asciak,MLT
+212318,Aslina Chua,MAS
+212322,Dora Alavantic,YUG
+212323,Bente Kjolstad,NOR
+212324,Ellen Grindvold,NOR
+212326,Flore Wagner,LUX
+212331,Susan Stone,CAN
+212332,Susi Eichenberger,SUI
+212334,Gladys Imperial,PHI
+212335,Marisa Sanchez,PHI
+212337,Orly Bialistozky,ISR
+212344,Suthasini Sirikaya,THA
+212364,Elsie Spruyt,NED
+212367,Geraldine Barniville,IRL
+212368,Helen Lennon,IRL
+212371,Sabine Bernegger,AUT
+212374,Caitriona Ruane,IRL
+212375,Bernadette Davy,IRL
+212381,Laila Pirila,FIN
+212388,Mari Ann Klougart,DEN
+212389,Jelena Gencic,YUG
+212395,Lone Vandborg,DEN
+212406,Irina Shevchenko,URS
+212413,Angela Longo,ZIM
+212426,Kirsten Robsahm,NOR
+212430,Maluca Llamas,MEX
+212451,Susan Butt,CAN
+212452,Almut Sturm,GER
+212455,Michele Kahn,BEL
+212458,Robyn Legge,NZL
+212463,Evagreth Emmenegger,SUI
+212471,Dorota Dziekonska,POL
+212478,Silvia Gubler,SUI
+212482,Norma Baylon,ARG
+212506,Rhona Howett,IRL
+212522,Margarita De Zuleta,CHI
+212525,Klara Bardoczy,HUN
+212530,Adriana Velcheva,BUL
+212533,Milly Vagn Nielsen,DEN
+212534,Pia Balling,DEN
+212593,Glenda Swan,RSA
+212618,Silvana Lazzarino,ITA
+212620,Louise Brown,CAN
+212623,Reiko Miyagi,JPN
+212624,Kazuko Kuromatsu,JPN
+212625,Mara Cohen Mintz,ISR
+212626,Tova Epstein,ISR
+212627,Parvin Afshar,IRI
+212632,Ruia Morrison,NZL
+212633,Elizabeth Terry,NZL
+212637,Deidre Catt,GBR
+212640,Benita Senn,CAN
+212641,Ulla Pontoppidan,DEN
+212644,Janine Bourgnon,SUI
+212646,Yola Ramirez,MEX
+212649,Mary Puljak,URU
+212650,Leyla Musalem,CHI
+212652,Rosario Briones,ECU
+212655,Katarina Bartholdson,SWE
+212657,Patricia Reyes,MEX
+212658,Leena Mutanen,FIN
+212659,Helena Laitinen,FIN
+212660,Beatrice Chrystman,BRA
+212664,Margaret Hunt,RSA
+212667,Jacqueline Rees Lewis,FRA
+212669,Margot Dittmeyer,FRG
+212672,Monique Bedoret,BEL
+212706,Katherine Camilleri,MLT
+212715,Claudia Van Der Weck,URU
+212751,Elena Guerra,ESP
+212770,Ludmila Makarova,URS
+212772,Linda Stewart,NZL
+212777,Pia Tamayo,PHI
+212784,Jo Sheridan,IRL
+212805,Paige Mary Hourigan,NZL
+213031,Emiko Sakaguchi,JPN
+213032,Monica Lundqvist,SWE
+213033,Kay Mcdaniel,USA
+213037,Tracie Blumentritt,USA
+213039,Anneli Bjork,SWE
+213046,Tracy Houk,USA
+213093,Nora Bajchikova,CZE
+213142,Lisa Lusteg,USA
+213525,Jil Teichmann,SUI
+213530,Allie Kiick,USA
+213537,Olga Fridman,UKR
+213544,Jana Fett,CRO
+213550,Sofia Kenin,USA
+213576,Iryna Shymanovich,BLR
+213583,Tatjana Maria,GER
+213602,Gabriella Taylor,GBR
+213604,Luisa Stefani,BRA
+213620,Jessica Pieri,ITA
+213631,Marie Bouzkova,CZE
+213634,Rita Atik,MAR
+213646,Dalma Galfi,HUN
+213657,Martha Matoula,GRE
+213666,Maddison Inglis,AUS
+213672,Usue Maitane Arconada,USA
+213674,Jade Lewis,NZL
+213706,Irene Burillo Escorihuela,ESP
+213710,Cristina Bucsa,ESP
+213734,Mariam Bolkvadze,GEO
+213767,Ayla Aksu,USA
+213779,Raluka Serban,CYP
+213780,Andreea Amalia Rosca,ROU
+213821,Wushuang Zheng,CHN
+213837,Ylena In Albon,SUI
+213849,Nicole Fossa Huergo,ITA
+213873,Gabriela Andrea Knutson,CZE
+213882,Lena Reichel,AUT
+213887,Renata Zarazua,MEX
+213889,Greet Minnen,BEL
+213892,Nazrin Jafarova,AZE
+213899,Frances Altick,USA
+213908,Yuriko Miyazaki,GBR
+213926,Bianca Turati,ITA
+213947,Ying Zhang,CHN
+213949,Hanna Chang,USA
+213998,Ipek Oz,TUR
+214020,Amina Anshba,RUS
+214032,Chiraz Bechri,TUN
+214040,Kimberly Birrell,AUS
+214060,Yuliana Monroy,COL
+214081,Katharina Hobgarski,GER
+214082,Daria Kasatkina,RUS
+214096,Karolina Muchova,CZE
+214119,Rebeka Masarova,ESP
+214123,Kristina Schmiedlova,SVK
+214149,Viktoria Hruncakova,SVK
+214158,Anastasiya Shoshyna,UKR
+214181,Anastasia Gasanova,RUS
+214189,Alicia Herrero Linana,ESP
+214191,Seone Mendez,AUS
+214219,Tessah Andrianjafitrimo,FRA
+214236,Angela Fita Boluda,ESP
+214247,Lena Rueffer,GER
+214262,Ena Shibahara,JPN
+214263,Catherine Cartan Bellis,USA
+214301,Tatiana Pieri,ITA
+214304,Vera Lapko,BLR
+214312,Sherazad Reix,FRA
+214386,Xinyu Gao,CHN
+214388,Anna Bondar,HUN
+214405,Mirjam Bjorklund,SWE
+214452,Caroline Dolehide,USA
+214453,Sophie Chang,USA
+214459,Lucia Bronzetti,ITA
+214461,Tamara Zidansek,SLO
+214480,Miriam Bianca Bulgaru,ROU
+214487,Ioana Minca,ROU
+214507,Berfu Cengiz,TUR
+214521,Lea Boskovic,CRO
+214534,Komola Umarova,UZB
+214540,Chihiro Muramatsu,JPN
+214541,Fanny Stollar,HUN
+214544,Aryna Sabalenka,BLR
+214577,Stacey Fung,CAN
+214593,Lucrezia Stefanini,ITA
+214604,Maria Lourdes Carle,ARG
+214608,Jia Qi Kang,CHN
+214643,Liudmila Samsonova,RUS
+214646,Xiaodi You,CHN
+214653,Andreea Prisacariu,ROU
+214684,Katherine Sebov,CAN
+214691,Ylona Georgiana Ghioroaie,ROU
+214694,Karman Thandi,IND
+214697,Charlotte Robillard Millette,CAN
+214728,Ashley Kratzer,USA
+214782,Fernanda Contreras Gomez,MEX
+214818,Mira Antonitsch,AUT
+214826,Susan Bandecchi,SUI
+214839,Jodie Burrage,GBR
+214842,Zuleykha Safarova,AZE
+214862,Martina Okalova,SVK
+214863,Sofya Zhuk,RUS
+214906,Claire Liu,USA
+214919,Dalila Spiteri,ITA
+214930,Jenny Duerst,SUI
+214939,Anna Kalinskaya,RUS
+214954,Marketa Vondrousova,CZE
+214981,Elena Rybakina,KAZ
+214992,Zhibek Kulambayeva,KAZ
+215018,Destanee Aiava,AUS
+215020,Anna Blinkova,RUS
+215035,Dayana Yastremska,UKR
+215037,Kayla Day,USA
+215042,Katie Swan,GBR
+215045,Xinyu Jiang,CHN
+215062,Carson Branstine,USA
+215064,Maria Mateas,USA
+215077,Viktoria Morvayova,SVK
+215096,Jaimee Fourlis,AUS
+215111,Joanne Zuger,SUI
+215131,Nefisa Berberovic,BIH
+215138,Lulu Sun,NZL
+215151,Lina Glushko,ISR
+215155,Olesya Pervushina,RUS
+215219,Kaja Juvan,SLO
+215250,Hanyu Guo,CHN
+215259,Leonie Kung,SUI
+215290,Katarina Zavatska,UKR
+215305,Desirae Krawczyk,USA
+215306,Emiliana Arango,COL
+215314,En Shuo Liang,TPE
+215337,Olga Danilovic,SRB
+215370,Bianca Andreescu,CAN
+215371,Francesca Di Lorenzo,USA
+215372,Ksenia Laskutova,RUS
+215431,Emily Appleton,GBR
+215453,Marina Bassols Ribera,ESP
+215468,Momoko Kobori,JPN
+215480,Suzan Lamens,NED
+215550,Ayano Shimizu,JPN
+215566,Gergana Topalova,BUL
+215571,Guiomar Maristany Zuleta De Reales,ESP
+215572,Nuria Brancaccio,ITA
+215588,Yasmine Mansouri,FRA
+215613,Emma Navarro,USA
+215614,Mei Yamaguchi,JPN
+215696,Diae El Jardi,MAR
+215713,Anastasia Potapova,RUS
+215748,Alyssa Mayo,USA
+215750,Ana Biskic,CRO
+215785,Camila Osorio,COL
+215798,Rosa Vicens Mas,ESP
+215806,Alice Robbe,FRA
+215812,Shuyue Ma,CHN
+215832,Gabriella Da Silva Fick,AUS
+215872,Kamilla Rakhimova,RUS
+215878,Aurora Zantedeschi,ITA
+215898,Jule Niemeier,GER
+215899,Simona Waltert,SUI
+215910,Panna Udvardy,HUN
+215936,Francesca Jones,GBR
+215946,Ye Xin Ma,CHN
+215983,Ann Li,USA
+215988,Mai Hontama,JPN
+215992,Whitney Osuigwe,USA
+215996,Arianne Hartono,NED
+216013,Yuliya Hatouka,BLR
+216016,Xiyu Wang,CHN
+216044,Yuki Naito,JPN
+216055,Francisca Jorge,POR
+216062,Meiling Wang,CHN
+216074,Anna Siskova,CZE
+216081,Maja Chwalinska,POL
+216083,Caty Mcnally,USA
+216097,Elizabeth Mandlik,USA
+216116,Elena Malygina,EST
+216119,Maileen Nuudi,EST
+216133,Xin Yu Wang,CHN
+216139,Sofya Lansere,RUS
+216146,Marta Kostyuk,UKR
+216151,Jessica Plazas,COL
+216153,Amanda Anisimova,USA
+216179,Valeriya Olyanovskaya,RUS
+216213,Sohyun Park,KOR
+216262,Clara Burel,FRA
+216265,Olivia Gadecki,AUS
+216347,Iga Swiatek,POL
+216367,Sada Nahimana,BDI
+216566,Mananchaya Sawangkaew,THA
+216579,Weronika Falkowska,POL
+216587,Hong Yi Cody Wong,HKG
+216593,Sei Rei Cho,TPE
+216596,Barbara Murphy,AUS
+216597,Sharon Oconnor,AUS
+216600,Pamela Southcombe,AUS
+216601,Bernadette Heavey,AUS
+216602,Patricia Ahern,AUS
+216603,Michelle Arnott,AUS
+216609,Suzanne Lundgren,SWE
+216610,Jenny Burrows,AUS
+216611,Wendy Moore,AUS
+216615,Eleanora Dumitrescu,ROU
+216616,Ekaterina Rosianu,ROU
+216617,Patricia Bianchi,ARG
+216622,Valerie Forbes,RSA
+216623,Beverley Vercoe,NZL
+216624,Barbara Walsh,AUS
+216625,Penelope Hardgrave,GBR
+216627,Wendy Slaughter,GBR
+216628,Jenny Helliar,GBR
+216629,Jan Morton,AUS
+216630,Gwynn Sammel,RSA
+216631,Lorna Whitfield,RSA
+216633,Mary Mcanally,GBR
+216636,Althea Gibson,USA
+216637,Carrie Fleming,USA
+216638,Cathy Beene,USA
+216639,Karen Feldman,USA
+216641,Fiona Moffitt,GBR
+216644,Denise Taylor,GBR
+216645,Revonne Du Toit,RSA
+216646,Patricia Brailsford,GBR
+216647,Ros Lewis,GBR
+216648,Susan Pendo,USA
+216653,Rayleen Henningson,SWE
+216657,Shelley Aguero,USA
+216694,Liza Riefkohl,MEX
+216705,Jill Patterson,USA
+216732,Jennifer Rothschild,USA
+216736,Ellen Drieberger,NED
+216744,Jill Hamilton,USA
+216746,Aschara Moranon,USA
+216753,Martina Reinhardt,GER
+216765,Asa Flodin,SWE
+216768,Kiki Reuter,GER
+216769,Lucy Fendig,USA
+216770,Cathy Canuti,USA
+216771,Nicole Stafford,USA
+216783,Lynn Lewis,USA
+216788,Lisa Sassano,USA
+216789,Virginia Brown,USA
+216888,Lani Wilcox,USA
+219434,Brienne Minor,USA
+219875,Varvara Gracheva,FRA
+219917,Alycia Parks,USA
+220191,Sue Roux,ZIM
+220192,Diana Moskova,BUL
+220200,Lena Dvornik,YUG
+220205,Tamar Levin,ISR
+220206,Margaret Burns,IRL
+220207,Lotte Solbeck,DEN
+220215,Gillian Kay,ISR
+220216,Renata Ostermann,FRG
+220217,Alex Rotas,GRE
+220218,Patricia Rivera,CHI
+220229,Diane Craig,IRL
+220309,Zeynep Sonmez,TUR
+220332,Eva Lys,GER
+220348,Diane Parry,FRA
+220351,Luiza Fullana,BRA
+220367,Leylah Fernandez,CAN
+220416,Moyuka Uchijima,JPN
+220432,Dayeon Back,KOR
+220435,Anastasia Zakharova,RUS
+220440,Alexa Noel,USA
+220446,Jazmin Ortenzi,ARG
+220454,Yeon Woo Ku,KOR
+220465,Katie Volynets,USA
+220466,Joanna Garland,TPE
+220502,Ariana Arseneault,CAN
+220520,Mccartney Kessler,USA
+220548,Peyton Stearns,USA
+220550,Dalayna Hewitt,USA
+220589,Elina Avanesyan,ARM
+220597,Thasaporn Naklo,THA
+220662,Veronika Erjavec,SLO
+220680,Fiona Crawley,USA
+220699,Julia Riera,ARG
+220704,Clara Tauson,DEN
+220713,Nika Radisic,SLO
+220714,Elisabetta Cocciaretto,ITA
+220718,Sakura Hosogi,JPN
+220722,Elvina Kalieva,USA
+220733,Carole Monnet,FRA
+220742,Leyre Romero Gormaz,ESP
+220750,Daria Snigur,UKR
+220770,Eva Vedder,NED
+220781,Carlota Martinez Cirez,ESP
+220842,Shrivalli Rashmikaa Bhamidipaty,IND
+221000,Diletta Cherubini,ITA
+221004,Amarissa Kiara Toth,HUN
+221012,Qinwen Zheng,CHN
+221014,Francesca Curmi,MLT
+221024,Hailey Baptiste,USA
+221039,Elsa Jacquemot,FRA
+221054,Emma Raducanu,GBR
+221073,Anastasia Tikhonova,RUS
+221086,Mariia Tkacheva,RUS
+221096,Sijia Wei,CHN
+221099,Rina Saigo,JPN
+221103,Coco Gauff,USA
+221109,Boyoung Jeong,KOR
+221124,Himeno Sakatsume,JPN
+221139,Ziva Falkner,SLO
+221173,Valentina Ivanov,NZL
+221187,Priska Madelyn Nugroho,INA
+221190,Julia Middendorf,GER
+221191,Margaux Rouvroy,FRA
+221236,Polina Kudermetova,UZB
+221237,Maria Timofeeva,RUS
+221243,Martyna Kubka,POL
+221247,Ekaterina Makarova,RUS
+221257,Sinja Kraus,AUT
+221307,Darja Vidmanova,CZE
+221333,Solana Sierra,ARG
+221354,Lisa Pigato,ITA
+221395,Ekaterina Reyngold,RUS
+221406,Alina Charaeva,RUS
+221407,Oksana Selekhmeteva,RUS
+221434,Aliona Falei,BLR
+221501,Antonia Samudio,COL
+221512,Katrina Scott,USA
+221746,Oceane Babel,FRA
+221768,Nastasja Schunk,GER
+221883,Talia Gibson,AUS
+221885,Fangran Tian,CHN
+221905,Robin Montgomery,USA
+221909,Ashlyn Krueger,USA
+221911,Selena Janicijevic,FRA
+221945,Amelia Rajecki,GBR
+221985,Darja Semenistaja,LAT
+222000,Maria Camila Torres Murcia,COL
+222017,Anouk Koevermans,NED
+222045,Antonia Ruzic,CRO
+222080,Hina Inoue,USA
+222081,Eleana Yu,USA
+222145,Janice Tjen,INA
+222189,Anna Sinclair Rogers,USA
+222233,Marina Stakusic,CAN
+222258,Linda Fruhvirtova,CZE
+222259,Natalia Szabanin,HUN
+222290,Lanlana Tararudee,THA
+222296,Zhuoxuan Bai,CHN
+222328,Linda Noskova,CZE
+222369,Arianna Zucchini,ITA
+222390,Ya Yi Yang,TPE
+222391,Lois Boisson,FRA
+222396,Matilde Paoletti,ITA
+222458,Pia Lovric,SLO
+222506,Anastasiya Soboleva,UKR
+222559,Han Shi,CHN
+222601,Jessica Bouzas Maneiro,ESP
+222661,Sonay Kartal,GBR
+222667,Monique Barry,NZL
+222837,Malaika Rapolu,USA
+222866,Katherine Hui,USA
+222919,Julia Avdeeva,RUS
+222965,Erika Andreeva,RUS
+222966,Dominika Salkova,CZE
+222980,Lucie Havlickova,CZE
+223077,Stephanie Johnson,USA
+223079,Katerina Bohmova,CZE
+223087,Tara Wurth,CRO
+223120,Briana Szabo,ROU
+223122,Teri Whitlinger Jones,USA
+223159,Vivian Yang,NZL
+223194,Taylah Preston,AUS
+223253,Alexandra Eala,PHI
+223286,Victoria Jimenez Kasintseva,AND
+223323,Barbora Palicova,CZE
+223325,Polina Iatcenko,RUS
+223331,Anca Alexia Todoni,ROU
+223333,Noma Noha Akugue,GER
+223335,Cadence Brace,CAN
+223336,Weronika Baszak,POL
+223360,Nikola Bartunkova,CZE
+223410,Georgia Pedone,ITA
+223415,Federica Urgesi,ITA
+223454,Ros Riach,RSA
+223455,Barbara Harmer,RSA
+223456,Ianthe Cunningham,RSA
+223457,Theresa Kleynhans,RSA
+223458,Gail Joss,RSA
+223459,Anita Summers,RSA
+223460,Vicky Martin,RSA
+223461,Lena Jacobs,RSA
+223462,Elvyn Barrable,RSA
+223463,Ingrid Reynecke,RSA
+223464,Lorna Zietsman,RSA
+223465,Pye Moreton,RSA
+223466,Retha Human,RSA
+223467,Lienkie Snyman,RSA
+223468,Annelise Muller,RSA
+223469,Elana Smukler,RSA
+223470,Helen Moore,RSA
+223473,Margarida Rodriguez,
+223474,Julie Gardiner,AUS
+223475,Toni Moss,USA
+223476,Anne Seidler,USA
+223477,Donna Lies,USA
+223478,M Wilkens,RSA
+223479,Helen Weiner,RSA
+223480,Niekle Scheepers,RSA
+223481,Cilla Van Der Walt,RSA
+223483,Cheryl Mccann,AUS
+223484,C Pearson,AUS
+223485,R Daub,AUS
+223486,Gai Healey,AUS
+223487,Heather Dahlgren,AUS
+223489,Julia Lloyd,GBR
+223490,Daniela Nosek,GER
+223491,Irene Schultz,GER
+223492,Jana Sedlackova,CZE
+223495,Vera Komar,CAN
+223496,Betty Newfield,USA
+223497,Micki Larkin,USA
+223498,Betsy Butler,USA
+223499,Robin Kahn,USA
+223500,Hillary Laduke,USA
+223501,Terry Metcalf,USA
+223502,Wilma Smit,RSA
+223503,Nicky Kruger,RSA
+223504,Mandy Parson,CAN
+223505,Dundee Davis,USA
+223506,Flo Bryan,USA
+223507,L Whitefield,RSA
+223508,Marion Lloyd Wronsley,RSA
+223509,T Jwara,RSA
+223510,J Bouwer,RSA
+223511,J Robertson,RSA
+223512,Susan Pendlebury,RSA
+223513,G Durrheim,RSA
+223514,S Van Rensburg,RSA
+223515,Leta Welthagen,RSA
+223516,P Katu,RSA
+223517,Alana Bakos,RSA
+223518,M De Villiers,RSA
+223519,Sue Hole,AUS
+223521,Anneloes Schothorst,NED
+223524,Karin Seltenreich,GER
+223525,Dagmar Stoltenberg,GER
+223526,Susan Eastman,USA
+223527,Susie Miner,USA
+223528,Ginny Mahoney,USA
+223529,Andrea Voikos,USA
+223530,Nancy Harter,USA
+223531,Ai Lida,JPN
+223532,Tomoko Hirokawa,JPN
+223533,Kimiyo Yagawara,JPN
+223534,Yoko Okada,JPN
+223535,Terisa Viljoen,RSA
+223536,Rosamba Niciforovic,RSA
+223537,A Croucamp,RSA
+223538,Sannie Gouws,RSA
+223539,E Schroder,RSA
+223540,W Moore,RSA
+223541,Mynie Van Zyl,RSA
+223542,Pam Kruger,RSA
+223543, Dimitriu,RSA
+223544,J Howard,AUS
+223545,L De Crop,BEL
+223546,Daphne Fancutt,AUS
+223548,L Bell,USA
+223550,J Cary,AUS
+223551,G Maxwell,AUS
+223552,Kerry Walker,AUS
+223553,T Pauley,AUS
+223554,Sarah Taylor,AUS
+223555,J Stephens,AUS
+223556,M Davey,AUS
+223557,P Howard,AUS
+223558,L Alisop,AUS
+223559,J Hall,AUS
+223560,Maureen Ireson,AUS
+223561,R Murphy,AUS
+223562,Jeong Soon Yaung,KOR
+223563,Toni Novack,USA
+223564,Cindy Brinker,USA
+223565,Bonnie Logan,USA
+223566,Mimi Henreid,USA
+223567,Cathie Gagel,USA
+223568,Sylvia Hooks,USA
+223569,Nancy Spencer,USA
+223570,Linda Wert,USA
+223571,Heidi Reetmeyer,GER
+223572,Rosemary Pearson,GBR
+223573,Birgit Wegemann,GER
+223574,Birgit Portscheller,GER
+223575,Barbel Kasler,GER
+223576,Baerbel Wuestl,GER
+223577,Helga Spitskowski,GER
+223578,Jill Minford,IRL
+223579,Nuala Dwyer,GBR
+223580,Sara Follen,USA
+223581,I Carlton,IRL
+223582,Dorothy Armstrong,IRL
+223583,Pat Ryan Niland,IRL
+223584,Ann Keegan,IRL
+223585,Maureen Ryan,IRL
+223586,Nuala Mcmordie,IRL
+223587,Eleanor Oneill,IRL
+223588,Helen Doody,IRL
+223589,Paula Mullen,IRL
+223590,Sally Rogers,GBR
+223591,N Spence,GBR
+223592,B Jones,GBR
+223593,M Page Jones,GBR
+223594,Mary Otoole,GBR
+223595,R Jones,GBR
+223596,Nicky Phelan,GBR
+223597,Margaret Russo,USA
+223598,Wendy Baker,GBR
+223599,Linda Woods,GBR
+223600,Wyn Welsh,USA
+223601,June Greenfield,USA
+223602,Lynn Koth,USA
+223603,Sherry Bedingfield,USA
+223604,Sue Pritula,USA
+223605,Shelley Hudson,USA
+223606,Camey Timberlake,USA
+223607,Beverly Culbertson,USA
+223608,Hana Hublerova,TCH
+223609,Jane Mott,GBR
+223612,Heather Bucke,RSA
+223613,Ria Greeff,RSA
+223614,Elviry Dry,RSA
+223616,Glenda Tunmer,RSA
+223617,Marie Botha,RSA
+223618,Vicky Oosthuizen,RSA
+223619,Eunice Rademeyer,RSA
+223624,Liz Worner,AUS
+223625,L Cooper,AUS
+223626,S Ellis,AUS
+223627,J Musgrave,AUS
+223628,J Worthington,AUS
+223629,S Thompson,AUS
+223630,B Crittenden,AUS
+223631,Rosemary Rosman,AUS
+223632,C Caplygin,AUS
+223633,Judith Gohl,AUS
+223634,Judy Gfroerer,USA
+223635,Mary Wisnieski,USA
+223636,Vicky Smouse,USA
+223637,Sue Epstein,USA
+223638,Nancy Allen,USA
+223639,E Graas,RSA
+223640,F Wadner,RSA
+223641,J Sammons,RSA
+223642,M Smit,RSA
+223643,C Ravinsky,RSA
+223644,T Young,RSA
+223645,A Niciforovic,RSA
+223646,B Christman,RSA
+223647,C Shu Mang,TPE
+223648,W Van Eeden,RSA
+223649,L Pirula,RSA
+223650,Lyn Montgomery,RSA
+223651,Gillian Van Der Merwe,RSA
+223652,R Le Roux,RSA
+223653,M Roberton,RSA
+223654,Mari Ann Aklougart,RSA
+223655,Marlene Gerson,RSA
+223656,O Oosterhuizen,RSA
+223657,Annette Steenkamp,RSA
+223658,Nati Santacana,ESP
+223659,Heather Allen,GBR
+223660,Kimiyo Hatanaka,JPN
+223661,Heather Mackeown,RSA
+223662,Sue Green,RSA
+223663,Aliki Koutsouri,RSA
+223664,Marlene Calitz,RSA
+223665,M Hendel,RSA
+223666,Jenny Waggot,RSA
+223667,Lucia Sarno,URU
+223668,A Slabbert,RSA
+223669,Yo Lan Liu,TPE
+223670,Diana Shnaider,RUS
+223671,Aya El Aouni,MAR
+223683,Sue Worsfield,GBR
+223684,E Scott,GBR
+223685,J Loosemore,GBR
+223686,Ruth Morgan,GBR
+223687,Susan Prysor Jones,GBR
+223688,Esme Laing,GBR
+223689,Lesley Boardman,GBR
+223690,Diane Parker,USA
+223691,Sashi Sampath,USA
+223692,Susanne Gray,USA
+223693,Mary Hotchkiss,USA
+223694,Kathy Grater,USA
+223695,Nicole Boucher,CAN
+223696,Barbara Brankovsky,CAN
+223697,S Fulcher,GBR
+223698,Binnie Blackburn,GBR
+223699,Susan Morgan,GBR
+223700,Joanne Mchugo,GBR
+223701,Sue Garrett,GBR
+223702,Sue Edgecombe,GBR
+223703,Sue Imhoff,GBR
+223704,Barbara Wanke,GBR
+223705,Sarah Huntington,GBR
+223706,T Hughes,GBR
+223707,Julia Gregory,GBR
+223708,Nora Davies,GBR
+223709,Sandra Williams,USA
+223710,M Smith,AUS
+223711,J Larritt,AUS
+223712,M Huggins,AUS
+223713,G Edmunds,AUS
+223714,L Jowett,AUS
+223715,H Branson,AUS
+223716,Julie Hunt,AUS
+223717,Cecilie Fleming,NZL
+223718,Elaine Stephan,NZL
+223719,Ann Stevens,NZL
+223720,Jill Fraser,NZL
+223721,Jeanette Amer,NZL
+223722,Shelley Monds,NZL
+223723,Wendy Hitt,PUR
+223724,Maria Ayala,PUR
+223725,Christine Marais,RSA
+223726,Elizabeth Oosthuizen,RSA
+223727,Lynn Mcdonald,RSA
+223728,C Gevers,RSA
+223729,J Swart,RSA
+223730,P Welsh,RSA
+223731,Heloise Burger,RSA
+223732,A Le Roux,RSA
+223733,G Russell,RSA
+223734,J Smith,RSA
+223735,Melanie Muller,RSA
+223736,Franzie Alberts,RSA
+223737,A Barrow,RSA
+223738,L Bank,RSA
+223740,Susie Smit,RSA
+223741,Donna Floyd,USA
+223742,Beverly Cansler,USA
+223743,Sandra Dron,ROU
+223744,Miroslava Hobulova,TCH
+223745,Karin Benson,USA
+223746,Janet Thomas,USA
+223747,Hilda Priester,USA
+223748,Betty White,USA
+223749,Paulette Keene,USA
+223750,Roberta Alison,USA
+223751,Ellen Hayes,USA
+223752,Joan Kennedy,USA
+223753,Jeanne Blackmon,USA
+223754,Jean Weckwarth,USA
+223755,Susan Tenney,USA
+223756,Pat Garcia,USA
+223757,Jan Hasse,USA
+223758,Doreen Irish,USA
+223759,Joan Lightfoot,USA
+223760,Susan Starrett,USA
+223762,E Bryan,IRL
+223764,Jennifer Cronin,IRL
+223765,M Richens,GBR
+223766,Carolyn Camp,GBR
+223767,Joanne Haye,GBR
+223768,F Henniker,GBR
+223769,Ann Charlotte Dahlberg,SWE
+223770,Maria Strandberg,SWE
+223772,Katarina Frendelius,SWE
+223773,I Sadion,TCH
+223774,Susan Waterworth,GBR
+223775,Christine Hill,GBR
+223776,Barbara Mueller,USA
+223777,Janice Kindle,CAN
+223781,Valerie Scott,GBR
+223782,Una Vakino,RSA
+223783,C Stow,RSA
+223784,Kathy Welsh,USA
+223785,Maribeth Bunch,USA
+223786,Joy Harris,USA
+223787,Sally Ride,USA
+223788,Teri Tafel,USA
+223789,Connie Pearson,USA
+223790,Helen Kelly,GBR
+223792,Cathy Lorrains,GBR
+223793,Nicola Salter,GBR
+223794,M Dixon,GBR
+223795,Belinda Allen,GBR
+223796,Pam Jones,GBR
+223797,A Mcpherson,GBR
+223798,Pepy Munslow,GBR
+223799,Janet Wheeler,GBR
+223800,Cherry Armitage,NZL
+223801,Margie Rennie,NZL
+223802,Judy Langford,NZL
+223803,Susan Armstrong,NZL
+223804,Patricia Hern,NZL
+223805,Shirley Collins,NZL
+223806,Suzie Alberts,RSA
+223807,Margaret Van Rensburg,RSA
+223808,Celeste Behrmann,RSA
+223809,Erna Ackermann,RSA
+223810,M Dowson,RSA
+223811,I Cuypers,RSA
+223812,Roberta Smith,RSA
+223813,Christine Bell,RSA
+223814,Estelle Van Tonder,RSA
+223815,Agnes Botha,RSA
+223816,M Kritzinger,RSA
+223817,Hannelie Van Greunen,RSA
+223818,Ann Madden,RSA
+223819,Pam Watermeyer,RSA
+223820,G Lardner Burke,RSA
+223821,Paola Monami,ITA
+223822,Helen Crooke,AUS
+223823,Graziella Perna,ITA
+223824,Marion Hofer,GER
+223825,Birgit Frese,GER
+223826, Boehme,GER
+223827,Elisabeth Ciepka,POL
+223828,Hilke Schoenwalder,GER
+223829, Ruediger,GER
+223831,A Coghlan,IRL
+223832,Isobel Ryan,IRL
+223833,Helen Jackson,IRL
+223834,Bernadette Burke,IRL
+223835,E Visser,NED
+223836,Patricia Ogorman,IRL
+223837,C A Lewis,GBR
+223838,Ann Beames,GBR
+223839,S Hamilton,GBR
+223840,R Mortoire,GBR
+223841,G A Opray,GBR
+223842,Denise Staniszewski,GBR
+223843,M Kyrke Smith,GBR
+223844,Barbara Newnes,GBR
+223845,S Thompson,GBR
+223846,Elizabeth Clark,GBR
+223847,M Audus,GBR
+223848,E Turner,GBR
+223849,Gillian Wotherspoon,GBR
+223850,S Horrock,GBR
+223851,Lesley Wellerman,GBR
+223852,Louise Owen,USA
+223853,Martha Irby,USA
+223854,Lenka Kodesova,TCH
+223855,Amelie Hacks,GER
+223856,Gaby Tremus,GER
+223857,Susan Eagar,CAN
+223858,Chris Safford,USA
+223859,Linda Lewis,USA
+223860,Louise Brough,USA
+223861,L Halim,INA
+223862,S Oconor,AUS
+223863,Carol Gagliano,USA
+223864,Mary Turke,USA
+223865,Iris Buntemeyer,USA
+223866,Carol Gfroerer,USA
+223867,Maria Mejides,USA
+223868,Eileen Carter,USA
+223869,Karen Seiferd,USA
+223870,Sally Slater,USA
+223871,Marge Kilgus,USA
+223872,Una Keyes,USA
+223873,Gay Shaw,USA
+223874,Barbara Foster,USA
+223875,Sue Goodwin,USA
+223876,Carol Gordon,USA
+223877,Carol Hansen,USA
+223878,Irene Jozefowitz,USA
+223879,Joan Keller,USA
+223880,Isabella Ortiz,USA
+223881,Dianne Bridger,GBR
+223882,Dianne Oakley Grundy,GBR
+223883,Vicky Schofield,GBR
+223884,Barbara Wadsworth,GBR
+223885,Margot Knowles,GBR
+223886,E Shearing,GBR
+223889,Vivienne Merson,GBR
+223890,Sandra Coe,GBR
+223891,Anne Lloyd,GBR
+223892,J Lloyd,GBR
+223893,D Mckinnon,GBR
+223894,C Richens,GBR
+223895,C Eaton Smith,GBR
+223897,G Bishop,AUS
+223899,Laura Collins,AUS
+223901,Isabelle Bojun,AUS
+223902,J Edmiston,AUS
+223903,M Slocombe,AUS
+223904,Brenda Jenkins,AUS
+223905,Robyn Murphy,AUS
+223906,Akiko Endo,JPN
+223907,Sue Blackwood,NZL
+223908,Patsy Stevens,NZL
+223909,Jill Bignell,NZL
+223910,Eileen Pomales,PUR
+223911,W Loggerenberg,RSA
+223912,Anne Papenfus,RSA
+223913,C Cehrman,RSA
+223915,Anne Mcalpine,GBR
+223916,M Tarr,RSA
+223917,N Prinsloo,RSA
+223918,M Dowson,RSA
+223919,N Goulden,RSA
+223920,L Dunn,RSA
+223921,R Greeg,RSA
+223922,Maud Thorne,RSA
+223923,P Kriger,RSA
+223924,Sylvia Stott,RSA
+223925,Y Anderson,RSA
+223926,Anne Mcmillan,RSA
+223929,N Christiaensen,FRA
+223930,Jacqueline Venturino,FRA
+223931,Alessandra Gobbo,ITA
+223932,Lorna Cornell,GBR
+223933,Anthea Rigby,GBR
+223934,Micheline Five,BEL
+223935,Lisette Sliepen,BEL
+223937,Marilyn Headifen,GBR
+223938,Lorna Agnew,IRL
+223939,Elizabeth Heffernan,IRL
+223941,F Donnelly,IRL
+223942,Nicole Hesse Cazaux,FRA
+223943,Maria Esther Cardenas,PER
+223944,Kathy Schlukebir,USA
+223945,Patty Miller,USA
+223946,Marilyn Celander,USA
+223947,Gwyn Thomas,USA
+223948,Charlotte Atwater,USA
+223949,Marian Munroe,CAN
+223953,Penny Sparling,CAN
+223954,Stephanie Green,CAN
+223955,Inge Weber,CAN
+223956,Karen Wills,CAN
+223957,Heather Young,CAN
+223959,Sylvia Thunig,GER
+223960,Karin Herich,GER
+223961,Dodo Cheney,USA
+223962,Anita Platt,USA
+223963,Evelyn Houseman,USA
+223964,Barbara Green,USA
+223965,Ana Maria Piotti,ARG
+223966,Alicia Guccione,ARG
+223967,Maria Cristina Fernandez,ARG
+223968,Mary Pujak,URU
+223969,Ines Caceres,ARG
+223970,Graciela Echevarria,ARG
+223971,Elena Eguiguren,ARG
+223972,Ana Maria Ganzabal,ARG
+223973,Marta Fernandez Ruiz,ARG
+223974,Gladys Barboza,ARG
+223975,Maria Cavadini,ARG
+223976,Ana Maria Donati,ARG
+223977,Jean Evans,USA
+223978,Nancy Leand,USA
+223979,Nancy Hopkins,USA
+223980,Priscilla Groop,USA
+223981,Ann Daunic,USA
+223982,Nancy Falkenberg,USA
+223983,Helen Palmer,USA
+223984,Cristina De Soto,COL
+223985,Lee Connelly,
+223986,Norma De Veal,
+223987,Veronica Mandel,VEN
+223988,Beatriz Del Corral,COL
+223989,Maria Isabel Mosquera,COL
+223990,Beatriz Marin,COL
+223991,Claude Moran,FRA
+223992,Aminita Van Der Hans,PAN
+223993,Maria De Cortes,COL
+223994,Jackie Pallister,GBR
+223996,J Hissett,GBR
+223997,Sandra Okin,GBR
+223998,A Cornelius,GBR
+223999,Jane Fitzalan Howard,GBR
+224000,Pam Jeffreys,GBR
+224001,Marilyn Bevan,GBR
+224002,Jean Mcfarlane,GBR
+224003,Joan Eickson,GBR
+224004,Barbara Wroten,USA
+224005,Whitney Grant,USA
+224006,Ginger Pfeiffer,USA
+224007,Tuppy Dougherty,USA
+224008,Baba Lewis,USA
+224009,Diana Gai,USA
+224010,Lea Trumbull,USA
+224011,Mary Hill,USA
+224012,Rill Culver,USA
+224013,Gwen Armstrong,GBR
+224014,Evelyn Armstrong,GBR
+224017,C D Leslie,GBR
+224018,A J Morgan,GBR
+224019,C Batchelor,GBR
+224020,K F Cooper,GBR
+224021,A Womack,GBR
+224022,Sue Templer,GBR
+224024,Elizabeth Fenton,AUS
+224027,Margaret Dunn,AUS
+224029,Jane Poynder,GBR
+224030,Belinda Orchard,GBR
+224032,Alison Stroud,GBR
+224035,Heidi Aeberhard,SUI
+224037,Ingrid Menke,GER
+224038,Haidl Bohlens,GER
+224039,Janie Freeman,USA
+224040,Janet Mohr,USA
+224041,Teri Schwartz,USA
+224042,Delores Fernandez,USA
+224043,Mandy Einstein,USA
+224047,Maria Caceres,ARG
+224048,Mabel Bove,ARG
+224049,Helen Plaisted,AUS
+224050,Sandra Stephens,AUS
+224051,S Riebel,AUS
+224052,Kerry Stephens,AUS
+224054,Ann Murphy,USA
+224055,Roberta Zimman,USA
+224056,Mary Fuller,USA
+224057,Jane Dennis,USA
+224058,Linda Mank Horwitch,USA
+224059,Charo Couder,ESP
+224060,Jean Wilson,GBR
+224061, Kellerman,RSA
+224062,S Harvey,RSA
+224063,S Reinach,RSA
+224064,J Hennessy,RSA
+224065,Marie Fourie,RSA
+224066,J Stevens,RSA
+224067,E Harvey,RSA
+224068,Jocelyn Davie,RSA
+224069,Peachy Kellmeyer,USA
+224070,Marielle Lombard,FRA
+224071,Sara De Nigris,ITA
+224072,Olga De Soto,VEN
+224073,M Polli,ITA
+224074,Ebba Leijonhufvud,SWE
+224075,Maria Teresa Lazzarino,ITA
+224076,Maria Cristina Diaz,BRA
+224077,Mariana Ciogolea,ROU
+224078, Juergens,GER
+224079,Renate Breuer,GER
+224080,Carola Schinke,GER
+224083,Gail Baker,GBR
+224084,Mary Penn,GBR
+224085,Jean Walker Smith,GBR
+224087,Andrea Saunders,USA
+224088,Dena Garcia,USA
+224089,Carol Gay,USA
+224090,N Peters,GBR
+224091,M Whittles,GBR
+224092,B Simpson,GBR
+224093,Christine Body,GBR
+224094,P Rhodes,GBR
+224095,Ann Northway,GBR
+224096,Helen Softley,GBR
+224097,D Higham,GBR
+224098,Doreen Smith,GBR
+224099,D Scothey,GBR
+224100,Elizabeth Loughrey,GBR
+224101,Jean Fraser,GBR
+224103,Willi Brown,CAN
+224106,Rosemary Fletcher,CAN
+224107,Hiroko Kosaka,JPN
+224108,Judy Travis,CAN
+224109,Carol Wendell Wood,USA
+224110,Gretchen Vosters,USA
+224111,Ann Rowbotham,USA
+224112,Susan Anawalt,USA
+224113,Rhoda Herron,USA
+224114,Nancy Ribak,USA
+224115,Jackie Gondring,USA
+224116,Judy Leong,USA
+224119,Sheila Moodie,GBR
+224120,Fiona Campbell,GBR
+224121,Ann Paul,GBR
+224126,Helen Retter,GBR
+224132,Rauza Islanova,URS
+224136,Jill Cottrill,AUS
+224137,Sue Behlmar,USA
+224138,Patsy Rippy,USA
+224139,Jacque Tegland,USA
+224142,Betty Hagerman,USA
+224143,Hedy Jackson,CAN
+224148,Erica Laidlau,RSA
+224153,Delaille Hewitt,RSA
+224156,Gudrin Rosin,SWE
+224157,Gisela Helmes,GER
+224159,Brigitte Hoffmann,GER
+224162,Veronika Koch,GER
+224164,Janine Schmahman,RSA
+224169,Fay Lobb,NZL
+224170,Kirsten Anden,SWE
+224171,Eva Andersson,SWE
+224172,Marilyn Pride,NZL
+224173,Pam Rogan,NZL
+224183,Kathy Checket,USA
+224186,Olga Montano,MEX
+224191,Susan Biscoe,JAM
+224194,Tiiu Soome,EST
+224197,M Benker,
+224199,Carmen Bustamante,ESP
+224200,L Fournier,FRA
+224202,Francoise Savy,VEN
+224213,Fiona Morris,RHO
+224214,Nancy De Realme,MEX
+224216,Alina Balbiers,MEX
+224217,Susana Zenea,MEX
+224218,Nekane De Ortiz,MEX
+224219,Luz Maria Hernandez,MEX
+224221,Fina Cabrera,PUR
+224222,D Hugard,FRA
+224231,E C Sharpe,GBR
+224232,E J Allen,GBR
+224233,Jenny Wagstaff,GBR
+224237,Vivian Grisogono,GBR
+224240,Christine George,GBR
+224248,Jean Fyfe,GBR
+224250,Eleonora Galadova,CZE
+224251,Jenny Chamberlain,GBR
+224254,S Martin,GBR
+224260,Averil Morris,GBR
+224261,Janet Kemp,GBR
+224267,Alison Fraser Black,GBR
+224279,Pat Wheeler,GBR
+224283,Anthea Odonoghue,IRL
+224284,Maeve Mcevoy,IRL
+224285,Niamh Glenn,IRL
+224286,Susan Houlihan,IRL
+224287,P Appleby,USA
+224288,Frances Keegan,IRL
+224289,Louise Gengler,USA
+224290,E Hagey,IRL
+224291,Jenny Kincaid,USA
+224292,Catherine Oreilly,IRL
+224293,Hilary Hodge,GBR
+224294,E Ranger,GBR
+224295,Sissy Kelly,USA
+224296,Martha Thornhill,USA
+224297,Sue Solon,USA
+224298,Cherry Panton,GBR
+224299,Marilen Laspe,GER
+224302,Charlene Murphy,USA
+224303,C Mohnhaupt,GER
+224304,Sanda Lopez,
+224305,Ursula Knubel,GER
+224306, Druen,GER
+224307, Kuhlmann,GER
+224308, Benz,GER
+224309,Katrin Pohmann,GER
+224310,Lew Harrison,
+224311,Inge Kubina,GER
+224312, Schechert,GER
+224313, Schultz,GER
+224314, Evans,
+224315,A Mansson,SWE
+224316,Judy Acker,USA
+224317,Kelly Kruk,USA
+224318,Julie Pressley,USA
+224319,Sue Rasmussen,USA
+224320,Barbara Goldman,USA
+224321,Crissy Gonzalez De Fuentes,PUR
+224322,Wendy Mccolskey,USA
+224323,Debbie Pescetelli,USA
+224324,Teresa Samstag,ESP
+224325,Patricia Armel,ESP
+224326,Martine Burreau,
+224327,Vicki Abels,GBR
+224328, Villagrante,
+224329,Clelia Mazzoleni,ITA
+224330, Bianco,ITA
+224331,Carla Mel,ITA
+224332,R Jafarey,GBR
+224333,J V A Boothman,GBR
+224334,Carolin Bastin,GBR
+224335,S Freeman,GBR
+224336,Debbie Parker,GBR
+224337,S Fairbarns,GBR
+224338,Sally Geeves,GBR
+224339,S Hawkins,GBR
+224340,Tina Sawyer,GBR
+224341,E Young,GBR
+224342,A Fry,GBR
+224343,Sharon Levan,GBR
+224344,D Kennett,GBR
+224345,D Murray,GBR
+224346,V Jackson,GBR
+224347,C Charlton,GBR
+224348,Tina Heath,GBR
+224349,P Robertson,GBR
+224350,Kim Hotston,GBR
+224351,Jackie Reardon,GBR
+224352,Debbie Morgan,GBR
+224353,Sonia Davies,GBR
+224354,I Wilkes,GBR
+224355,Elizabeth Locke,GBR
+224356,Lesley Romley,GBR
+224357,S Russell Vick,GBR
+224358,S Burgess,GBR
+224359,Lynn Robinson,GBR
+224360,M Jafarey,PAK
+224361,A Gedge,GBR
+224362,Caroline Glaszmann,FRA
+224363,G Wadsworth,GBR
+224364,Jane Charlton,GBR
+224365,N Tramacchi,GBR
+224366,J Wilks,GBR
+224367,C Myers,GBR
+224368,Peggy Kincaid,GBR
+224369, Obrien,GBR
+224370,H Soobryan,GBR
+224371,Jenny Langstaff,GBR
+224372,K Thompson,GBR
+224373,D Gale,GBR
+224374,J Treacy,GBR
+224375,S Morton,GBR
+224376,K Diprose,GBR
+224377,K Pretorius,GBR
+224378,F Lim,GBR
+224379,S Segal,GBR
+224380, Warren Piper,GBR
+224381,M Banton,GBR
+224382,M Gardini,GBR
+224383,H Wilks,GBR
+224384,L Philian,GBR
+224385,Sally Chapman,GBR
+224386,Judy Erskine,GBR
+224387,J Rayner,GBR
+224388,Amy Olmedo,USA
+224389,Ann Young,USA
+224390,Jena Strozier,USA
+224391,Moira Otoole,USA
+224392,Joan Carson,USA
+224393,Leslie Lipson,USA
+224394,Lynn Tholen,USA
+224395,Bunny Stockton,USA
+224396,Debbie Franz,USA
+224397,Cynthia Campbell,USA
+224398,S Pridham,GBR
+224399,C Lardner,GBR
+224400,G Armstrong,GBR
+224401,M Stevenson,GBR
+224402,Kristi Somers,GBR
+224403,C Lindsay,GBR
+224404,Lisa Beritzhoff,USA
+224405,K Neill,GBR
+224406,Mrs Lloyd,GBR
+224407,D Lozan,GBR
+224408,J Mcdowell,GBR
+224409,Marjorie Love,GBR
+224410,E Armstrong,GBR
+224411,J Onyehson,
+224412,J Griffiths,GBR
+224413,C Nnadozie,
+224414,H Mimachi,
+224415,I Wheeler,GBR
+224416,A Abikimu,
+224417,C King Hele,GBR
+224418,E Tarik,
+224419,J Ojiaga,
+224420,J Machand,GBR
+224421,Julie Harrison,GBR
+224422,A Arnott,GBR
+224423,Cathy Maso,USA
+224424,J Mcmutrie,GBR
+224425,Valerie Leiper,GBR
+224426,J Svobeda,GBR
+224427,V Hutcheon,GBR
+224428,C Williams,GBR
+224429,V Brown,GBR
+224430,C Kay,GBR
+224431,K Allen,GBR
+224432,M Hunter,GBR
+224433,J Cox,GBR
+224434,Anne Tripp,GBR
+224435,G Cooper,GBR
+224436,Julia Potterton,GBR
+224437,M Michiels,GBR
+224438,Jill Cottrell,GBR
+224439,Sue Smedley,GBR
+224440,Mrs Graham,GBR
+224441,D Verheijen,
+224442,N Bass,GBR
+224443,P Hawkins,GBR
+224444,Julie Willson,GBR
+224445,Annette Brouwer,
+224446,S Francis,GBR
+224447,J Lonsdale,GBR
+224448,Jo Smedley,GBR
+224449,J Syrett,GBR
+224450,L Hobley,GBR
+224451,R D Sa,GBR
+224452,M Barton,GBR
+224453,Jane Hancock,GBR
+224454,I Truijens,
+224455,Rosalinda Baron,GBR
+224456,Sue Turberville,GBR
+224457,L Carter,GBR
+224458,Linda Machin,GBR
+224459,A Sergeant,GBR
+224460,A Field,GBR
+224461,Joanna Wrigley,GBR
+224462,Elena Granaturovna,URS
+224463,Linda Siegelman,USA
+224464,Kyoko Hatanaka,JPN
+224465,C Teshima,JPN
+224466,Pierrette Seghers,FRA
+224472,L Smith,AUS
+224474,Kerry Hogarth,AUS
+224491,K Dugan,AUS
+224496,Marilyn Fernberger,USA
+224498,Heather Robson,NZL
+224504,Paulette Verzin,USA
+224512,Rana Epstein,USA
+224514,Chris Koutras,USA
+224518,Sharon Gleason,USA
+224519,Ann Nall,USA
+224524,Carolyn Liguori,USA
+224531,Maria Kull,URS
+224536,Clelia Gaeta,EGY
+224538,Magda Ezzat,EGY
+224543,Carmen Fernandez,MEX
+224544,Lupe Suarez,MEX
+224553,Mary Habicht,BRA
+224554,Claudine Casa,
+224568,Vivienne Dennis,GBR
+224574,Mrs S Dalton,GBR
+224588,Sheila Burley,GBR
+224594,C M Robinson,GBR
+224601,S Jones,GBR
+224614,Mrs R A Morgan,GBR
+224620,Maria Tchakarova,BUL
+224621,Linda Lou Crosby,USA
+224624,Anita Platte,USA
+224629,Marlene Muench,USA
+224632,Jane Roberts,USA
+224635,Martine Zacharias,SWE
+224637,Hilkka Hannula,FIN
+224639,Maria Teresa Cuadrado,ESP
+224640,Peggy Templar,GBR
+224644,Montserrat Corominas,ESP
+224663,Nirupama Vasant,IND
+224670,P Aubert,GBR
+224677,M Jones,GBR
+224683,Carol Southmayd,USA
+224690,Sue Strimel,USA
+224691,Carolyn Clarke,USA
+224705,Nicole Filippone,FRA
+224714,Regina Kawohl,GER
+224719,Trude Schoenberger,
+224729,Olga Lendlova,TCH
+224761,A Benade,RSA
+224766,V Kuebel,GER
+224767,Carol Bailey,USA
+224768,Molly Hannas,USA
+224769,Charlotte Leatham,GBR
+224770, Just,GBR
+224771, Harrison,GBR
+224772,Helene Brywe,SWE
+224773,Marlin Noriega,VEN
+224774, Lindquist,SWE
+224775,Lena Jacobsson,SWE
+224776,Elisabeth Lovisin,SWE
+224780,Sue Williams,USA
+224781,Choi Kyung Mie,KOR
+224782,Kathy Dalton,USA
+224783,K Morton,CAN
+224784,Michelle Ballheimer,GBR
+224785,Judith Phillips,NZL
+224786,D Lewis,GBR
+224787,D Scott,NZL
+224788,Susan Chapman,NZL
+224789,T Turberville,GBR
+224790,C Whitehead,GBR
+224791,M Robinson,GBR
+224792,Denise Parker,GBR
+224793,A Pompa,GBR
+224794,P L Bailey,GBR
+224795,L Brailsford,GBR
+224796,S Preece,GBR
+224797,J Campbell,GBR
+224798,S Black,GBR
+224799,Ruth Pullar Lothian,GBR
+224800,R Taylor,GBR
+224801,Kathleen Pratt,GBR
+224802,Chris Thomas,GBR
+224803,Anne Frautschi,USA
+224804,Judy Hanrahan,USA
+224805,Susanne Boesser,GER
+224806,Uta Lippold,GER
+224807,B Ferran,IRL
+224808,Birgit Morlock,GER
+224809, Wilms,GER
+224811,Monika Fuchs,GER
+224812,Jutta Wolff,GER
+224813, Hennes,GER
+224815, Daksa,GER
+224817,Sabine Muller,GER
+224818,Charlene Grafton,USA
+224819,Gina Marr,USA
+224824,Mrs M Rowley,IRL
+224827,Diane Brooks,USA
+224829,Vicky Kiyomura,USA
+224833,Melinda Duday,HUN
+224834,Julia Ann Holt,USA
+224837,Mrs C F Penn,GBR
+224842,Ann Bostrom,SWE
+224844,Enid Kerr,GBR
+224854,Mary Ellen Seifred,USA
+224856,Eva Szekerka,HUN
+224857,Yvonne Grimwade,GBR
+224860,Jean Stedman,GBR
+224870,Jean Sabatka,USA
+224876,Ria Leyrer,GER
+224877,Margot Schultze,GER
+224880,Connie Jaster,USA
+224881,Pat Yeomans,USA
+224890,Winnie Mccoy,USA
+224892,Mira Panajotovic,YUG
+224894,Mary Arnold,USA
+224895,Nina Tukhareli,URS
+224897,Y Komarova,URS
+224898,Yekaterina Kryuchkova,URS
+224900,Lilia Karpova,URS
+224901,S Zinkiewicz,URS
+224906,A Kree,URS
+224910,Yevgenia Izopaitis,URS
+224915,Rena Abzhandadze,URS
+224916,Carla Beach,USA
+224917,June Gay,USA
+224927,Agnes Rigby,GBR
+224931,S Langdale,GBR
+224951,Ann Lentz,USA
+224960,Jenny Trewby,GBR
+224965,Annika Nydeus,SWE
+224978,Kay Hubbell,USA
+224981,Jana Volkova,CZE
+224985,Josette Billaz,FRA
+225000,Odette Jacob,BEL
+225005,Rosemary White,AUS
+225024,S Mildner,GBR
+225045,Shirley Stapleton,GBR
+225048,C Roberts,GBR
+225073,M T Domenach,
+225075,Esther Rosengarten,ISR
+225084,Patty Lowden,USA
+225114,Beryl Parker,GBR
+225115,J Davies,GBR
+225127,Marcia Weinacker,USA
+225152,E Nottingham,GBR
+225158,Anne Rockwell,USA
+225165,Eleanor Blair,USA
+225166,Joan Piken,USA
+225189,Ingrid Poschmann,USA
+225195,Mrs A Smith,GBR
+225198,P A Gent,GBR
+225228,C Bevan,GBR
+225252,Debbie Pruitt,USA
+225257,Totta Zehden,GER
+225265,R Manasseh,
+225284,Catherine Duke,USA
+225290,Victoria Ketelsen,USA
+225293,Florence Powers,USA
+225309,Doris Gildemeister,CHI
+225328,C Champeau,FRA
+225329,E Jacquemet,FRA
+225330, Thomson,GER
+225331, Hiebler,GER
+225332, Mullmann,GER
+225333,Jan Devereaux,USA
+225338,Pam Hobbs,USA
+225340,C Morsi,
+225341,Lydia Zinkevich,URS
+225342, Alcuba,
+225343,Alice Trombley,USA
+225345, Hipperson,
+225346, Menendez,ESP
+225347,H Harris,GBR
+225348,J Sim,GBR
+225349,Mrs S Hunter,GBR
+225350,S Miles,GBR
+225351,Charlotte Bastin,GBR
+225352,Linda Kral,GBR
+225353,E Clark,GBR
+225354,A Barden,GBR
+225355,E Gignam,GBR
+225356,J Morton,GBR
+225357,G Livingstone,GBR
+225358,E Krot,GBR
+225359,E Robb,GBR
+225360,Christine Andrade Hoffman,BRA
+225363,Bonnie Miller,USA
+225364,Paula Brill,USA
+225365,Jane Hirsch,USA
+225366, Erbe,GER
+225367, Rabus,GER
+225368, Herfs,GER
+225369, Madlindl,GER
+225370, Speidel,GER
+225371, Schroeder,GER
+225372, Michel,GER
+225373, Blum,GER
+225374, Weichsberger,GER
+225375,Ann Birchall,GBR
+225376,Heather Fenwick,AUS
+225377,P Wride,AUS
+225378,C Hernandez,ESP
+225379,J Matthews,GBR
+225380,Elizabeth Lightbody,GBR
+225381,Liliana Guisiani,ARG
+225382,M Stewart,AUS
+225383,Miyomko Sugiwara,JPN
+225384,Janet Campbell,AUS
+225385,C Mcwaite,AUS
+225386,Sharon Thompson,AUS
+225387,G Schipanski,AUS
+225388,Joni Mobs,USA
+225389,Liane Marquez,
+225390,Arlene Karasick,USA
+225391,Chris Werner,USA
+225392,Sheila Laperle,USA
+225421,Pat Ocarroll,NZL
+225425,Gitte Grage,DEN
+225447,Erszebet Solyom,HUN
+225452,J Schad,GER
+225471,Valeria Kuzmenko,URS
+225473,Pat Naud,USA
+225489,Melissa Callaway,USA
+225496,Annalisa Bossi,ITA
+225498,Palma Winkler,ISR
+225520,Mrs Ward,GBR
+225550,Judit Monori,HUN
+225558,Mrs M Stokes,GBR
+225630,S Johns,GBR
+225645,S Carter,GBR
+225667,Judy Clay,USA
+225707,T Taranova,URS
+225712,Anita Kanter,USA
+225715, Buyukfirat,TUR
+225744,E Edgecombe,GBR
+225753,C Coke,AUS
+225754,Stephanie Meachen,NZL
+225755,Lyn Ward,NZL
+225756,Janet Hopps,USA
+225757,Michelle Carey,USA
+225758,S Little,NZL
+225759,P Fulza,NZL
+225760,Ellen Kaehler,USA
+225761,Sue Oertel,USA
+225762,Linda Marks,USA
+225763,Rosemary Rae,USA
+225764,Helen Johnson,USA
+225765,Margot Tiff,USA
+225766,Lisa Boettcher,USA
+225767,Bambi Schuette,USA
+225768,Sheryl Tebbutt,NZL
+225770,Ruth Allan,USA
+225771,Rosemary Spillane,USA
+225775,A Shafik,
+225781,W Weir,
+225784,Debbie Mascarin,USA
+225785,A Bramwell,GBR
+225786,A Du Toit,RSA
+225787,Joan Wooley,GBR
+225788,F Fraser Thompson,GBR
+225789,S Quinnell,GBR
+225790,C Mchugo,GBR
+225791,Adrienne Straub,CAN
+225792,E De Panea,
+225793,M K Robinson,GBR
+225794,V E Whitney,GBR
+225795,A Eldridge,GBR
+225796,C Senn,CAN
+225797,Mrs J Nicoll,GBR
+225798,C Obrien,GBR
+225799,C Fisher,GBR
+225801,J Jenkins,GBR
+225802, Nicoe,AUS
+225803, Murray,GBR
+225804,C Gimming,
+225805, Realy,
+225806,M Ohara,GBR
+225807,Mrs E Scheffer,GBR
+225808,L Kraal,GBR
+225809,E Lautenberg,GBR
+225810,Mrs D Grundy,GBR
+225811,M Thorn,GBR
+225812,J Rowe,GBR
+225813,Clare Douglas,GBR
+225814, Mcguire,GBR
+225815,G Geeves,GBR
+225816,Jan Wilson,GBR
+225817,H Clark,GBR
+225818,Mrs L Jooste,GBR
+225819,R Smith,GBR
+225820,D Norman,GBR
+225821,Mrs C Bachich,GBR
+225822,T Fronin,GBR
+225823,J Mcrurie,GBR
+225824,A Mayers,GBR
+225825,D Cawthorn,GBR
+225826,M J Smith,GBR
+225827, Lockhart,GBR
+225828, Nicol,AUS
+225829,V Braun,GBR
+225830,J Walker,GBR
+225831,I Korsten,NED
+225833,M Lindqvist,SWE
+225834,Cindy Johnson,USA
+225835,Dora Raguelova,
+225837,Claudia Smith,USA
+225838,Gayle Godwin,USA
+225839,Jana Simonova,TCH
+225840,Zdenka Strnadova,TCH
+225841,Cynthia Tudor,USA
+225842,K Cawthorn,GBR
+225843,C Dunningham,GBR
+225844,Diana Flikier,ARG
+225845,Silvia Meyer,ARG
+225846,Graciela Groch,ARG
+225858,Sarah Iliev,FRA
+225903,Jane Feise,USA
+225912,Gisela Hertzfeldt,GER
+225928,Xantipes Vassiliadis,GRE
+225929,Bibitsa Vassiliadis,GRE
+225952,M J Day,GBR
+225969,Caroline Leather,GBR
+226021,Nancy Gelner,USA
+226032,Anna Purkova,TCH
+226147,Margarita Zavalia Bunge,ARG
+226160,Cecily Mckillop,AUS
+226164,C Judge,RSA
+226165,M Rawstone,RSA
+226166,D Mcmillan,RSA
+226167,Lee Ann,NZL
+226168,S Rodgers,RSA
+226169,Marilyn Jansen,RSA
+226170,Helen Metzger,USA
+226171,Nancy Russell,USA
+226172,Bee Kilgore,USA
+226173,Sue Boyle,USA
+226174,Lindsey Berman,USA
+226175,Mary Delay,USA
+226176,D Simmonds,NZL
+226177,Michele Golding,USA
+226178,Randy Johnson,USA
+226179,Judy Thompson,USA
+226180,Laura Gilbert,USA
+226181,Jenny Odom,USA
+226182,Monica Coste,CRC
+226183,Carol Ford,USA
+226184,Perry Hays,USA
+226185,Beth King,USA
+226186,R Epstein,USA
+226187,Andrea Larson,USA
+226188,Anne Grete Qvist,DEN
+226189,Gwenda Tanner,USA
+226190,Evelyn Clark,USA
+226191,Ann Dunbar,USA
+226192,Norma Moore,USA
+226193,Susan Battersby,GBR
+226194,Joyce Tabor,USA
+226195,Gail Elliott,USA
+226196,M Janssens,
+226197, Sielman,GER
+226198, Powell,USA
+226199,L Robinson,GBR
+226200,Jill Griffiths,GBR
+226201,J Ferrier,GBR
+226202,M Pettenaro,FRA
+226203,Ann Dielen,USA
+226204,O Vorsina,URS
+226205,Sue Ince,USA
+226206,S Colman,GBR
+226207,Sheila Page,RHO
+226208,R J Twinn,GBR
+226209,T Eaton,GBR
+226210,Mrs L Love,GBR
+226211,H Jenkins,GBR
+226212,Arlene Cohen,USA
+226213,Chris Corcoran,USA
+226214,Sue Beatty,USA
+226215,Lisa Nard,USA
+226216,Martha Downing,USA
+226217,Linda Mitchell,USA
+226218,Nancy Zaro,USA
+226219,Debbie Cator,USA
+226220,Lona Swanson,USA
+226221,Jan Brogan,USA
+226222,Vicki Jensen,USA
+226223,Marilyn Lieberman,USA
+226224,E Dufresne,FRA
+226225, Hoffmeiner,GER
+226226, Jones,
+226227, Buerkle,GER
+226228, Gerlach,GER
+226229,S Pearce,GBR
+226230,J Farrar,GBR
+226231,Susan Das,IND
+226232,Greta Stirton,AUS
+226234,Daria Kopsic,ARG
+226235,Marianne Fornstedt,SWE
+226236,M Jeanneret,SUI
+226237,Colette Egan,IRL
+226238,Helen Johnstone,IRL
+226239,Frances Critchley,IRL
+226240,Mary Bryan,IRL
+226241,A Derby,GBR
+226242,D Dunkin,GBR
+226243,S Watts,GBR
+226244,J Criton,
+226245,A Burchall,GBR
+226246,S Worsford,GBR
+226247,D Aspinwall,GBR
+226248,Lourdes Diaz Ponce,MEX
+226249,Ann Price,USA
+226250,J B Atkinson,GBR
+226251,S Sivl,GBR
+226252,Sue Eiges,USA
+226253,Ria Hollingworth,AUT
+226254,F Oschwald,SUI
+226255,Radka Jansa,SUI
+226256,Bev Barger,USA
+226257,Kim Nilsson,USA
+226258,Rozi Feldman,TUR
+226259, Wiezorek,
+226260,Debbie Campbell,USA
+226261,Maree Mccallum,USA
+226262,Mariana Hadgiu,ROU
+226263,Valeria Balaj,ROU
+226264,Elena Trifu,ROU
+226265,Simona Nunweiler,ROU
+226266,Adriana Caraiosifogiu,ROU
+226267,Tina Olsen,USA
+226268,P Varga,USA
+226269,Lena Dvotunik,YUG
+226271,Carolyn Ishii,USA
+226273,Elisa Gisbert,ESP
+226274,P Lowden,BEL
+226275,A Mateo,ESP
+226276,Marcela De Grigorio,ARG
+226277, Hardwick,GBR
+226278,Patty Polenski,USA
+226340,Vivienne Cox,GBR
+226379,J Midgley,GBR
+226389,Maria Ibarra,CHI
+226407,Elena Osuna,MEX
+226431,Carmen Ibarra,CHI
+226480,Lori Sherbeck,USA
+226481,Marilyn Joseph,USA
+226496,Sue Weinberg,USA
+226535,Olga Mahaney,USA
+226573,Beverly Ward,NZL
+226574,Mirja Rose,USA
+226575,Sharon Whittaker,USA
+226576,Carolyn Culham,USA
+226577,L Novoshinskaya,URS
+226579,K Vyahkh,URS
+226580,Lyudmila Torporkova,URS
+226581,Tatiana Lagoiskaya,URS
+226582,M Kalberg,URS
+226584,Gabriele Lutteken,GER
+226587,S Langridge,
+226588,N Bremmer,
+226589,R Austin,
+226590,J Michaux,
+226591,Svetlana Korzun,URS
+226592,Anna Yeremeyeva,URS
+226594,O Baligh,EGY
+226595,H Baligh,EGY
+226596,Dolly Snow,USA
+226599, Gihan,EGY
+226600,K Azza,EGY
+226601, Karine,EGY
+226602,Laila Taie,EGY
+226605,Bunny Miller,USA
+226611,V Cawley,GBR
+226612,Jenny Stapleton,GBR
+226613,K C Leske,AUS
+226614,Mrs Gene Russo,GBR
+226615,M Standeven,GBR
+226616,S Phelan,GBR
+226617,L Leske,AUS
+226618,G Evans,GBR
+226619,Donna Judd,USA
+226620, Lee,
+226621, Collins,USA
+226622,Y Fisher,GBR
+226623,S Presco,GBR
+226624,S J Thompson,GBR
+226625,A Jago,GBR
+226626,S L Lanham,GBR
+226627,J A Timmis,GBR
+226628,F A Rogers,GBR
+226629,Agneta Kun,ROU
+226630,Mrs R Cakans,GBR
+226631,Mrs A M Black,GBR
+226632,Sophie Prouvost,FRA
+226633,Mrs V Cakana,GBR
+226634,B Day,GBR
+226635,R Day,GBR
+226636,A B Moult,GBR
+226637,Sally Schweppe,USA
+226638,Barbara Black,USA
+226639,Kathy Morton,USA
+226640,Ellen Wilkinson,USA
+226641,Ruth Stenzel,GER
+226642,C Lohr,SWE
+226643,P Blomstrand,SWE
+226644,P Alnas,SWE
+226645,L Hulton,SWE
+226646, Volokova,TCH
+226647,Susie Smith,USA
+226648,B Wynronk,USA
+226649,Saby Berman,MEX
+226650,Ellyn Levin,USA
+226651,Christina Soderstrom,FIN
+226652,Jana Pikorova,TCH
+226664,Linda Hochar,LBN
+226671,Veronica Kosch,
+226677,Sabrina Winterbauer,USA
+226678,Sally Jones,USA
+226679,Debbie Eyre,GBR
+226680, Billingham,GBR
+226681,Jill Blackshaw,AUS
+226690,Marilyn Bennett,USA
+226691,Ethelmae Cookson,USA
+226692,Candace Mayerson,USA
+226693,Dorothy Bogdanoff,USA
+226694,Paula Hufford,USA
+226695,Mary Goldenson,USA
+226696,Marilyn Abdell,USA
+226697,Jane Tishkoff,USA
+226698,Marion Bennett,USA
+226699,Maria Teresa Samastag,ESP
+226700,Drahomira Matejkova,TCH
+226701,Carmen Chillida,ESP
+226702,Carmen Hernandez,ESP
+226703,Mercedes Guix,ESP
+226704,Agueda Garriga,ESP
+226705,Asuncion Garriga,ESP
+226706,Kristin Leiz,ESP
+226707,Rebeca Mata,ESP
+226708,Ana Maria Bofill,ESP
+226709,Gloria Santamaria,ESP
+226710,Terri Starr,USA
+226711,V Giugi,BRA
+226750,Sally Hitt,USA
+226757,J Matthews,GBR
+226817,Margareta Bonstrom,SWE
+226866,Paula Vajda,HUN
+226951,G Micklem,RSA
+226952,Donna Judge,RSA
+226953,C Grevers,RSA
+226954,Tisha Boshoff,RSA
+226955,K Truter,RSA
+226956,Aileen Artus,RSA
+226957,Rowena Niciforovic,RSA
+226958,G Beardall,RSA
+226959,E Blomberg,RSA
+226960,Margaret Bonds,NZL
+226962,Sue Taylor,AUS
+226963,Margaret Tesch,AUS
+226964,J Lydall,RSA
+226965,M Druger,RSA
+226969,V Culp,USA
+226973,C Watts,AUS
+226974,S Lonie,
+226977, Bryukhanchikova,URS
+226978, Gishiyan,URS
+226979,J Earl,GBR
+226980,Misako Murakami,JPN
+226982,Alena Pavliskova,TCH
+226983,C Nelson,USA
+226984,Libuse Kuzelova,TCH
+226985,Mrs M Themeli,
+226986, Mariani,
+226987, Woreina,
+226988,Dorien Falkenburg,NED
+226990,E Siemons,NED
+226991, Truner,
+226992,M Bloem,NED
+226993,M Hollingworth,
+226994,K Fagyas,HUN
+226995,Diane Armao,USA
+226996,Cheri Papier,USA
+226999,Becky Reese,USA
+227002,Ch Sendra,
+227005,Molly Jyson,USA
+227007,Barbara Cleary,GBR
+227008,K A Richards,GBR
+227009,B Wojeik,GBR
+227010,M A Wray,GBR
+227011,R A F Black,GBR
+227012,J Johnson,GBR
+227013,Y Petersen,GBR
+227014,S M Milton,GBR
+227015,M Stees,USA
+227016,Georgette Derderian,USA
+227017,Anne Duffy,USA
+227018,S Warfield,USA
+227019,Helen Parker,USA
+227020,Jennifer Louis,USA
+227021,Nancy Parker,USA
+227022,K Reinke,USA
+227023, Noskova,
+227024,K B Smith,GBR
+227025,B Ranger,GBR
+227026,Y Fischer,GBR
+227027,S Milton,GBR
+227028,P Pollard,GBR
+227029,M Mendham,GBR
+227030,C J Beslam,GBR
+227031,D J Wray,GBR
+227032,M Fenny,GBR
+227033,J Ledger,GBR
+227034,Mrs B Bancroft,GBR
+227035,Kayoko Tanaka,JPN
+227036,Heidrun Scholze,GER
+227038,A Purek,SUI
+227041,Darlene Rose,USA
+227042,Margaret Livingston,USA
+227043,Carol Backenstose,USA
+227044,Elizabeth Bradley,USA
+227045,Gene Shapiro,USA
+227046,Cindy Weckwarth,USA
+227047,Carola Van Freyehoven,USA
+227048,F Saigal,PAK
+227049,H Larduke,GBR
+227050,Donna Smith,USA
+227051,F M Imhoff,GBR
+227052,Zoe Mills,USA
+227054,F Tokcan,TUR
+227055,M Aboudiab,LBN
+227059, Wlahovicz,POL
+227064, Manhart,AUT
+227065, Woltersdorf,AUT
+227066,E Schueller,AUT
+227067, Au,AUT
+227068, Starka,
+227069, Kopp,AUT
+227070, Jurkowicz,
+227071, Schinegger,AUT
+227072, Boltzenmart,AUT
+227073,Margaret Eisele,USA
+227077,Alice Valentine,USA
+227079,Danielle Dall Armi,USA
+227081,Denise Bradshaw,USA
+227083,S Pozeg,YUG
+227084,Y Palman,URS
+227085,Yamile Prajoux,CHI
+227086,E Schaffer,
+227087,Rita Martin,RHO
+227088,J Bailey,
+227089,Dianna Barton,
+227090,Lorna Wood,
+227091,Debbie Phillips,GUY
+227240,Anne Shilcock,GBR
+227254,Terry Thomas,USA
+227289, Chitarin,ITA
+227496,Sue Blakely,NZL
+227497,Barbara Wright,NZL
+227498,L Sive,RSA
+227499,R Nieforova,RSA
+227500,S Evans,RSA
+227501,J Coulter,RSA
+227502,Eva Llarena,BRA
+227503,Maria Menenzes,BRA
+227504,Liz Snyder,USA
+227505,Lily Richard,USA
+227506,J Chatfield,NZL
+227507,Anne Hodgson,NZL
+227508, Bortscheller,GER
+227509,Etta Harvey,USA
+227510,Elizabeth Rankin,USA
+227511,Nancy Mendel,USA
+227512,Betty Adler,USA
+227513,Helen Lusk,USA
+227514,Betty Rogers,USA
+227515,Erica Prelle,FRA
+227516, Miklashevskaya,URS
+227517, Beust,GER
+227518, Walsh,GBR
+227519,Jacqueline Bimes,FRA
+227520,Mrs Gad,
+227521,R Horsa,
+227524,Valeria Balai,ROU
+227525,Mrs S Johnston,GBR
+227526,Ziggy Cornish,GBR
+227527,L Brooks,GBR
+227528,Mrs G R Bone,GBR
+227529,Mrs C T Linnig,GBR
+227530,Jenny Hellier,GBR
+227531, Sokin,GBR
+227532,A J Williams,GBR
+227533,Mrs G E Marshall,GBR
+227534,Mrs A Howes,GBR
+227535,A Watts,AUS
+227536,K Dougan,GBR
+227537,Mrs R Howes,GBR
+227538,J F H Hove,GBR
+227539,Mrs J A Johnston,GBR
+227540,L A Leach,GBR
+227541,A M Rogers,GBR
+227542,L Ling,
+227543,Elizabeth Joy,GBR
+227544, Irmler,GER
+227545,Mrs M A T Walker,GBR
+227546,B R Thompson,GBR
+227547,C Beaven,GBR
+227548,O King,GBR
+227549,L Maxwell,GBR
+227551, Witta,GER
+227552, Duson,GER
+227553,K Vihko,FIN
+227554, Schuebel,GER
+227555,L Hulten,GBR
+227556,R Thomas,GBR
+227557,C Thomas,GBR
+227558,G Ruiz,GBR
+227559,V Fraayenhoven,GBR
+227560,Hetty Taphoorn Baas,NED
+227570,Maria Tcharakova,BUL
+227571,D Vechorek,POL
+227572, Lupo,ITA
+227573, Scimone,ITA
+227574,Roni Kodler,ISR
+227575,E Reinach,RSA
+227576,M Figueirido,RSA
+227577,J Mills,RSA
+227578,Alison Madden,RSA
+227579,R Mclelland,AUS
+227580,L Kelisee,AUS
+227581, Wowes,USA
+227582, Samuelova,URS
+227583,Anna Islanova,URS
+227584,Bunny Austin,USA
+227585,Martha Cochrane,USA
+227586,Shirley Huntingdon,RSA
+227587,M Caletz,RSA
+227588,C Jauss,GER
+227589,Ruan Smith,USA
+227590,Susan Riebel,USA
+227591,Marilyn Straw,USA
+227592,Valentina Petrova,URS
+227593,M Paillet,FRA
+227594,Meryl Brent,AUS
+227595,Anne Croonenbergs,BEL
+227596,Chantal Van Gheluwe,BEL
+227597,Blanka Politzerova,TCH
+227598,Y Parshall,
+227599,Eva Zilakova,TCH
+227600,Ilona Kurzova,TCH
+227601,Martine Susini,FRA
+227602,Sophie Sarwat,EGY
+227603,Marcella Barochova,TCH
+227604, Mansour,EGY
+227605, Redrellio,
+227606,Janine Michiels,BEL
+227607,V Duday,HUN
+227608,A Polli,
+227609,Annemiek Blom,NED
+227610,N Zaki,
+227611,Mrs P J Northern,GBR
+227612, Palla,ITA
+227613,S Mattin,GBR
+227614,Mandy Holdsworth,GBR
+227615,Ellen Schoengold,USA
+227616,Molly Romeu,PUR
+227617,I Krauss,
+227618,V Tauphillat,FRA
+227619,V Cantenot,FRA
+227620, Giarrusso,ITA
+227621, Biondi,ITA
+227622,P Moore,
+227623,C Parodi,
+227624,R Paillett,FRA
+227625,J Couwes,
+227626,O Stojanovic,
+227627,F Cyssaux,FRA
+227628,Mrs J E Bone,GBR
+227629,Maria Monami,ITA
+227630,Linda Mcdonald,GBR
+227631,L Cronin,GBR
+227632,Mrs M G M Bowen,GBR
+227633,Ecaterina Horsa,ROU
+227634,Bess Hagey,USA
+227635,Anita Plate,USA
+227636,Jeanne Olsen,USA
+227638,Mrs G M Blundell,GBR
+227639,L A Lesch,GBR
+227640, Austin,USA
+227641,Jutta Beymer,USA
+227642,Vilja Tamusz,USA
+227643,Nicole Ohn,BEL
+227644,Barbara Grubb,USA
+227645,A M Williams,GBR
+227646,Mrs J A Campion,GBR
+227647,Mrs A Peralta,GBR
+227648,M C Muntola,ESP
+227649,A Sinclair,GBR
+227650,S Eager,GBR
+227651,Mrs C Steele,GBR
+227654,Hilary Merrick,GBR
+227655,Ann Templeton,USA
+227656,H Avis,NED
+227657,Jana Kunstfeldova,GER
+227658,Lutfiye Anbar,TUR
+227662,Chris Mattson,USA
+227663,Georgia Turner,USA
+227664,Carol Bentley,USA
+227665,Sosie Hublitz,USA
+227666,S Cogswell,GBR
+227667,Viviane Geerts,BEL
+227669,Edina Magyarossy,HUN
+227670,Zsuzsanna Graczol,HUN
+227671, Vajda,HUN
+227672, Menyhart,HUN
+227673,Magdola Kisgyorgy,HUN
+227674, Tomcsanyi,HUN
+227675, Rapcsak,HUN
+227676, Becsi,HUN
+227677, Joszai,HUN
+227678, Toth,HUN
+227679, Ciakirova,
+227680,Nadejda Teodorova,
+227681,Simmy Stockman,USA
+227682,Gale Lipton,USA
+227683,Moto Sacomoto,USA
+227684,Mary Summerhays,USA
+227685,Susan Dalrymple,USA
+227686,Mariann Greenberg,USA
+227687,Margarie Allen,USA
+227688, Zinina,URS
+227689,Uta Kogli,URS
+227690, Schwarz,
+227691, Ziegler,
+227692, Kunstfeld,
+227693, Kaiser,
+227694, Kraus,
+227695, Hornischer,
+227696,Dagmar Portscheller,GER
+227697, Pfeiffer,GER
+227698, Mueller,GER
+227699, Schuh,GER
+227700,Tracy Macnair,USA
+227701,Ann Mccloskey,USA
+227702,Dale Mccloskey,USA
+227703,Susan Moseley,USA
+227704,Carlene Peterson,USA
+227705,Carrie Fotopoulos,USA
+227707,Nancy Zimbalist,USA
+227709, Oswald,
+227713, Albini,ITA
+227714, Papayan,URS
+227715,N Lileyeva,URS
+227719,Christine Fletcher,NZL
+227720,Joan Buckpitt,NZL
+227721,Yvonne Harrison,NZL
+227722,Barbara Simpson,NZL
+227723,Leanne Strode,USA
+227724,Cindy Ursich,USA
+227725, Enouchi,JPN
+227726,Terri Thomas,USA
+227727,S Mclachlan,RSA
+227741,Patricia Canning Todd,USA
+227773,Jean Gladstone,GBR
+227859,Jeanne Arth,USA
+227900,Alicia Guri,ESP
+227960,Pilar Herrero,CUB
+227982,A Calitz,RSA
+227983,K Geraghty,RSA
+227984,V Souter,RSA
+227985,Sriya Gunaratne,SRI
+227986,Margaret Ocarroll,NZL
+227987,H Brown,RSA
+227988,E Retief,RSA
+227989,S Prinsloo,RSA
+227990,Chere Surendra,IND
+227991,Rita Peshawaria,IND
+227992,Karin Peshawaria,IND
+227993, List,GER
+227994, Rump,GER
+227995,Denise Conill,USA
+227996,L Pintae,FIN
+227997,Indu Sood,IND
+227998,Carol Eckert,USA
+227999,Annette Paluska,USA
+228000,Tup Singer,NZL
+228001,V Rappoport,URS
+228002,Y Slepchenko,URS
+228003,Y Bantle,URS
+228004, Boeck,GER
+228005,Renate Ketterle,GER
+228006, Engelmann,GER
+228007, Schmid,GER
+228008, Schweikert,GER
+228009,V Polanyi,GER
+228010, Buchheim,GER
+228011,Eva Matejkova,TCH
+228012,Renata Chmelikova,TCH
+228013,Bernice Adams,USA
+228014,Donna Sattler,USA
+228015,Gay Gordon,USA
+228016,Carolyn Webb,USA
+228017,Ruth Ryan,USA
+228018,Carolyn Clark,USA
+228020,L Evans,GBR
+228021,Alicia Subirats,MEX
+228022,S Molon,
+228023,Susan Korn,ISR
+228024,Heather Cowie,GBR
+228025,Mrs M D Furniss,GBR
+228026,Mrs J F Lawrence,GBR
+228027,Mrs J C Tatum,GBR
+228028,Mrs S A M Gothard,GBR
+228029,Sharon Guthrie,USA
+228030,Deborah Brown,USA
+228031,Mrs J Tenquist,GBR
+228032, Weber,GER
+228033, Rissman,GER
+228034, Vogler,GER
+228035, Sasokowski,
+228036, Mischkowski,
+228037, Bielefeld,GER
+228038,Mrs Walker,GBR
+228039,Jean Rickson,GBR
+228040,Lisa Rosenblum,USA
+228041,Joanne Dukeshire,USA
+228042,Alice De Rochemont,USA
+228043,Mrs C Drisdale,GBR
+228044,Mrs C H Smith,GBR
+228045,V Walters,GBR
+228046,S J M Oram,GBR
+228047,Darlene Roberts,USA
+228048,Ann Nealon,USA
+228049,Liz Derry,USA
+228050,Joan Mars,USA
+228051,Felicia Romeo,USA
+228052,Sylvia Stokes,USA
+228053, Buche,GER
+228054,L Sapeine,FRA
+228055,S Droulers,FRA
+228056,E Debray,FRA
+228057,F Fichera,FRA
+228058,M Mosgofian,FRA
+228059, Scaramanga,FRA
+228060,E Moring,GBR
+228061,Mrs B L Evans,GBR
+228062,P A Martin,GBR
+228063,M J De Lacerda,GBR
+228064,E S Lloyd,GBR
+228065,Mrs J Harman,GBR
+228066,B Pacquet,GBR
+228067, Mornard,GBR
+228068,L Moore,GBR
+228069,B Fraser,GBR
+228070,Y Gascoigne,GBR
+228071,J Weigh,GBR
+228072,Lark Walters,USA
+228073,Patricia Went,NED
+228074,Regina Ferreira,BRA
+228075,Nancy Lewis,USA
+228076,Christine Cheney,USA
+228077,Jolene Roesler,USA
+228078,Joanne Kraft,USA
+228079,Diane Powell,USA
+228080,Jane Carey,USA
+228081,Alice Church,USA
+228082,Pat Wellington,USA
+228083, Poulet,SUI
+228084, Simon,SUI
+228085, Rochling,SUI
+228086,E Hofman,GER
+228087,E Ride,GER
+228088, Lenskova,
+228089,H Celaloglu,TUR
+228090,S Ozturetgen,TUR
+228091,B Crockford,AUS
+228092,Lita Akraoui,LBN
+228093,Renee Khouri,LBN
+228094, Hoesch,
+228095, Berneth,
+228096, Castellano,ITA
+228097, Gilardelli,ITA
+228098,Tamar Hayat,ISR
+228099,Ronit Strulowitz,ISR
+228100,Judy Humphries,AUS
+228102, Yushka,URS
+228103,F Fallis,AUS
+228104,M Fitzpatrick,AUS
+228105,L Saracchi,BRA
+228111, Emmonts,GER
+228112, Von Oertzen,GER
+228113,Betty Smith,USA
+228114,Susan Parkhurst,USA
+228115,Susan Wahn,USA
+228116,Francoise Forgerit,FRA
+228117,M Montlibert,FRA
+228118, Cornish,GER
+228119,Dr Tochtermann,GER
+228120,Maria Holguin,COL
+228121,Olga Arango,COL
+228122,Janet Moore,USA
+228123,A Connelly,USA
+228124,A Ploch,USA
+228125,Dany Giordan,FRA
+228126,Anne Chaboudy,USA
+228127,Theodora Booker,CAN
+228128,B Ispaard,FRA
+228129,Eva Szorenyi,HUN
+228130,Maureen Okeefe,USA
+228131,D Magman,FRA
+228132,V Chapman,GBR
+228133,Mrs K Adams,GBR
+228134,J E Rodway,GBR
+228135,D G Bowman,GBR
+228136,Laura Zarate,MEX
+228137,Magdalena Fernandez,ESP
+228138, Yarza,ESP
+228139,Barba Diaz,
+228140,Rochelle Thomas,USA
+228141,Reolia Countee,USA
+228142,S P Wates,GBR
+228143,P Higgins,GBR
+228144,M Styles,GBR
+228145,Leny Gan,INA
+228146,M Wa,GBR
+228147,Mrs R Cahill,GBR
+228148,Mrs C Joy,GBR
+228149,B L Mattes,GBR
+228150,Virginia Rice,USA
+228151,Paula Albert,USA
+228152,Nancy Kirkham,USA
+228153,Dorothy Oneil,USA
+228154,Mary Moore,USA
+228155,Janice Kozen,USA
+228156,Shirley Fry,USA
+228157,I Kabie,GBR
+228158,F Pilla,
+228159,Ellen Hodgdon,USA
+228160,Sherry Daniels,USA
+228161,Catherine Mae Collins,USA
+228162,Betty Otto,USA
+228163,Jean Dicamillo,USA
+228164,Ruth Haude,USA
+228165,Barbara Clos,USA
+228166,P J Hoot,GBR
+228167,P M Watmore,GBR
+228168,P M Groman,GBR
+228169,C Morgan,GBR
+228170,R E Jones,GBR
+228171,Mrs P K Loosemore,GBR
+228172, Nicolaus,GER
+228173,Mary Striebich,USA
+228174,Barbara Kearns,USA
+228175, Gomez De Croon,
+228176,Kamila Vaneckova,TCH
+228177,L Piila,FIN
+228178,Kathryn Smith,USA
+228179, Loibl,GER
+228180, Ochs,GER
+228181, Beraud,
+228182, Rode,GER
+228183,Micheline Schneider,BEL
+228184,Denise Casteleyn,BEL
+228185,Brigitte Croonenbergs,BEL
+228186,S Lilla,FIN
+228187, Eidenberger,AUT
+228188, Altrichter,AUT
+228189,Vera Rado,ROU
+228190, Tudose,ROU
+228191,Nancy Hurley,USA
+228192,Ana Cornejo,CHI
+228193,Virginia Zaror,CHI
+228194,Ester Lizana,CHI
+228195, Engelbrecht,RSA
+228196,Irma Lesser,USA
+228197,Leslie Linton,USA
+228198, Knuebel,GER
+228199, Wuthe,GER
+228337,J Barrett,AUS
+228533,P Ferguson,AUS
+228535,Michelle Lonergan,AUS
+228838,Paula Coulter,USA
+228841,Micky Albers,CAN
+228843,Andrea Steinegger,GER
+228844,Anke Wiedenhorn,GER
+228845, Thompson,
+228846,Michelle Depalmer,USA
+228849,Elizabetta Lazzeri,ITA
+228850,J Bland,GBR
+228851,Jenny Walpole,GBR
+228853,Kathy Keating,GBR
+228854,B Harris,GBR
+228855,Linda Espley,GBR
+228856,A Rolleston,GBR
+228857,Barb Francis,CAN
+228858,S Burton,GBR
+228859,Susan Tebbutt,GBR
+228860,D Dimmer,CAN
+228861,L Miller,AUS
+228862,L Munro,AUS
+228863,K Avis,AUS
+228864,B Chapman,GBR
+228865,V Zahri,
+228867,Jo Louis,GBR
+228868,J Leach,GBR
+228869,D Boothman,GBR
+228870,A Brotherston,GBR
+228871,J Mcmurtrie,GBR
+228872,I Stadele,GBR
+228873,P Henry,GBR
+228874,Mrs Mcintosh,GBR
+228875,A Douglas,GBR
+228876,M Obrien,GBR
+228877,W Wamaiwa,
+228878,H Haddon,GBR
+228879,Karen Garman,GBR
+228880,Allison Hill,GBR
+228881,J Baldwin,GBR
+228882,S Wall,GBR
+228883,Kate Turton,GBR
+228884,D Littleton,GBR
+228885,S Gooch Harris,GBR
+228886,Julie Walpole,GBR
+228887,P Bland,GBR
+228888,M Burrows,GBR
+228889,T Cliff,GBR
+228890,E Lonsdale,GBR
+228891,J Wakhungu,
+228892,Pamela Yates,GBR
+228893,A Steiger,GBR
+228894,E Rushoy,GBR
+228895,Jenny Blezzard,GBR
+228896,A Bradley,GBR
+228897,Hana Kopeckova,
+228898,Yu Li Chiao,CHN
+228899,Manako Tanguchi,JPN
+228900,Chen Chuan,CHN
+228901,Nasayo Horio,JPN
+228902,R Chlongbian,PHI
+228903,Ikuko Shibata,JPN
+228904,Pat Rollinson,RSA
+228905,Lana Marks,RSA
+228906,Estelle Montgomery,RSA
+229273,S Boyer,NZL
+229274,A Smith,NZL
+229275,S Alpers,NZL
+229276,Kate Hatherton,NZL
+229277,Susan Illingworth,NZL
+229278,Cheryl Smith,NZL
+229279,Gail Bates,NZL
+229280,M Costello,NZL
+229281,Royce Romberg,NZL
+229282,G Robinson,NZL
+229283,Peita Bolton,NZL
+229284,Beverly Vincent,NZL
+229285,Joyce Kohler,NZL
+229286,Lyn Langsford,NZL
+229287,S Pomare,NZL
+229288,K Lonergan,NZL
+229289,Heather Middleton,NZL
+229290,Carolyn Gore,NZL
+229291,Connie Schaefer,NZL
+229292,E Espley,AUS
+229293,C Ainscough,AUS
+229294,R Wood,AUS
+229295,Denise Cole,AUS
+229296,C Tyrrell,AUS
+229297,J Lange,AUS
+229298,Elaine Stepman,NZL
+229299,Pauline Whareram,NZL
+229300,Dorothy Erdelyi,NZL
+229301,Anne Pooley,NZL
+229302,Fleur Oakley,NZL
+229303,Janet Agnew,NZL
+229304,Tup Singer,NZL
+229305,Trisha Whitbourne,NZL
+229306,Robin Lye,NZL
+229308,Nicki Robinson,NZL
+229309,Carolyn Oakley,NZL
+229310,Lynn Cowie,NZL
+229311,Mary Hale,NZL
+229312,Penny Smith,NZL
+229313,Debbie Looms,NZL
+229314,Helen Kain,NZL
+229315,P Grapes,NZL
+229316,A Bryant,NZL
+229317,S Patrick,NZL
+229318,C Beasley,NZL
+229319,D Robinson,NZL
+229320,Janine Perkinson,NZL
+229321,G Paul,
+229322,Ingrid De Jonge,SUI
+229323,S Haig,NZL
+229324,P Grace,NZL
+229325,J Pickering,NZL
+229326,J Hibbert,NZL
+229327,B Wilson,NZL
+229328,D Hills,NZL
+229329,J Howe,NZL
+229330,A Brading,NZL
+229331,C Hughes,
+229332,A Other,
+229333,N Bremner,
+229334,Wendy Kramp,USA
+229349,Stefania Cicognani,ITA
+229353,Joan Pennello,USA
+229358,Judy Braisted,USA
+229366,Cecilia Lopez Arnold,USA
+229368,Wendy Stewart,USA
+229369,Andrea Steingraeber,GER
+229370,Iris Schikora,GER
+229371,Heike Loleit,GER
+229372,Baerbel Kehl,GER
+229373,Andrea Meister,BRA
+229374,Christiane Renck,BRA
+229375,Helena Wapler,BRA
+229376,Maria Brenner,BRA
+229378,Florence Martin,GBR
+229379,P Frey,FRA
+229380,Zsuzsana Turi,FRA
+229382,N Delaigue,FRA
+229384,Linda Rydgig,USA
+229386,Marina Koegl,AUT
+229387,Beatrice Lucki,BRA
+229388,Simonetta Riboldi,ITA
+229389,Nicoletta Virgintino,ITA
+229390,Flora Zacharias,BRA
+229392, Cooper,
+229393,Daniela Volponi,ITA
+229394,Allegra Pero,USA
+229395,Andrea Muniz,BRA
+229396,Angela Ximenez,BRA
+229397,Marie Do Carmo Didie,BRA
+229398,S Kingston,GBR
+229399,Elizabeth Young,GBR
+229400,E Smith,GBR
+229401,Susan Mcculloch,GBR
+229402,S Butterfield,GBR
+229403,Karen Hotston,GBR
+229404,S Morris Mitchell,GBR
+229405,E Coles,GBR
+229406,S Fraser,GBR
+229407,Jo Harris,GBR
+229408,S Sullivan,GBR
+229409,C Gomez,GBR
+229410,J Sculthorpe,GBR
+229411,L Beach,GBR
+229412,S Gomez,GBR
+229413,R Dumas,GBR
+229414,Sarah Imhof,GBR
+229415,Jane Montague,GBR
+229416,S Trice,GBR
+229417,C Elliott,GBR
+229418,Debbie Parnell,GBR
+229419,Sharon Lutz,GBR
+229423,Catherine Goodman,GBR
+229424,Michele Wheeler,GBR
+229425,Tatjana Schrobsdorff,USA
+229426,Lisa Bee,USA
+229427,Pam Baughman,USA
+229428, Guyon,USA
+229429,Cynthia Norman,USA
+229430,Stacey Savides,USA
+229431,Beth Fernbacher,USA
+229432,Jill Toney,USA
+229433,Wendy Driver,USA
+229434,Barrie Bulmore,USA
+229435,Deborah Douglas,USA
+229436,Toni Reed,USA
+229437,Linda Gates,USA
+229438,Carol Bowers,USA
+229439,Charlene Spencer,USA
+229440, Passuelo,ITA
+229441,Elena Falappa,ITA
+229443,E Cowan,GBR
+229444,D Cole,GBR
+229445, Gigli,ITA
+229446, Poggi,ITA
+229447, June,ITA
+229448,Silvia Pavan,ITA
+229449,Francesca Ciardi,ITA
+229450,Simona Becherini,ITA
+229451, Contarini,ITA
+229452,Flavia Filippi,ITA
+229453, Massimino,ITA
+229454,Giulia Collodel,ITA
+229455, Sacchi,ITA
+229456,Ani Gelats,USA
+229457,Christa Van Der Walt,RSA
+229458,Johanna Chafin,USA
+229459,Susan Gibson,USA
+229460,Carin Roux,RSA
+229461,Chantal Racicot,CAN
+229462,Lisa Levins,USA
+229463,Ilene Friedland,USA
+229464,Maggie Morris,USA
+229465, Wetzel,GER
+229466, Heinz,GER
+229467,Ute Strakerjahn,GER
+229468,Jacqueline Kubsch,GER
+229469, Voyt,GER
+229470,D Loleit,GER
+229471, Arnold,GER
+229472, Hollensteiner,GER
+229473, Brands,GER
+229474, Horn,GER
+229475, Winterbauer,GER
+229476,Jennifer Hirsch,USA
+229477,C Moilica,GBR
+229478,M Pratt,GBR
+229479,J Manson,GBR
+229480,L Raper,GBR
+229481,R Llahi,
+229482,A Loughrey,GBR
+229483,A Llahi,
+229484,M Llahi,
+229485,Melanie Woodthorpe,GBR
+229486,Christine Power,GBR
+229487,J Lonkamps,GBR
+229488,J Greenwood,GBR
+229489,W Johnson,GBR
+229490,Susan Baldree,USA
+229491,Julie Kosten,USA
+229492,Valerie Block,USA
+229493,Bonnie Wolf,USA
+229494,Denise Jordan,USA
+229495,Lee Myers,USA
+229496,Stephanie Fess,USA
+229497,Carol Wicker,USA
+229498,Mandy Parsons,USA
+229499,Paola Sessarego,BRA
+229501,Kirsten Mckeen,USA
+229502,Karen Hausman,USA
+229507,Karen Bunag,USA
+229508, Hook,
+229509,Pascale Arribe,FRA
+229510, Getten,
+229511, Hudson,
+229512,Elisabeth Randier,FRA
+229513, Giraldi,
+229514,Marina Crescenti,ITA
+229515,Marina Blanco,ITA
+229516,Anna Luale,ITA
+229517,Monica Pagni,ITA
+229518,Paola Ippoliti,ITA
+229519,Giulia Ivaldi,ITA
+229520,Sheila Belinsky,USA
+229521,Alessandra Raiteri,ITA
+229522,B Hackett,GBR
+229523,R Harvie,GBR
+229524,A Harris,GBR
+229525,P Hendry,GBR
+229526,P Haggart,GBR
+229527,J Denholm,GBR
+229528,J Abel,GBR
+229529,M Crawford,GBR
+229530,R Lyons,IRL
+229531,M Buckley,IRL
+229532,J Tubridy,IRL
+229533,S Farrell,IRL
+229534,E Ryan,IRL
+229535,D Howett,IRL
+229536,G Flynn,IRL
+229537,M Burns,IRL
+229538,G Bailey,IRL
+229539,H Obrien,IRL
+229540,H Sorenson,IRL
+229541,R Hackett,IRL
+229542,B Flynn,IRL
+229543,F Egan,IRL
+229544,J Hastings,IRL
+229545,P Lee,IRL
+229546,L Meehan,IRL
+229550,Monika Ohlendieck,GER
+229552, Van Der Weck,GER
+229555, Lippert,GER
+229565,Asa Spangs,
+229566,Simonetta Masier,ITA
+229567,Rosa Riboldi,ITA
+229568,Olivia Petrino,ITA
+229569,Susan Deritis,USA
+229570,Eve Ellis,USA
+229571,Diane Dunn,USA
+229572,Robin Schneider,USA
+229573,Marianne Ring,USA
+229574,Yvonne Gallop,USA
+229585,Jacqueline Molter,GER
+229586,Gabi Rosenmeyer,GER
+229587,Andrea Schonherr,GER
+229588,Daniela Maibaum,GER
+229589,Inge Koch,GER
+229590,Jeanne Gobat,GER
+229591, Mezger,GER
+229592,Reagan Mccurry,USA
+229593,Ines Fess,GER
+229594,Doerte Kreutzer,GER
+229595,Gertraud Bayerl,GER
+229596, Stefanovic,
+229597, Schriever,GER
+229598, Ludewig,GER
+229599, Peterhans,GER
+229600,N Fischer,GER
+229601, Herz,GER
+229602,Waltraud Hauck,GER
+229603, Murmann,GER
+229604, Dieblin,GER
+229605, Sigel,GER
+229606, Lindner,GER
+229607, Herbrechter,GER
+229608, Fruth,GER
+229609, Herb,GER
+229610,Costanza Algranti,ITA
+229611,Katrin Aeberhard,SUI
+229612,Astrid Etter,SUI
+229613,M Weibel,SUI
+229614,A Gilleaux,SUI
+229615,S Hufschmid,SUI
+229616,M Berla,SUI
+229617,C Augsburger,SUI
+229618,P French,SUI
+229619,N Christ,SUI
+229620,M Nyholm,SUI
+229621,Regina Just,SUI
+229622,F Wassmer,SUI
+229623,C Benzon,SUI
+229624,O Martinet,SUI
+229625,F Guidini,SUI
+229626,S Corminboeuf,SUI
+229627,K Huldi,SUI
+229628,F Grutzner,SUI
+229629,Angie Minissian,USA
+229630,Ellen Berkman,USA
+229631,Colette Bennett,USA
+229635,Andrea Bobby,USA
+229636,Renee Esses,USA
+229637,Peggy Oneil,USA
+229638,Cynthia Dennis,USA
+229639,Vickie Shields,USA
+229640,Mary Beth Pasqualicchio,USA
+229641,Francesca Biagi,ITA
+229642,Barbara Borsari,ITA
+229643,Alena Kulankova,ITA
+229646,Antonella Oneto,ITA
+229647,Christine Schulz,GER
+229648, Moll,GER
+229649, Mogalie,GER
+229650, Hieber,GER
+229651,S Cohen,SUI
+229652,J Hrebik,
+229653,K Dressel,SUI
+229654,A Harmath,SUI
+229655,G Hinterwirth,SUI
+229656,L Skutina,
+229657,C Meister,SUI
+229658, Werner,SUI
+229659,Kerry Norman,USA
+229666,Karen Seguso,USA
+229671,Yuko Ono,JPN
+229675,Nihoka Matsushima,JPN
+229678,Yukie Abiko,JPN
+229684,I Dyke,AUS
+229685,A Carey,AUS
+229689,Karen Schultz,GER
+229693,Graciela Perez,ARG
+229696,Alice Lembeck,NED
+229707,K Thatcher,AUS
+229708,J Moran,AUS
+229709,H Dunne,AUS
+229710,Joanne Butler,AUS
+229711,D Borger,AUS
+229712,B Pearson,AUS
+229713,Joanne Odonohue,AUS
+229714,J Wehmeir,AUS
+229715,E Burke,AUS
+229716,K Tyrell,AUS
+229717,S Johnson,AUS
+229718,D Brown,AUS
+229719,Lynnette Andreazza,AUS
+229720, Odea,AUS
+229721,L Fennell,AUS
+229726,Fabiana Ciorciari,ARG
+229727,Sharon Bender,RSA
+229728,Maureen Boys,RSA
+229729,Ingrid Reyneke,RSA
+229730,Renee Potgleter,RSA
+229731,Gail Jose,RSA
+229732,Elize Badenhorst,RSA
+229733,Wilma Devos,RSA
+229734,L Thorn,RSA
+229867,Joan Quelch,GBR
+230133,C Tyrell,AUS
+230134,R Fisher,AUS
+230135,A Layman,AUS
+230136,J Pinchbeck,AUS
+230137,R Lamb,AUS
+230138,M Holmes,AUS
+230139,G Sayers,AUS
+230145,L Tracey,GBR
+230146,L Ristic,GBR
+230147,Amanda Jones,GBR
+230148,V Adams,GBR
+230149,E May,GBR
+230150,T Greenwood,GBR
+230151,H Curtis,GBR
+230152,Belinda Lockwood,GBR
+230153,S Longbottom,GBR
+230154,Nicola Hook,GBR
+230155,V Wilson,GBR
+230157,Carol Heynen,USA
+230159,S Pullen,GBR
+230160,J Caplen,GBR
+230161,S Griffiths,GBR
+230162,S Edwards,GBR
+230163,Jenny Blyth Lewis,GBR
+230164,A Baldwin,GBR
+230165,S Tripp,GBR
+230166,J Hough,GBR
+230167,J Browning,GBR
+230168,Camille Bann,GBR
+230170,Beth Chaves,BRA
+230171,Eliza Rodriguez,BRA
+230172,Fernanda Puga,BRA
+230173,Roberta Meneses,BRA
+230174,Jacqueline Lisboa Pinto,ITA
+230175,Catarine Faggyas,HUN
+230176,Zuleika Wapler,BRA
+230177,Ligia Dias,BRA
+230178,S Bennett,GBR
+230179,R Brookes,GBR
+230180,L Baran,GBR
+230181,C Gaskin,GBR
+230182,M Cass,GBR
+230183,S Richmond,
+230184,B Cooke,
+230185,Kim Griffiths,
+230186,Denise Nolasco,BRA
+230187,Monica Demeterco,BRA
+230188,Juliana Brand,BRA
+230189,J Farnish,GBR
+230190,P Seddon,GBR
+230191,S Barfoot,GBR
+230192,R Rinron,GBR
+230193,K Ash,GBR
+230194,Rachel Paul,GBR
+230195,Silvia Biraghi,ITA
+230196,Michela Vaselli,ITA
+230197,Joyce Laughton,USA
+230198,Patty Mcquown,USA
+230199,Kathy Kaer,USA
+230200,Patricia Eaton,USA
+230201,Gayle Chan,USA
+230202,Nami Kouzu,USA
+230203,Jill Barr,USA
+230204,A Vuylsteke,SUI
+230205,M Cobb,GBR
+230206,C Krupinski,GBR
+230207,S Campbell,GBR
+230208,F Gough,GBR
+230209,L Harris,GBR
+230210,M Witrylak,GBR
+230211,A Myers,GBR
+230212,L Goldberg,GBR
+230213,L Browne,GBR
+230214,J Hosie,GBR
+230215,L Reid,GBR
+230225,C Espaiza,
+230226,C Letcher,GBR
+230227,V Hansson,
+230228,Janet Vogel,USA
+230229,S Gough,GBR
+230230,V Hedin Anderssen,
+230231,S Tamura,
+230232,Y Fukui,
+230233,M Hirai,
+230234,A Carlson,AUS
+230239,Dawn Otto,USA
+230241,Susan Burke,USA
+230246,K Cass,GBR
+230247,C Haynes,GBR
+230248,C Ross Roberts,GBR
+230249,D Peers,GBR
+230250,S Mccrae,GBR
+230251,A Ahlstrom,GBR
+230252,M Craig,GBR
+230256,Gail Oconnor,USA
+230257,Anne Marie Jung,SUI
+230258,Wendy Wasson,USA
+230259,Julie Johns,
+230260,Jeanine Fruh,SUI
+230261,Franzi Gruetzner,SUI
+230262,Maria Bellotti,SUI
+230263,Josie Jones,
+230264,Jane Johansen,
+230266,Suzanne Jarrell,USA
+230268,Marian Kremer,USA
+230269,T Gould,GBR
+230270,L Sheppard,GBR
+230271,H Wilkins,GBR
+230272,J Angus,GBR
+230273,Gillian Carney,GBR
+230274,A Underwood,GBR
+230275,M Collins,GBR
+230276,L Lynn,GBR
+230277,A Pocock,GBR
+230278, Sanden,SWE
+230282,Debra Ann Hunter,USA
+230283,Tina Mccall,USA
+230288,S Finet,GBR
+230289,K Reshoft,GBR
+230290,Kerstin Haas,GER
+230291, Witthoeft,GER
+230292,Beverly Lockwood,GBR
+230293,F Siney,GBR
+230294,C Varley,GBR
+230295,Carol Fullerton,USA
+230299,J Brailsford,GBR
+230300,Mrs Hunter,GBR
+230301,K Montague,GBR
+230302,C Obrien,GBR
+230303,Judith Lain,GBR
+230304,A Kovar,GBR
+230305,Rosalind Kermode,GBR
+230306,Kerstin Hans,GER
+230307, Marquez,
+230308, Benyamini,
+230309, Fahlbusch,GER
+230310,Dee Williams Horne,USA
+230311,Jill Morton Beck,USA
+230312,Alexandria Kriva,USA
+230313,Kathleen Lillie,USA
+230314,Janet Lagasse,USA
+230315,Andrea Gonzalez,USA
+230316,Dana Bleicher,USA
+230317,Teresa Jennings,USA
+230318,Eleanor Compton,USA
+230330, Deerbergen,GER
+230331, Seibuchler,GER
+230362,Helen Taylor,AUS
+230790,Mrs Davies Doxson,KEN
+230791, Trampenau,KEN
+230792,Tania Melirelles,BRA
+230793,Irene Petru,
+230794,Carolina Piatti,ITA
+230800,Bianca Barbolla,MEX
+230801, Mittendorffer,BRA
+230805,K Jones,GBR
+230806,H Purchase,GBR
+230807,A Mason,GBR
+230808,Linda Gai Bayly,AUS
+230809,M Desouza,
+230810,A Wilson,GBR
+230812,Kathy Kolankiewicz,USA
+230813,A Grant,GBR
+230814,G Sullivan,GBR
+230815,B Welt,GBR
+230816,Mrs McPherson,GBR
+230817,D Walker,GBR
+230818,S Thomson,GBR
+230819,A Root,GBR
+230820,Carol Heyman,USA
+230821,Joanna Girard,USA
+230822,Shelby Thorner,USA
+230823,Caroline Yao,USA
+230824,Chris Breed,USA
+230825,Victoria Corrales,USA
+230826,Hannah Somerville,USA
+230827,Tammy Neiman,USA
+230828,Pam Bauchman,USA
+230829,Julie Grummel,USA
+230830, Callaghan,
+230831,Claudia Franke,GER
+230832, Luidinant,GER
+230833,D Turner,GBR
+230834,Mary Von Tungeln,USA
+230836,Carol Houtchens,USA
+230837,Ligia Mattos,USA
+230839,Susan Taylor,USA
+230840,Eva Lucido,USA
+230841,Cathy Classen,USA
+230842,Agneta Levinovitz,SWE
+230843,N Avdeeva,URS
+230844,Francesca Todaro,ITA
+230845,Gaby Eu,ITA
+230846,K Buehler,USA
+230847,Rakefet Binyamini,ISR
+230848,Maria Myers,USA
+230849,Grit Schneider,GER
+230870,Ella Seidel,GER
+230880,Mara Guth,GER
+231269,J Wood,GBR
+231270,M Davidson,GBR
+231271,G Von Domieux,
+231300,Sylvia Schenck,USA
+231325,Ilonka Leyten,NED
+231639,Ariana Geerlings,ESP
+231665,Oksana Lifanova,URS
+231673,Milusa Dosedelova,CZE
+231694,Ingrid Vlach,AUT
+231982,Elizabeth Evans,USA
+231984,Tashiko Takagi,JPN
+231989,Mariela Mendez,MEX
+231996,Anne Winston,USA
+232447,Celine Naef,SUI
+233542,Tami Jones,USA
+233741,Maya Joint,AUS
+234222,Liv Hovde,USA
+235159,Astrid Lew Yan Foon,FRA
+236955,Tatiana Prozorova,RUS
+236956,Yasmine Kabbaj,MAR
+236957,Lola Radivojevic,SRB
+236958,Julia Caffarena,ARG
+236972,Luisina Giovannini,ARG
+238064,Clervie Ngounoue,USA
+238075,Petra Marcinko,CRO
+238184,Tereza Valentova,CZE
+239156,Lucija Ciric Bagaric,CRO
+239383,Sara Bejlek,CZE
+239389,Elena Pridankina,RUS
+239392,Mia Ristic,SRB
+239436,Kayla Cross,CAN
+239456,Tiantsoa Sarah Rakotomanga Rajaonah,FRA
+239475,Victoria Mboko,CAN
+245077,Yelyzaveta Kotliar,UKR
+246476,Mariana Isabel Higuita Barraza,COL
+246481,Sahaja Yamalapalli,IND
+248660,Lya Fernandez,MEX
+252488,Ana Candiotto,BRA
+252499,Alina Korneeva,RUS
+252587,Xinxin Yao,CHN
+256684,Aoi Ito,JPN
+259104,Brenda Fruhvirtova,CZE
+259685,Mingge Xu,GBR
+259753,Malak El Allami,MAR
+259758,Anouck Vrancken Peeters,NED
+259799,Mirra Andreeva,RUS
+259857,Akasha Urhobo,USA
+259883,Wakana Sonobe,JPN
+259967,Sayaka Ishii,JPN
+260006,Kristiana Sidorova,RUS
+260101,Alyssa Ahn,USA
+260170,Sara Saito,JPN
+260172,Lilli Tagger,AUT
+260296,Valentina Steiner,GER
+260300,Iva Jovic,USA
+260510,Vittoria Paganetti,ITA
+260541,Weronika Ewald,POL
+260580,Valerie Glozman,USA
+260761,Renata Jamrichova,SVK
+260847,Julia Stusek,GER
+260848,Valentina Mediorreal Arias,COL
+260913,Yufei Ren,CHN
+261038,Vaishnavi Adkar,IND
+261963,Mika Stojsavljevic,GBR
+261972,Tyra Caterina Grant,ITA
+263644,Emerson Jones,AUS
+263775,Maria Jose Sanchez Uribe,COL
+263857,Yuliia Starodubtseva,UKR
+263869,Ruien Zhang,CHN
+263872,Hannah Klugman,GBR
+264064,Chenting Zhu,CHN
+264075,Julieta Pareja,USA
+264205,Yuhan Wang,CHN
+264227,Isis Louise Van Den Broek,NED
+266376,Mia Pohankova,SVK
+266671,Laura Samson,CZE
+266722,Maaya Rajeshwaran Revathi,IND
+266800,Alena Kovackova,CZE
+267382,Nauhany Vitoria Leme Da Silva,BRA
+267428,Giulia Safina Popa,ROU
+267439,Teodora Kostovic,SRB
+269259,Victoria Luiza Barros,BRA

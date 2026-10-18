@@ -1,0 +1,232 @@
+season,slam,player_id,order
+1968,Australian Open,200190,1
+1968,Roland Garros,200829,1
+1968,US Open,200237,1
+1968,Wimbledon,200190,1
+1969,Australian Open,200144,1
+1969,Roland Garros,200144,1
+1969,US Open,200144,1
+1969,Wimbledon,200193,1
+1970,Australian Open,200144,1
+1970,Roland Garros,200144,1
+1970,US Open,200144,1
+1970,Wimbledon,200144,1
+1971,Australian Open,200144,1
+1971,Roland Garros,200150,1
+1971,US Open,200190,1
+1971,Wimbledon,200150,1
+1972,Australian Open,200237,1
+1972,Roland Garros,200190,1
+1972,US Open,200190,1
+1972,Wimbledon,200190,1
+1973,Australian Open,200144,1
+1973,Roland Garros,200144,1
+1973,US Open,200144,1
+1973,Wimbledon,200190,1
+1974,Australian Open,200150,1
+1974,Roland Garros,200259,1
+1974,US Open,200190,1
+1974,Wimbledon,200259,1
+1975,Australian Open,200150,1
+1975,Roland Garros,200259,1
+1975,US Open,200259,1
+1975,Wimbledon,200190,1
+1976,Australian Open,200150,1
+1976,Roland Garros,200266,1
+1976,US Open,200259,1
+1976,Wimbledon,200259,1
+1977,Australian Open,200176,1
+1977,Australian Open,200150,2
+1977,Roland Garros,200371,1
+1977,US Open,200259,1
+1977,Wimbledon,200237,1
+1978,Australian Open,200256,1
+1978,Roland Garros,200337,1
+1978,US Open,200259,1
+1978,Wimbledon,200293,1
+1979,Australian Open,200344,1
+1979,Roland Garros,200259,1
+1979,US Open,200397,1
+1979,Wimbledon,200293,1
+1980,Australian Open,200348,1
+1980,Roland Garros,200259,1
+1980,US Open,200259,1
+1980,Wimbledon,200150,1
+1981,Australian Open,200293,1
+1981,Roland Garros,200348,1
+1981,US Open,200397,1
+1981,Wimbledon,200259,1
+1982,Australian Open,200259,1
+1982,Roland Garros,200293,1
+1982,US Open,200259,1
+1982,Wimbledon,200293,1
+1983,Australian Open,200293,1
+1983,Roland Garros,200259,1
+1983,US Open,200293,1
+1983,Wimbledon,200293,1
+1984,Australian Open,200259,1
+1984,Roland Garros,200293,1
+1984,US Open,200293,1
+1984,Wimbledon,200293,1
+1985,Australian Open,200293,1
+1985,Roland Garros,200259,1
+1985,US Open,200348,1
+1985,Wimbledon,200293,1
+1986,Roland Garros,200259,1
+1986,US Open,200293,1
+1986,Wimbledon,200293,1
+1987,Australian Open,200348,1
+1987,Roland Garros,200414,1
+1987,US Open,200293,1
+1987,Wimbledon,200293,1
+1988,Australian Open,200414,1
+1988,Roland Garros,200414,1
+1988,US Open,200414,1
+1988,Wimbledon,200414,1
+1989,Australian Open,200414,1
+1989,Roland Garros,200017,1
+1989,US Open,200414,1
+1989,Wimbledon,200414,1
+1990,Australian Open,200414,1
+1990,Roland Garros,200652,1
+1990,US Open,200572,1
+1990,Wimbledon,200293,1
+1991,Australian Open,200652,1
+1991,Roland Garros,200652,1
+1991,US Open,200652,1
+1991,Wimbledon,200414,1
+1992,Australian Open,200652,1
+1992,Roland Garros,200652,1
+1992,US Open,200652,1
+1992,Wimbledon,200414,1
+1993,Australian Open,200652,1
+1993,Roland Garros,200414,1
+1993,US Open,200414,1
+1993,Wimbledon,200414,1
+1994,Australian Open,200414,1
+1994,Roland Garros,200017,1
+1994,US Open,200017,1
+1994,Wimbledon,200049,1
+1995,Australian Open,200096,1
+1995,Roland Garros,200414,1
+1995,US Open,200414,1
+1995,Wimbledon,200414,1
+1996,Australian Open,200652,1
+1996,Roland Garros,200414,1
+1996,US Open,200414,1
+1996,Wimbledon,200414,1
+1997,Australian Open,200001,1
+1997,Roland Garros,200723,1
+1997,US Open,200001,1
+1997,Wimbledon,200001,1
+1998,Australian Open,200001,1
+1998,Roland Garros,200017,1
+1998,US Open,200128,1
+1998,Wimbledon,200539,1
+1999,Australian Open,200001,1
+1999,Roland Garros,200414,1
+1999,US Open,200033,1
+1999,Wimbledon,200128,1
+2000,Australian Open,200128,1
+2000,Roland Garros,200096,1
+2000,US Open,200748,1
+2000,Wimbledon,200748,1
+2001,Australian Open,200077,1
+2001,Roland Garros,200077,1
+2001,US Open,200748,1
+2001,Wimbledon,200748,1
+2002,Australian Open,200077,1
+2002,Roland Garros,200033,1
+2002,US Open,200033,1
+2002,Wimbledon,200033,1
+2003,Australian Open,200033,1
+2003,Roland Garros,200003,1
+2003,US Open,200003,1
+2003,Wimbledon,200033,1
+2004,Australian Open,200003,1
+2004,Roland Garros,200772,1
+2004,US Open,201320,1
+2004,Wimbledon,201345,1
+2005,Australian Open,200033,1
+2005,Roland Garros,200003,1
+2005,US Open,200079,1
+2005,Wimbledon,200748,1
+2006,Australian Open,200065,1
+2006,Roland Garros,200003,1
+2006,US Open,201345,1
+2006,Wimbledon,200065,1
+2007,Australian Open,200033,1
+2007,Roland Garros,200003,1
+2007,US Open,200003,1
+2007,Wimbledon,200748,1
+2008,Australian Open,201345,1
+2008,Roland Garros,201421,1
+2008,US Open,200033,1
+2008,Wimbledon,200748,1
+2009,Australian Open,200033,1
+2009,Roland Garros,201320,1
+2009,US Open,200079,1
+2009,Wimbledon,200033,1
+2010,Australian Open,200033,1
+2010,Roland Garros,201212,1
+2010,US Open,200079,1
+2010,Wimbledon,200033,1
+2011,Australian Open,200079,1
+2011,Roland Garros,201419,1
+2011,US Open,201325,1
+2011,Wimbledon,201520,1
+2012,Australian Open,201458,1
+2012,Roland Garros,201345,1
+2012,US Open,200033,1
+2012,Wimbledon,200033,1
+2013,Australian Open,201458,1
+2013,Roland Garros,200033,1
+2013,US Open,200033,1
+2013,Wimbledon,201294,1
+2014,Australian Open,201419,1
+2014,Roland Garros,201345,1
+2014,US Open,200033,1
+2014,Wimbledon,201520,1
+2015,Australian Open,200033,1
+2015,Roland Garros,200033,1
+2015,US Open,201355,1
+2015,Wimbledon,200033,1
+2016,Australian Open,201493,1
+2016,Roland Garros,202469,1
+2016,US Open,201493,1
+2016,Wimbledon,200033,1
+2017,Australian Open,200033,1
+2017,Roland Garros,211533,1
+2017,US Open,201585,1
+2017,Wimbledon,202469,1
+2018,Australian Open,201496,1
+2018,Roland Garros,201594,1
+2018,US Open,211768,1
+2018,Wimbledon,201493,1
+2019,Australian Open,211768,1
+2019,Roland Garros,202458,1
+2019,US Open,215370,1
+2019,Wimbledon,201594,1
+2020,Australian Open,213550,1
+2020,Roland Garros,216347,1
+2020,US Open,211768,1
+2021,Australian Open,211768,1
+2021,Roland Garros,206252,1
+2021,US Open,221054,1
+2021,Wimbledon,202458,1
+2022,Australian Open,202458,1
+2022,Roland Garros,216347,1
+2022,US Open,216347,1
+2022,Wimbledon,214981,1
+2023,Australian Open,214544,1
+2023,Roland Garros,216347,1
+2023,US Open,221103,1
+2023,Wimbledon,214954,1
+2024,Australian Open,214544,1
+2024,Roland Garros,216347,1
+2024,US Open,214544,1
+2024,Wimbledon,206252,1
+2025,Australian Open,201619,1
+2025,Roland Garros,221103,1
+2025,US Open,214544,1
+2025,Wimbledon,216347,1

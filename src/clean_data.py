@@ -24,7 +24,10 @@ NAME_FIXES = {
 EXCLUDED_LEVELS = {"D", "O"}
 TEAM_COMPETITIONS = {
     "World Team Cup", "World Team Championship",
-    "ATP Cup", "United Cup", "Laver Cup",
+    "ATP Cup", "United Cup", "Laver Cup",  "Nations Cup",
+    "WCT Aetna World Cup",
+    "WCT World Cup",
+    "Seoul Olympics",
 }
 
 # Coding glitches: (tournament, season, wrong level, right level)

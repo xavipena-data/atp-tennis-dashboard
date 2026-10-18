@@ -2,7 +2,7 @@
 
 An interactive dashboard on professional tennis from 1968 to 2025, covering both the ATP and WTA tours. It is a single self-contained HTML file: no server, no install, just open it in a browser.
 
-**[Live demo](https://xavipena-data.github.io/atp-tennis-dashboard/dashboard/)**
+**[Live demo](https://xavipena.com/atp-tennis-dashboard/dashboard/)**
 
 ![Overview](docs/images/01-overview.png)
 

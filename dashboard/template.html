@@ -260,6 +260,15 @@ button, select { font: inherit; color: inherit; }
 .grow .nm { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-weight: 500; padding-left: 4px; }
 .grow:not(.axis):hover .nm { text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; text-decoration-thickness: 2px; }
 .grow .val { font: 600 13px var(--font-display); text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+/* narrow screens: name on its own line, chart across the full card width */
+.dots.stack .drow, .dots.stack .grow { grid-template-columns: minmax(0, 1fr); gap: 2px; min-height: 0; padding: 7px 0 3px; border-radius: 0; border-bottom: 1px solid #F1F1EC; }
+.dots.stack .grow { grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: "nm val" "svg svg"; column-gap: 10px; }
+.dots.stack .grow .nm { grid-area: nm; }
+.dots.stack .grow .val { grid-area: val; }
+.dots.stack .grow svg { grid-area: svg; }
+.dots.stack .drow .nm, .dots.stack .grow .nm { padding-left: 0; }
+.dots.stack .axis { border-bottom: 0; padding: 4px 0 0; grid-template-columns: minmax(0, 1fr); grid-template-areas: none; }
+.dots.stack .grow.axis svg { grid-area: auto; }
 .yegrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(142px, 1fr)); gap: 8px; }
 .ye { border: 1px solid var(--line); border-top: 3px solid var(--line); border-radius: 8px; padding: 8px 10px; display: grid; gap: 3px; font-size: 13px; white-space: nowrap; }
 .ye .yr { font: 600 11px var(--font-body); color: var(--muted); letter-spacing: .06em; }
@@ -1417,14 +1426,14 @@ button, select { font: inherit; color: inherit; }
         top.map(t => [t.p.n, String(t.p.total)].concat(SURF.map((s, i) => rate(t.p, i)), t.spread >= 0 ? String(Math.round(t.spread * 100)) : '–'))));
       return;
     }
-    const W = Math.max(300, body.clientWidth), labelW = W < 560 ? 118 : 206, gap = 12, plotW = Math.max(120, W - labelW - gap), pad = 10;
+    const W = Math.max(300, body.clientWidth), stack = W < 480, labelW = stack ? 0 : (W < 560 ? 118 : 206), gap = stack ? 0 : 12, plotW = Math.max(120, W - labelW - gap), pad = 10;
     const rates = [].concat.apply([], top.map(t => t.pts.map(q => q.r * 100)));
     let lo = rates.length ? Math.floor((Math.min.apply(null, rates) - 3) / 10) * 10 : 40;
     let hi = rates.length ? Math.ceil((Math.max.apply(null, rates) + 3) / 10) * 10 : 100;
     lo = Math.max(0, lo); hi = Math.min(100, hi); if (hi - lo < 30) lo = Math.max(0, hi - 30);
     const sx = v => pad + (v - lo) / (hi - lo) * (plotW - 2 * pad);
     const ticks = []; for (let v = lo; v <= hi; v += 10) ticks.push(v);
-    const wrap = el('div', 'dots'); wrap.style.setProperty('--lw', labelW + 'px');
+    const wrap = el('div', 'dots' + (stack ? ' stack' : '')); wrap.style.setProperty('--lw', labelW + 'px');
     top.forEach(t => {
       const row = el('div', 'drow');
       const svg = sv('svg', { width: plotW, height: 32, viewBox: '0 0 ' + plotW + ' 32', role: 'img', 'aria-label': t.p.n + ': win rate by surface' });
@@ -1446,7 +1455,7 @@ button, select { font: inherit; color: inherit; }
       hover(row, t.p.n, tipRows, () => { if (line) line.setAttribute('stroke', '#F5C518'); }, () => { if (line) line.setAttribute('stroke', '#BDBDB5'); });
       wrap.append(row);
     });
-    const ax = el('div', 'drow axis'); ax.append(el('span'));
+    const ax = el('div', 'drow axis'); if (!stack) ax.append(el('span'));
     const asv = sv('svg', { width: plotW, height: 22, viewBox: '0 0 ' + plotW + ' 22', 'aria-hidden': 'true' });
     ticks.forEach(v => { const tx = sv('text', { x: sx(v), y: 14, 'text-anchor': 'middle', class: 'ax' }); tx.textContent = v + '%'; asv.append(tx); });
     ax.append(asv); wrap.append(ax);
@@ -1962,11 +1971,11 @@ button, select { font: inherit; color: inherit; }
         rows.slice().sort((a, b) => b.weeks - a.weeks).map(o => { const f = o.runs[0], l = o.runs[o.runs.length - 1]; return [o.n, String(o.runs.length), String(Math.round(o.weeks)), dLabel(f.S), dLabel(l.E - 864e5)]; })));
       return;
     }
-    const W = Math.max(300, body.clientWidth), labelW = W < 560 ? 118 : 206, wkW = 52, gap = 12, plotW = Math.max(120, W - labelW - wkW - 2 * gap), pad = 8;
+    const W = Math.max(300, body.clientWidth), stack = W < 480, labelW = stack ? 0 : (W < 560 ? 118 : 206), wkW = stack ? 0 : 52, gap = stack ? 0 : 12, plotW = Math.max(120, W - labelW - wkW - 2 * gap), pad = 8;
     const a = Math.max(state.from, RANK_FROM), b = state.to + 1, sx = t => pad + (t - a) / (b - a) * (plotW - 2 * pad);
     const step = [1, 2, 5, 10].find(k => (plotW - 2 * pad) / (b - a) * k >= 44) || 10, ticks = [];
     for (let y = Math.ceil(a / step) * step; y < b; y += step) ticks.push(y);
-    const wrap = el('div', 'dots'); wrap.style.setProperty('--lw', labelW + 'px');
+    const wrap = el('div', 'dots' + (stack ? ' stack' : '')); wrap.style.setProperty('--lw', labelW + 'px');
     rows.forEach(o => {
       const row = el('div', 'grow'), svg = sv('svg', { width: plotW, height: 28, viewBox: '0 0 ' + plotW + ' 28', role: 'img', 'aria-label': o.n + ': stints as world No. 1' });
       ticks.forEach(y => svg.append(sv('line', { x1: sx(y), x2: sx(y), y1: 0, y2: 28, stroke: '#ECECE7', 'stroke-width': 1 })));
@@ -1978,10 +1987,10 @@ button, select { font: inherit; color: inherit; }
       hover(row, o.n, tipRows, () => bars.forEach(r => r.setAttribute('fill', '#F5C518')), () => bars.forEach(r => r.setAttribute('fill', '#2B2B28')));
       wrap.append(row);
     });
-    const ax = el('div', 'grow axis'); ax.append(el('span'));
+    const ax = el('div', 'grow axis'); if (!stack) ax.append(el('span'));
     const asv = sv('svg', { width: plotW, height: 22, viewBox: '0 0 ' + plotW + ' 22', 'aria-hidden': 'true' });
     ticks.forEach(y => { const t = sv('text', { x: sx(y), y: 14, 'text-anchor': 'middle', class: 'ax' }); t.textContent = y; asv.append(t); });
-    ax.append(asv, el('span')); wrap.append(ax); body.append(wrap);
+    ax.append(asv); if (!stack) ax.append(el('span')); wrap.append(ax); body.append(wrap);
   }
 
   function renderYearEnd() {
